@@ -1,38 +1,52 @@
-# Social Media Ad Recommender
+# Digital Distraction Analyzer
 
 ## Overview
 
-Social Media Ad Recommender is an advanced data analytics project designed for the ESI 4611: Advanced Data Analytics course (Spring 2025) at the University of Florida. This project aims to analyze user behavior from the Social Media and Entertainment Dataset (Kaggle) to understand how social media and entertainment consumption impact digital engagement, well-being, and advertisement interactions. By applying clustering techniques and predictive modeling, we seek to categorize users and build a recommendation system that forecasts advertisement interaction trends, thus enabling advertisers to target their campaigns more effectively.
+**Digital Distraction Analyzer** is a data analytics project developed for the **ESI 4611: Advanced Data Analytics** course (Spring 2025) at the University of Florida. This project explores the behavioral patterns of social media users to uncover how excessive screen time affects productivity, satisfaction, and digital well-being. 
+
+Using the **“Time-Wasters on Social Media”** synthetic dataset from Kaggle, we apply clustering, classification, regression, and tree-based models to uncover insights, predict user addiction levels, and provide strategic recommendations to reduce productivity loss.
 
 ## Problem Statement
 
-Social media and entertainment consumption have a significant influence on users’ habits and overall well-being. Advertisers face challenges in effectively targeting their campaigns due to the complexity and variety of user behavior data. Our project addresses this challenge by:
-- Analyzing a comprehensive dataset containing over 300,000 synthetic data points.
-- Clustering algorithms used to segment users based on demographics and behavior.
-- Developing a predictive model to forecast advertisement interaction trends for different user groups.
+Social media has become a major source of entertainment, procrastination, and even addiction. With so much time spent on digital platforms, individuals experience varying levels of productivity loss, satisfaction, and behavioral shifts. Understanding these patterns can help inform wellness strategies and potentially guide product development or digital wellness tools.
+
+This project investigates:
+- Behavioral traits linked to digital overuse and loss of self-control.
+- Differences in social media engagement across demographics.
+- Predictive factors that drive productivity loss or addiction.
+- Strategies for mitigating negative impacts of excessive screen time.
 
 ## Objectives and Scope
 
-- **Objectives:**
-  - Clean and preprocess the Social Media and Entertainment Dataset.
-  - Apply clustering algorithms to categorize users by demographics and usage patterns.
-  - Develop a predictive model to identify which user groups are most likely to interact with specific types of advertisements.
-  - Design and implement a recommendation system for improved ad targeting.
-  - **[Additional objectives to be added]**
+### Objectives:
+- Clean and preprocess the **Time-Wasters on Social Media** dataset.
+- Apply clustering algorithms to group users by digital behavior patterns.
+- Build classification and regression models to predict:
+  - Productivity loss  
+  - Addiction level  
+  - Satisfaction and engagement scores
+- Use tree-based models to analyze feature importance.
+- Explore simple neural network models (stretch goal).
+- Design a basic recommendation system to provide personalized digital wellness suggestions.
 
-- **Scope:**
-  - Analyze synthetic data from the Kaggle Social Media and Entertainment Dataset.
-  - Examine key metrics such as quality sleep, social well-being, physical activity, and tech savviness across different regions.
-  - **[Further scope details to be defined]**
+### Scope:
+- Work with a synthetic dataset containing 1,000 diverse user profiles.
+- Analyze variables including:
+  - Demographics (age, gender, profession, income, location)
+  - Platform usage (time spent, frequency, scroll rate, device type)
+  - Psychological traits (self-control, addiction level, satisfaction)
+  - Engagement context (watch time, current activity, watch reason)
+- Test and compare multiple machine learning models.
+- Produce visual insights, behavior profiles, and user recommendations.
 
-## Technology Stack [WIP]
+## Technology Stack
 
 - **Programming Language:** Python
-- **Data Processing and Analysis:** Pandas, NumPy
-- **Machine Learning & Clustering:** scikit-learn, [Other ML libraries if applicable]
+- **Data Processing & Analysis:** Pandas, NumPy
+- **Machine Learning & Clustering:** scikit-learn, Keras/TensorFlow (for NN)
 - **Visualization:** Matplotlib, Seaborn, Plotly
-- **Development Environment:** Jupyter Notebook / IDE of your choice
-- **Deployment:** [Add details if any deployment or reporting is required]
+- **Development Environment:** Jupyter Notebook or IDE of choice
+- **Version Control:** Git, GitHub
 
 ## Installation Instructions
 
@@ -42,9 +56,9 @@ Social media and entertainment consumption have a significant influence on users
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/social-ad-recommender.git
-   cd social-ad-recommender
-   ```
+   git clone https://github.com/yourusername/digital-distraction-analyzer.git
+   cd digital-distraction-analyzer
+
 3. **Set Up the Python Environment:**
    ```bash
    python -m venv venv
