@@ -1,0 +1,1001 @@
+UserID,Age,Gender,Location,Income,Debt,Owns Property,Profession,Demographics,Platform,Total Time Spent,Number of Sessions,Video ID,Video Category,Video Length,Engagement,Importance Score,Time Spent On Video,Number of Videos Watched,Scroll Rate,Frequency,ProductivityLoss,Satisfaction,Watch Reason,DeviceType,OS,Watch Time,Self Control,Addiction Level,CurrentActivity,ConnectionType,Watch Hour,Time per Session,Engagement Efficiency,Videos per Session,Video Consumption Ratio,Time of Day
+1,56,Male,Pakistan,82812,1,1,Engineer,Rural,Instagram,80,17,4229,Pranks,24,7867,5,26,22,87,Night,3,7,Procrastination,Smartphone,Android,21:00:00,5,5,Commuting,Mobile Data,21,4.71,98.338,1.29,0.325,Night
+2,46,Female,Mexico,27999,0,1,Artist,Urban,Instagram,228,14,2131,Pranks,19,5944,6,25,31,46,Afternoon,5,5,Habit,Computer,Android,17:00:00,7,3,At School,Wi-Fi,17,16.29,26.07,2.21,0.11,Evening
+3,32,Female,United States,42436,0,1,Engineer,Rural,Facebook,30,6,4367,Vlogs,19,8674,3,9,7,88,Evening,6,4,Entertainment,Tablet,Android,14:00:00,8,2,At Home,Mobile Data,14,5.0,289.133,1.17,0.3,Afternoon
+4,60,Male,Brazil,62963,1,0,Waiting Staff,Rural,Youtube,101,19,1507,Vlogs,4,2477,2,6,41,93,Night,3,7,Habit,Smartphone,Android,21:00:00,5,5,Commuting,Mobile Data,21,5.32,24.525,2.16,0.059,Night
+5,25,Male,Pakistan,22096,0,1,Manager,Urban,Tiktok,136,6,2159,Gaming,19,3093,7,13,21,4,Morning,8,2,Boredom,Smartphone,Ios,08:00:00,10,0,At Home,Mobile Data,8,22.67,22.743,3.5,0.096,Morning
+6,38,Male,Vietnam,45279,0,0,Driver,Urban,Instagram,89,18,2917,Jokes/Memes,9,8534,5,27,16,38,Night,3,7,Entertainment,Computer,Android,21:00:00,5,5,At Home,Wi-Fi,21,4.94,95.888,0.89,0.303,Night
+7,56,Male,India,46201,0,0,Students,Rural,Tiktok,247,5,3230,Vlogs,16,7207,9,22,20,63,Morning,8,2,Habit,Smartphone,Android,08:00:00,10,0,At School,Wi-Fi,8,49.4,29.178,4.0,0.089,Morning
+8,36,Male,Brazil,39715,0,0,Engineer,Rural,Instagram,191,6,9859,Entertainment,27,9654,3,28,43,29,Night,3,7,Entertainment,Tablet,Android,21:00:00,5,5,At Home,Mobile Data,21,31.83,50.545,7.17,0.147,Night
+9,40,Male,United States,49309,0,0,Waiting Staff,Rural,Instagram,34,2,6266,Vlogs,4,9394,8,20,44,19,Night,3,7,Entertainment,Computer,Android,21:00:00,5,5,At Home,Mobile Data,21,17.0,276.294,22.0,0.588,Night
+10,28,Other,United States,35078,0,0,Students,Rural,Youtube,165,8,4137,Asmr,6,9813,6,4,47,91,Evening,6,4,Boredom,Smartphone,Ios,14:00:00,8,2,At Home,Mobile Data,14,20.62,59.473,5.88,0.024,Afternoon
+11,28,Male,Indonesia,76614,1,1,Manager,Rural,Instagram,14,15,2690,Pranks,8,6227,4,2,19,29,Afternoon,5,5,Boredom,Smartphone,Android,17:00:00,7,3,At Home,Mobile Data,17,0.93,444.786,1.27,0.143,Evening
+12,41,Other,Philippines,25105,0,0,Labor/Worker,Urban,Tiktok,129,15,7191,Life Hacks,27,3535,9,26,48,35,Evening,6,4,Habit,Tablet,Android,14:00:00,8,2,At Home,Wi-Fi,14,8.6,27.403,3.2,0.202,Afternoon
+13,53,Male,Japan,22839,0,0,Waiting Staff,Rural,Instagram,286,11,2811,Gaming,29,7004,5,4,32,70,Afternoon,5,5,Habit,Smartphone,Android,17:00:00,7,3,At School,Mobile Data,17,26.0,24.49,2.91,0.014,Evening
+14,57,Male,Indonesia,88920,1,1,Waiting Staff,Rural,Facebook,27,1,6153,Vlogs,24,2913,6,8,15,23,Evening,6,4,Entertainment,Tablet,Android,14:00:00,8,2,Commuting,Wi-Fi,14,27.0,107.889,15.0,0.296,Afternoon
+15,41,Other,Vietnam,63619,1,1,Cashier,Rural,Youtube,207,18,13,Gaming,16,9381,9,13,5,46,Evening,6,4,Boredom,Tablet,Ios,14:00:00,8,2,At School,Wi-Fi,14,11.5,45.319,0.28,0.063,Afternoon
+16,20,Female,Philippines,62821,1,1,Students,Rural,Youtube,66,12,5939,Entertainment,5,2340,7,10,11,44,Evening,6,4,Entertainment,Smartphone,Macos,14:00:00,8,2,At School,Mobile Data,14,5.5,35.455,0.92,0.152,Afternoon
+17,39,Female,Mexico,33493,0,0,Waiting Staff,Rural,Facebook,102,12,8000,Asmr,21,9795,5,18,15,48,Afternoon,5,5,Habit,Smartphone,Ios,17:00:00,7,3,At Home,Wi-Fi,17,8.5,96.029,1.25,0.176,Evening
+18,19,Female,Brazil,37069,0,0,Students,Rural,Facebook,28,11,7220,Asmr,22,5289,2,9,29,52,Evening,6,4,Habit,Smartphone,Windows,14:00:00,8,2,At Home,Mobile Data,14,2.55,188.893,2.64,0.321,Afternoon
+19,41,Other,Japan,27531,0,0,Labor/Worker,Rural,Facebook,202,8,5329,Pranks,10,597,4,1,45,8,Evening,6,4,Entertainment,Smartphone,Ios,14:00:00,8,2,At Work,Mobile Data,14,25.25,2.955,5.62,0.005,Afternoon
+20,61,Male,United States,57051,1,1,Labor/Worker,Urban,Instagram,246,7,3622,Vlogs,23,8836,2,13,4,55,Morning,8,2,Habit,Smartphone,Macos,08:00:00,10,0,At Work,Mobile Data,8,35.14,35.919,0.57,0.053,Morning
+21,47,Male,India,27736,0,0,Waiting Staff,Rural,Youtube,286,2,3684,Vlogs,13,7145,3,18,49,66,Afternoon,5,5,Habit,Tablet,Ios,17:00:00,7,3,Commuting,Mobile Data,17,143.0,24.983,24.5,0.063,Evening
+22,55,Male,Brazil,27710,0,0,Driver,Rural,Facebook,236,11,7873,Entertainment,29,2902,3,15,36,77,Afternoon,5,5,Boredom,Computer,Android,17:00:00,7,3,Commuting,Mobile Data,17,21.45,12.297,3.27,0.064,Evening
+23,19,Female,Indonesia,87155,1,0,Students,Rural,Instagram,242,10,5311,Entertainment,26,6645,4,2,48,40,Night,3,7,Boredom,Smartphone,Android,21:00:00,5,5,At Work,Mobile Data,21,24.2,27.459,4.8,0.008,Night
+24,38,Female,India,33975,0,0,Waiting Staff,Urban,Facebook,49,3,653,Pranks,14,8955,6,11,23,85,Evening,6,4,Habit,Smartphone,Ios,14:00:00,8,2,At Home,Mobile Data,14,16.33,182.755,7.67,0.224,Afternoon
+25,50,Male,Germany,82424,1,1,Waiting Staff,Rural,Tiktok,162,10,5800,Jokes/Memes,7,7694,3,29,15,31,Evening,6,4,Boredom,Smartphone,Android,14:00:00,8,2,At Home,Mobile Data,14,16.2,47.494,1.5,0.179,Afternoon
+26,29,Male,Japan,65603,1,0,Labor/Worker,Urban,Tiktok,136,18,8813,Jokes/Memes,29,4830,1,14,46,48,Afternoon,5,5,Entertainment,Smartphone,Android,17:00:00,7,3,At School,Wi-Fi,17,7.56,35.515,2.56,0.103,Evening
+27,39,Male,Japan,43252,0,1,Students,Rural,Youtube,246,14,3791,Gaming,20,7546,1,22,44,61,Evening,6,4,Habit,Smartphone,Android,14:00:00,8,2,Commuting,Mobile Data,14,17.57,30.675,3.14,0.089,Afternoon
+28,61,Other,Vietnam,21431,0,0,Manager,Urban,Instagram,64,18,1646,Life Hacks,6,7368,9,15,3,52,Night,3,7,Habit,Smartphone,Ios,21:00:00,5,5,At Home,Wi-Fi,21,3.56,115.125,0.17,0.234,Night
+29,42,Female,India,94603,1,1,Labor/Worker,Rural,Tiktok,181,8,4513,Entertainment,7,9834,9,14,32,38,Evening,6,4,Boredom,Smartphone,Macos,14:00:00,8,2,At Work,Mobile Data,14,22.62,54.331,4.0,0.077,Afternoon
+30,44,Male,India,57481,1,0,Driver,Urban,Tiktok,118,10,4760,Pranks,5,2160,5,16,10,91,Evening,6,4,Entertainment,Smartphone,Android,14:00:00,8,2,At Home,Wi-Fi,14,11.8,18.305,1.0,0.136,Afternoon
+31,59,Male,United States,29557,0,1,Driver,Rural,Instagram,193,13,5875,Pranks,21,5878,9,23,40,36,Morning,8,2,Habit,Smartphone,Ios,08:00:00,10,0,At School,Wi-Fi,8,14.85,30.456,3.08,0.119,Morning
+32,45,Male,United States,94971,1,0,Students,Rural,Facebook,207,8,3689,Jokes/Memes,18,7663,7,29,38,87,Afternoon,5,5,Habit,Smartphone,Android,17:00:00,7,3,At Home,Mobile Data,17,25.88,37.019,4.75,0.14,Evening
+33,33,Male,India,20162,0,1,Labor/Worker,Rural,Instagram,96,4,7690,Trends,23,3749,9,15,22,55,Night,3,7,Boredom,Tablet,Ios,21:00:00,5,5,Commuting,Mobile Data,21,24.0,39.052,5.5,0.156,Night
+34,32,Other,Mexico,54742,1,0,Waiting Staff,Rural,Facebook,210,4,1380,Trends,12,2922,7,19,14,85,Evening,6,4,Entertainment,Smartphone,Android,14:00:00,8,2,At Work,Mobile Data,14,52.5,13.914,3.5,0.09,Afternoon
+35,64,Female,Vietnam,39675,0,1,Students,Rural,Tiktok,284,5,4244,Entertainment,6,6486,9,27,17,13,Evening,6,4,Entertainment,Tablet,Ios,14:00:00,8,2,At School,Mobile Data,14,56.8,22.838,3.4,0.095,Afternoon
+36,61,Other,Mexico,93997,1,0,Students,Urban,Tiktok,220,1,9581,Jokes/Memes,27,8112,2,9,21,37,Night,3,7,Procrastination,Smartphone,Android,21:00:00,5,5,At Home,Wi-Fi,21,220.0,36.873,21.0,0.041,Night
+37,20,Male,United States,37015,0,1,Labor/Worker,Rural,Tiktok,127,17,6508,Entertainment,1,8771,8,5,48,47,Night,3,7,Entertainment,Tablet,Android,21:00:00,5,5,At Home,Mobile Data,21,7.47,69.063,2.82,0.039,Night
+38,54,Male,Philippines,70057,1,0,Students,Urban,Youtube,200,2,7820,Jokes/Memes,4,3804,7,5,15,90,Afternoon,5,5,Boredom,Smartphone,Ios,17:00:00,7,3,At School,Wi-Fi,17,100.0,19.02,7.5,0.025,Evening
+39,24,Male,Brazil,52591,1,1,Cashier,Rural,Youtube,51,8,8594,Jokes/Memes,19,4878,6,11,15,71,Night,3,7,Habit,Smartphone,Android,21:00:00,5,5,At Home,Mobile Data,21,6.38,95.647,1.88,0.216,Night
+40,38,Male,Germany,29833,0,0,Students,Rural,Youtube,51,7,2654,Asmr,12,2368,5,28,1,22,Afternoon,5,5,Boredom,Tablet,Android,17:00:00,7,3,Commuting,Mobile Data,17,7.29,46.431,0.14,0.549,Evening
+41,26,Male,Pakistan,27896,0,1,Waiting Staff,Urban,Instagram,285,15,5612,Comedy,15,8093,4,20,24,39,Evening,6,4,Boredom,Smartphone,Android,14:00:00,8,2,At Work,Mobile Data,14,19.0,28.396,1.6,0.07,Afternoon
+42,56,Male,India,52972,1,0,Students,Urban,Tiktok,26,5,6128,Asmr,3,3932,7,25,12,87,Evening,6,4,Habit,Smartphone,Android,14:00:00,8,2,At School,Mobile Data,14,5.2,151.231,2.4,0.962,Afternoon
+43,35,Other,Indonesia,69733,1,1,Cashier,Rural,Tiktok,292,2,3924,Life Hacks,23,5608,3,24,10,58,Morning,8,2,Entertainment,Tablet,Macos,08:00:00,10,0,At Home,Mobile Data,8,146.0,19.205,5.0,0.082,Morning
+44,21,Female,Pakistan,61800,1,0,Waiting Staff,Rural,Instagram,267,7,8460,Gaming,27,6635,8,28,46,30,Night,3,7,Entertainment,Tablet,Windows,21:00:00,5,5,At School,Mobile Data,21,38.14,24.85,6.57,0.105,Night
+45,42,Other,Philippines,25347,0,1,Labor/Worker,Urban,Youtube,72,8,5913,Gaming,28,6395,2,4,42,18,Evening,6,4,Boredom,Smartphone,Ios,14:00:00,8,2,Commuting,Mobile Data,14,9.0,88.819,5.25,0.056,Afternoon
+46,31,Female,Pakistan,79063,1,0,Waiting Staff,Rural,Instagram,71,7,5131,Comedy,26,6101,1,20,42,18,Evening,6,4,Procrastination,Smartphone,Windows,14:00:00,8,2,At Home,Mobile Data,14,10.14,85.93,6.0,0.282,Afternoon
+47,26,Male,Vietnam,22643,0,1,Labor/Worker,Rural,Youtube,109,7,5440,Trends,20,9292,2,18,31,74,Afternoon,5,5,Procrastination,Smartphone,Macos,17:00:00,7,3,At School,Mobile Data,17,15.57,85.248,4.43,0.165,Evening
+48,43,Male,Japan,60785,1,1,Students,Rural,Tiktok,28,14,7881,Pranks,28,9862,9,25,11,39,Night,3,7,Entertainment,Tablet,Android,21:00:00,5,5,At Work,Mobile Data,21,2.0,352.214,0.79,0.893,Night
+49,19,Female,India,38681,0,1,Students,Rural,Facebook,26,18,6450,Trends,8,5531,5,3,16,94,Evening,6,4,Boredom,Tablet,Android,14:00:00,8,2,At School,Wi-Fi,14,1.44,212.731,0.89,0.115,Afternoon
+50,37,Male,United States,70026,1,1,Students,Urban,Youtube,255,6,1726,Life Hacks,11,4970,8,4,9,26,Afternoon,5,5,Procrastination,Smartphone,Ios,17:00:00,7,3,At Home,Mobile Data,17,42.5,19.49,1.5,0.016,Evening
+51,45,Female,United States,35892,0,0,Waiting Staff,Rural,Tiktok,260,4,9305,Entertainment,16,6344,3,14,47,71,Afternoon,5,5,Entertainment,Tablet,Windows,17:00:00,7,3,At Home,Wi-Fi,17,65.0,24.4,11.75,0.054,Evening
+52,64,Other,Mexico,67299,1,1,Driver,Rural,Tiktok,90,10,7523,Entertainment,9,8408,7,7,14,7,Evening,6,4,Entertainment,Tablet,Ios,14:00:00,8,2,At Home,Mobile Data,14,9.0,93.422,1.4,0.078,Afternoon
+53,24,Male,Germany,37073,0,0,Students,Rural,Facebook,48,18,4785,Pranks,3,375,2,26,19,69,Evening,6,4,Boredom,Tablet,Macos,14:00:00,8,2,Commuting,Mobile Data,14,2.67,7.812,1.06,0.542,Afternoon
+54,61,Male,Vietnam,50682,1,0,Driver,Rural,Tiktok,45,12,9473,Trends,5,7887,8,8,31,65,Afternoon,5,5,Procrastination,Computer,Android,17:00:00,7,3,At Work,Mobile Data,17,3.75,175.267,2.58,0.178,Evening
+55,25,Other,India,34289,0,0,Cashier,Rural,Tiktok,206,16,1233,Life Hacks,20,1609,7,24,9,46,Evening,6,4,Habit,Smartphone,Ios,14:00:00,8,2,At Home,Mobile Data,14,12.88,7.811,0.56,0.117,Afternoon
+56,64,Male,Japan,27927,0,0,Manager,Rural,Youtube,167,7,8809,Life Hacks,14,2939,5,16,36,18,Night,3,7,Boredom,Smartphone,Android,21:00:00,5,5,At Home,Wi-Fi,21,23.86,17.599,5.14,0.096,Night
+57,52,Male,Indonesia,68330,1,0,Labor/Worker,Rural,Youtube,213,6,8339,Jokes/Memes,28,4062,4,20,39,13,Afternoon,5,5,Entertainment,Smartphone,Android,17:00:00,7,3,At School,Mobile Data,17,35.5,19.07,6.5,0.094,Evening
+58,31,Male,United States,86707,1,1,Waiting Staff,Rural,Facebook,205,5,7447,Entertainment,26,1613,1,15,26,25,Afternoon,5,5,Habit,Smartphone,Android,17:00:00,7,3,At Home,Mobile Data,17,41.0,7.868,5.2,0.073,Evening
+59,34,Male,Vietnam,97454,1,0,Waiting Staff,Rural,Facebook,225,3,4617,Vlogs,15,6578,5,7,8,8,Night,3,7,Entertainment,Tablet,Android,21:00:00,5,5,At School,Mobile Data,21,75.0,29.236,2.67,0.031,Night
+60,53,Male,Japan,85428,1,0,Driver,Urban,Tiktok,294,12,4726,Life Hacks,6,7851,9,26,24,74,Night,3,7,Habit,Smartphone,Ios,21:00:00,5,5,At Home,Mobile Data,21,24.5,26.704,2.0,0.088,Night
+61,57,Female,Germany,70601,1,1,Driver,Rural,Youtube,205,15,3678,Entertainment,27,3679,4,17,8,32,Afternoon,5,5,Entertainment,Smartphone,Ios,17:00:00,7,3,At Home,Wi-Fi,17,13.67,17.946,0.53,0.083,Evening
+62,21,Other,United States,97465,1,1,Waiting Staff,Urban,Facebook,161,10,6288,Jokes/Memes,26,7540,9,22,19,17,Afternoon,5,5,Procrastination,Smartphone,Android,17:00:00,7,3,Commuting,Wi-Fi,17,16.1,46.832,1.9,0.137,Evening
+63,19,Male,United States,22539,0,1,Waiting Staff,Rural,Facebook,23,19,8481,Entertainment,4,9488,2,22,47,79,Evening,6,4,Habit,Computer,Android,14:00:00,8,2,At School,Mobile Data,14,1.21,412.522,2.47,0.957,Afternoon
+64,23,Male,Vietnam,42669,0,0,Students,Rural,Instagram,155,16,1410,Asmr,8,7074,4,22,48,79,Evening,6,4,Boredom,Computer,Ios,14:00:00,8,2,Commuting,Wi-Fi,14,9.69,45.639,3.0,0.142,Afternoon
+65,59,Male,United States,90968,1,0,Teacher,Rural,Facebook,66,11,8206,Life Hacks,19,3996,9,12,30,48,Afternoon,5,5,Entertainment,Smartphone,Android,17:00:00,7,3,At School,Mobile Data,17,6.0,60.545,2.73,0.182,Evening
+66,21,Other,India,40644,0,0,Teacher,Rural,Tiktok,220,8,257,Life Hacks,27,4786,4,18,22,63,Afternoon,5,5,Habit,Smartphone,Macos,17:00:00,7,3,At Home,Mobile Data,17,27.5,21.755,2.75,0.082,Evening
+67,46,Other,India,38745,0,1,Cashier,Rural,Youtube,277,3,1722,Gaming,5,5695,5,24,9,40,Evening,6,4,Boredom,Smartphone,Android,14:00:00,8,2,Commuting,Mobile Data,14,92.33,20.56,3.0,0.087,Afternoon
+68,35,Male,Mexico,48228,0,0,Students,Rural,Facebook,219,7,1424,Trends,13,9347,8,14,44,84,Evening,6,4,Boredom,Smartphone,Macos,14:00:00,8,2,At Home,Mobile Data,14,31.29,42.68,6.29,0.064,Afternoon
+69,43,Male,Vietnam,54521,1,0,Artist,Rural,Instagram,26,7,4954,Life Hacks,16,6998,1,15,48,15,Night,3,7,Habit,Smartphone,Macos,21:00:00,5,5,At Home,Wi-Fi,21,3.71,269.154,6.86,0.577,Night
+70,61,Female,Mexico,46928,0,0,Students,Rural,Youtube,295,14,2991,Gaming,1,2366,1,15,4,99,Evening,6,4,Habit,Computer,Android,14:00:00,8,2,At Home,Mobile Data,14,21.07,8.02,0.29,0.051,Afternoon
+71,51,Female,Vietnam,38322,0,0,Students,Rural,Facebook,212,2,1196,Pranks,13,6764,9,5,37,6,Afternoon,5,5,Entertainment,Tablet,Ios,17:00:00,7,3,At School,Mobile Data,17,106.0,31.906,18.5,0.024,Evening
+72,27,Male,Indonesia,77714,1,1,Labor/Worker,Urban,Instagram,108,10,4560,Life Hacks,22,8976,9,16,8,94,Night,3,7,Boredom,Smartphone,Windows,21:00:00,5,5,At Home,Wi-Fi,21,10.8,83.111,0.8,0.148,Night
+73,53,Male,Vietnam,82292,1,0,Engineer,Rural,Facebook,288,19,4366,Comedy,11,9273,4,5,1,63,Evening,6,4,Entertainment,Computer,Windows,14:00:00,8,2,At School,Mobile Data,14,15.16,32.198,0.05,0.017,Afternoon
+74,31,Female,Germany,49055,0,1,Waiting Staff,Urban,Youtube,218,9,1245,Jokes/Memes,21,1614,2,2,28,8,Night,3,7,Boredom,Smartphone,Android,21:00:00,5,5,At Home,Mobile Data,21,24.22,7.404,3.11,0.009,Night
+75,48,Other,Philippines,62891,1,0,Driver,Rural,Youtube,138,16,6767,Jokes/Memes,8,4555,9,20,6,95,Night,3,7,Procrastination,Computer,Macos,21:00:00,5,5,At School,Mobile Data,21,8.62,33.007,0.38,0.145,Night
+76,32,Male,United States,26588,0,1,Labor/Worker,Rural,Youtube,297,19,5303,Jokes/Memes,25,2416,4,28,47,32,Night,3,7,Habit,Smartphone,Android,21:00:00,5,5,At Home,Mobile Data,21,15.63,8.135,2.47,0.094,Night
+77,25,Female,India,26304,0,0,Driver,Rural,Tiktok,261,18,1307,Pranks,8,7288,6,25,36,45,Night,3,7,Procrastination,Smartphone,Android,21:00:00,5,5,Commuting,Wi-Fi,21,14.5,27.923,2.0,0.096,Night
+78,31,Male,India,27345,0,1,Labor/Worker,Rural,Facebook,274,9,2403,Life Hacks,24,6862,1,9,11,52,Afternoon,5,5,Procrastination,Tablet,Android,17:00:00,7,3,Commuting,Mobile Data,17,30.44,25.044,1.22,0.033,Evening
+79,40,Other,Japan,49300,0,0,Labor/Worker,Rural,Tiktok,280,16,497,Vlogs,28,3653,9,22,5,79,Evening,6,4,Boredom,Smartphone,Ios,14:00:00,8,2,At School,Wi-Fi,14,17.5,13.046,0.31,0.079,Afternoon
+80,57,Male,United States,44259,0,1,Driver,Rural,Youtube,197,13,3400,Jokes/Memes,14,6639,5,27,24,82,Night,3,7,Habit,Tablet,Windows,21:00:00,5,5,At School,Mobile Data,21,15.15,33.701,1.85,0.137,Night
+81,38,Male,United States,35352,0,0,Driver,Rural,Instagram,223,10,910,Gaming,13,496,3,9,47,13,Evening,6,4,Habit,Smartphone,Android,14:00:00,8,2,At Home,Mobile Data,14,22.3,2.224,4.7,0.04,Afternoon
+82,33,Male,Pakistan,53365,1,1,Labor/Worker,Urban,Facebook,292,14,373,Jokes/Memes,3,504,4,4,18,24,Afternoon,5,5,Entertainment,Smartphone,Android,17:00:00,7,3,At School,Mobile Data,17,20.86,1.726,1.29,0.014,Evening
+83,62,Male,Philippines,39446,0,0,Students,Rural,Tiktok,220,12,6237,Pranks,4,7699,1,15,20,40,Evening,6,4,Entertainment,Smartphone,Macos,14:00:00,8,2,Commuting,Mobile Data,14,18.33,34.995,1.67,0.068,Afternoon
+84,35,Male,India,22336,0,1,Waiting Staff,Urban,Facebook,85,19,1345,Entertainment,27,5733,9,11,28,14,Afternoon,5,5,Boredom,Smartphone,Android,17:00:00,7,3,At Work,Mobile Data,17,4.47,67.447,1.47,0.129,Evening
+85,64,Male,Brazil,82032,1,0,Labor/Worker,Urban,Instagram,157,7,8516,Jokes/Memes,20,8055,8,1,13,92,Night,3,7,Boredom,Tablet,Ios,21:00:00,5,5,At Home,Wi-Fi,21,22.43,51.306,1.86,0.006,Night
+86,41,Other,India,95415,1,1,Waiting Staff,Rural,Tiktok,222,15,2432,Life Hacks,15,3216,4,18,5,75,Night,3,7,Entertainment,Smartphone,Ios,21:00:00,5,5,At Home,Wi-Fi,21,14.8,14.486,0.33,0.081,Night
+87,43,Female,Indonesia,27521,0,0,Engineer,Rural,Youtube,118,16,4671,Trends,15,5688,2,29,30,70,Night,3,7,Habit,Computer,Ios,21:00:00,5,5,At Home,Wi-Fi,21,7.38,48.203,1.88,0.246,Night
+88,42,Other,United States,91707,1,1,Manager,Rural,Tiktok,138,8,2785,Life Hacks,27,9600,9,1,1,62,Night,3,7,Entertainment,Computer,Macos,21:00:00,5,5,At Home,Mobile Data,21,17.25,69.565,0.12,0.007,Night
+89,62,Female,United States,43481,0,0,Students,Rural,Facebook,19,10,9408,Jokes/Memes,21,4364,4,8,22,89,Night,3,7,Boredom,Smartphone,Macos,21:00:00,5,5,At Work,Mobile Data,21,1.9,229.684,2.2,0.421,Night
+90,58,Female,Germany,38474,0,1,Waiting Staff,Rural,Facebook,56,4,1696,Jokes/Memes,13,6042,9,25,18,61,Night,3,7,Entertainment,Smartphone,Android,21:00:00,5,5,At School,Wi-Fi,21,14.0,107.893,4.5,0.446,Night
+91,46,Male,United States,66760,1,0,Waiting Staff,Rural,Facebook,105,19,1908,Jokes/Memes,9,1477,3,16,46,1,Afternoon,5,5,Boredom,Tablet,Android,17:00:00,7,3,At School,Mobile Data,17,5.53,14.067,2.42,0.152,Evening
+92,32,Male,India,75718,1,1,Students,Rural,Facebook,112,19,4815,Jokes/Memes,28,4960,7,26,5,89,Night,3,7,Boredom,Smartphone,Ios,21:00:00,5,5,Commuting,Wi-Fi,21,5.89,44.286,0.26,0.232,Night
+93,62,Female,India,64629,1,0,Students,Rural,Youtube,155,15,781,Trends,25,2397,7,28,31,66,Night,3,7,Habit,Smartphone,Android,21:00:00,5,5,At School,Mobile Data,21,10.33,15.465,2.07,0.181,Night
+94,18,Male,India,65232,1,1,Driver,Rural,Tiktok,36,14,1020,Vlogs,10,8301,4,22,6,32,Night,3,7,Boredom,Tablet,Ios,21:00:00,5,5,At Work,Wi-Fi,21,2.57,230.583,0.43,0.611,Night
+95,42,Other,Vietnam,87169,1,1,Manager,Rural,Youtube,229,1,1404,Life Hacks,29,8841,2,18,27,13,Evening,6,4,Habit,Computer,Ios,14:00:00,8,2,At Work,Wi-Fi,14,229.0,38.607,27.0,0.079,Afternoon
+96,24,Other,Pakistan,70669,1,1,Students,Rural,Youtube,27,16,1427,Jokes/Memes,12,6194,9,22,25,33,Morning,8,2,Habit,Smartphone,Android,08:00:00,10,0,At Home,Wi-Fi,8,1.69,229.407,1.56,0.815,Morning
+97,26,Male,United States,98021,1,1,Students,Urban,Youtube,176,10,8856,Asmr,14,7570,4,9,29,32,Evening,6,4,Boredom,Smartphone,Ios,14:00:00,8,2,At Home,Wi-Fi,14,17.6,43.011,2.9,0.051,Afternoon
+98,41,Female,United States,89184,1,0,Waiting Staff,Urban,Facebook,91,19,5869,Jokes/Memes,1,7730,8,12,28,56,Afternoon,5,5,Entertainment,Tablet,Android,17:00:00,7,3,At Work,Mobile Data,17,4.79,84.945,1.47,0.132,Evening
+99,18,Male,India,67945,1,1,Engineer,Rural,Facebook,81,3,11,Asmr,14,1499,2,19,16,24,Night,3,7,Entertainment,Smartphone,Android,21:00:00,5,5,At Work,Wi-Fi,21,27.0,18.506,5.33,0.235,Night
+100,61,Female,Mexico,33140,0,0,Waiting Staff,Urban,Facebook,263,5,6331,Pranks,14,7235,8,25,12,91,Evening,6,4,Boredom,Tablet,Ios,14:00:00,8,2,At Home,Wi-Fi,14,52.6,27.51,2.4,0.095,Afternoon
+101,25,Male,Germany,34357,0,0,Engineer,Rural,Tiktok,171,9,9231,Vlogs,8,595,5,18,20,4,Afternoon,5,5,Boredom,Tablet,Android,17:00:00,7,3,At Work,Wi-Fi,17,19.0,3.48,2.22,0.105,Evening
+102,41,Male,Germany,88673,1,0,Waiting Staff,Rural,Instagram,47,18,2826,Jokes/Memes,16,978,7,27,18,88,Night,3,7,Boredom,Smartphone,Ios,21:00:00,5,5,Commuting,Mobile Data,21,2.61,20.809,1.0,0.574,Night
+103,28,Male,India,85633,1,0,Engineer,Urban,Facebook,210,11,7465,Jokes/Memes,14,730,7,5,34,23,Night,3,7,Entertainment,Smartphone,Android,21:00:00,5,5,At School,Wi-Fi,21,19.09,3.476,3.09,0.024,Night
+104,34,Female,Japan,96943,1,0,Engineer,Rural,Tiktok,209,16,3004,Gaming,1,56,9,27,23,29,Night,3,7,Habit,Tablet,Windows,21:00:00,5,5,At Work,Mobile Data,21,13.06,0.268,1.44,0.129,Night
+105,25,Female,India,98258,1,1,Driver,Urban,Facebook,264,2,9268,Gaming,16,2243,3,2,45,98,Night,3,7,Habit,Smartphone,Android,21:00:00,5,5,At Home,Mobile Data,21,132.0,8.496,22.5,0.008,Night
+106,52,Male,Philippines,32924,0,0,Labor/Worker,Rural,Facebook,188,12,7196,Comedy,18,5879,4,7,27,21,Evening,6,4,Entertainment,Smartphone,Ios,14:00:00,8,2,At Home,Mobile Data,14,15.67,31.271,2.25,0.037,Afternoon
+107,52,Female,Japan,89286,1,0,Labor/Worker,Urban,Youtube,44,6,6721,Jokes/Memes,7,1701,4,27,49,30,Night,3,7,Habit,Smartphone,Android,21:00:00,5,5,At Home,Mobile Data,21,7.33,38.659,8.17,0.614,Night
+108,50,Male,Brazil,94071,1,1,Waiting Staff,Rural,Youtube,91,11,3089,Pranks,15,7229,5,10,17,90,Night,3,7,Entertainment,Smartphone,Windows,21:00:00,5,5,At Work,Wi-Fi,21,8.27,79.44,1.55,0.11,Night
+109,22,Male,Mexico,77326,1,1,Artist,Rural,Youtube,229,8,1790,Gaming,24,1286,6,15,48,20,Evening,6,4,Entertainment,Computer,Android,14:00:00,8,2,At Home,Wi-Fi,14,28.62,5.616,6.0,0.066,Afternoon
+110,59,Male,Germany,50651,1,1,Labor/Worker,Rural,Tiktok,167,12,3037,Jokes/Memes,17,8303,3,25,21,16,Night,3,7,Procrastination,Tablet,Android,21:00:00,5,5,At Work,Mobile Data,21,13.92,49.719,1.75,0.15,Night
+111,56,Female,India,90202,1,0,Waiting Staff,Rural,Instagram,13,2,7378,Jokes/Memes,19,9393,4,7,40,67,Night,3,7,Entertainment,Smartphone,Ios,21:00:00,5,5,At Home,Wi-Fi,21,6.5,722.538,20.0,0.538,Night
+112,58,Female,Brazil,68777,1,0,Labor/Worker,Rural,Instagram,176,9,7599,Pranks,23,947,3,28,31,49,Evening,6,4,Habit,Smartphone,Android,14:00:00,8,2,At Home,Wi-Fi,14,19.56,5.381,3.44,0.159,Afternoon
+113,45,Female,Vietnam,36994,0,0,Labor/Worker,Rural,Tiktok,213,15,4839,Jokes/Memes,13,4121,2,5,3,58,Evening,6,4,Procrastination,Smartphone,Android,14:00:00,8,2,At Work,Mobile Data,14,14.2,19.347,0.2,0.023,Afternoon
+114,24,Male,Indonesia,87263,1,1,Teacher,Rural,Facebook,203,2,5873,Jokes/Memes,9,6553,9,15,17,44,Evening,6,4,Boredom,Computer,Windows,14:00:00,8,2,At Home,Wi-Fi,14,101.5,32.281,8.5,0.074,Afternoon
+115,26,Male,United States,79634,1,0,Students,Rural,Tiktok,244,1,3654,Entertainment,24,757,1,20,26,25,Night,3,7,Habit,Smartphone,Android,21:00:00,5,5,At School,Mobile Data,21,244.0,3.102,26.0,0.082,Night
+116,25,Male,Brazil,30800,0,0,Students,Urban,Facebook,215,10,4300,Life Hacks,24,5651,2,28,23,23,Night,3,7,Boredom,Smartphone,Ios,21:00:00,5,5,At School,Mobile Data,21,21.5,26.284,2.3,0.13,Night
+117,29,Female,Philippines,57823,1,0,Cashier,Rural,Tiktok,159,2,9269,Entertainment,15,7273,8,20,6,59,Evening,6,4,Habit,Smartphone,Android,14:00:00,8,2,At Work,Wi-Fi,14,79.5,45.742,3.0,0.126,Afternoon
+118,51,Male,United States,83878,1,0,Driver,Rural,Tiktok,168,12,974,Life Hacks,25,3535,7,15,28,1,Evening,6,4,Habit,Smartphone,Ios,14:00:00,8,2,At Work,Wi-Fi,14,14.0,21.042,2.33,0.089,Afternoon
+119,50,Other,India,38708,0,1,Labor/Worker,Rural,Tiktok,288,8,7084,Life Hacks,26,2293,1,10,8,97,Evening,6,4,Habit,Smartphone,Android,14:00:00,8,2,At Work,Mobile Data,14,36.0,7.962,1.0,0.035,Afternoon
+120,40,Female,Pakistan,32819,0,0,Engineer,Rural,Instagram,175,5,5495,Gaming,3,1104,5,24,45,15,Night,3,7,Habit,Smartphone,Android,21:00:00,5,5,At Home,Wi-Fi,21,35.0,6.309,9.0,0.137,Night
+121,41,Other,Vietnam,94905,1,1,Labor/Worker,Rural,Youtube,77,1,9492,Life Hacks,24,8853,6,26,8,81,Night,3,7,Habit,Tablet,Android,21:00:00,5,5,At Work,Mobile Data,21,77.0,114.974,8.0,0.338,Night
+122,54,Other,Brazil,83870,1,0,Labor/Worker,Rural,Tiktok,97,15,3407,Gaming,1,908,5,29,19,98,Night,3,7,Habit,Tablet,Ios,21:00:00,5,5,At Home,Mobile Data,21,6.47,9.361,1.27,0.299,Night
+123,52,Female,Mexico,29283,0,1,Artist,Urban,Instagram,226,6,5151,Trends,16,6539,4,26,38,81,Evening,6,4,Habit,Smartphone,Ios,14:00:00,8,2,Commuting,Mobile Data,14,37.67,28.934,6.33,0.115,Afternoon
+124,61,Other,India,50573,1,0,Waiting Staff,Rural,Youtube,10,12,9351,Comedy,8,4617,1,14,29,52,Evening,6,4,Boredom,Smartphone,Windows,14:00:00,8,2,At Home,Wi-Fi,14,0.83,461.7,2.42,1.4,Afternoon
+125,57,Male,United States,98707,1,1,Driver,Rural,Youtube,144,8,3130,Asmr,29,7069,7,26,23,58,Night,3,7,Boredom,Smartphone,Ios,21:00:00,5,5,At Home,Wi-Fi,21,18.0,49.09,2.88,0.181,Night
+126,39,Female,India,50933,1,0,Driver,Rural,Tiktok,194,13,105,Gaming,23,2311,9,26,47,41,Evening,6,4,Entertainment,Tablet,Android,14:00:00,8,2,At School,Mobile Data,14,14.92,11.912,3.62,0.134,Afternoon
+127,44,Female,Brazil,25774,0,1,Cashier,Rural,Facebook,149,19,7434,Pranks,13,789,6,10,32,44,Night,3,7,Habit,Computer,Ios,21:00:00,5,5,At School,Mobile Data,21,7.84,5.295,1.68,0.067,Night
+128,52,Male,Mexico,92055,1,0,Labor/Worker,Rural,Facebook,115,1,7690,Pranks,8,171,3,17,10,4,Night,3,7,Boredom,Smartphone,Android,21:00:00,5,5,At School,Wi-Fi,21,115.0,1.487,10.0,0.148,Night
+129,18,Other,Philippines,30983,0,1,Waiting Staff,Rural,Facebook,142,11,3568,Vlogs,17,7989,4,21,27,77,Afternoon,5,5,Entertainment,Smartphone,Android,17:00:00,7,3,At School,Wi-Fi,17,12.91,56.261,2.45,0.148,Evening
+130,52,Female,Indonesia,38133,0,0,Students,Urban,Tiktok,117,1,4349,Jokes/Memes,22,1885,5,14,49,68,Evening,6,4,Habit,Tablet,Macos,14:00:00,8,2,At Home,Wi-Fi,14,117.0,16.111,49.0,0.12,Afternoon
+131,54,Male,United States,34939,0,1,Driver,Urban,Facebook,187,8,4391,Vlogs,23,8667,1,2,1,7,Evening,6,4,Habit,Smartphone,Android,14:00:00,8,2,At Home,Mobile Data,14,23.38,46.348,0.12,0.011,Afternoon
+132,64,Male,Indonesia,20781,0,0,Artist,Rural,Instagram,155,5,6812,Life Hacks,14,1049,5,16,39,46,Night,3,7,Procrastination,Smartphone,Android,21:00:00,5,5,At Home,Mobile Data,21,31.0,6.768,7.8,0.103,Night
+133,31,Female,India,76700,1,1,Waiting Staff,Rural,Instagram,83,17,1182,Asmr,27,4129,1,13,29,9,Night,3,7,Entertainment,Tablet,Android,21:00:00,5,5,Commuting,Mobile Data,21,4.88,49.747,1.71,0.157,Night
+134,20,Male,India,47624,0,0,Students,Rural,Instagram,117,8,4645,Vlogs,21,1161,9,27,45,87,Afternoon,5,5,Entertainment,Smartphone,Android,17:00:00,7,3,At School,Mobile Data,17,14.62,9.923,5.62,0.231,Evening
+135,18,Female,Brazil,26823,0,1,Driver,Rural,Instagram,131,10,5874,Entertainment,21,815,7,9,3,33,Afternoon,5,5,Procrastination,Smartphone,Windows,17:00:00,7,3,At Home,Mobile Data,17,13.1,6.221,0.3,0.069,Evening
+136,22,Female,Brazil,38489,0,0,Manager,Rural,Youtube,26,2,4395,Life Hacks,7,3766,3,7,47,33,Evening,6,4,Entertainment,Computer,Ios,14:00:00,8,2,At Home,Mobile Data,14,13.0,144.846,23.5,0.269,Afternoon
+137,43,Female,Pakistan,59961,1,1,Cashier,Rural,Instagram,205,9,3535,Trends,27,8945,9,16,37,84,Night,3,7,Boredom,Smartphone,Android,21:00:00,5,5,At Home,Mobile Data,21,22.78,43.634,4.11,0.078,Night
+138,31,Female,Germany,49118,0,0,Labor/Worker,Rural,Facebook,261,3,5845,Entertainment,15,4661,2,10,31,4,Night,3,7,Entertainment,Tablet,Android,21:00:00,5,5,At Work,Mobile Data,21,87.0,17.858,10.33,0.038,Night
+139,56,Male,Pakistan,42263,0,1,Students,Rural,Tiktok,128,18,5940,Life Hacks,16,8653,7,24,11,65,Morning,8,2,Boredom,Tablet,Android,08:00:00,10,0,Commuting,Mobile Data,8,7.11,67.602,0.61,0.188,Morning
+140,44,Male,India,33565,0,0,Students,Rural,Facebook,171,7,6476,Life Hacks,19,3239,9,22,22,34,Afternoon,5,5,Procrastination,Computer,Windows,17:00:00,7,3,At School,Wi-Fi,17,24.43,18.942,3.14,0.129,Evening
+141,26,Female,India,40354,0,1,Students,Rural,Instagram,207,15,1775,Jokes/Memes,6,8272,6,9,18,91,Afternoon,5,5,Habit,Tablet,Ios,17:00:00,7,3,At Work,Mobile Data,17,13.8,39.961,1.2,0.043,Evening
+142,32,Male,India,62951,1,1,Engineer,Urban,Youtube,54,18,8284,Gaming,23,2804,5,22,35,85,Evening,6,4,Procrastination,Smartphone,Android,14:00:00,8,2,At Home,Mobile Data,14,3.0,51.926,1.94,0.407,Afternoon
+143,32,Female,Pakistan,43648,0,1,Engineer,Rural,Instagram,188,3,447,Life Hacks,1,8031,7,23,6,88,Evening,6,4,Habit,Smartphone,Android,14:00:00,8,2,At School,Mobile Data,14,62.67,42.718,2.0,0.122,Afternoon
+144,43,Female,Mexico,70729,1,1,Engineer,Urban,Tiktok,53,14,109,Pranks,12,869,6,7,3,79,Night,3,7,Entertainment,Smartphone,Android,21:00:00,5,5,Commuting,Mobile Data,21,3.79,16.396,0.21,0.132,Night
+145,59,Male,Mexico,61971,1,0,Waiting Staff,Rural,Facebook,280,2,3240,Life Hacks,18,5526,5,16,5,99,Morning,8,2,Entertainment,Smartphone,Android,08:00:00,10,0,At Work,Mobile Data,8,140.0,19.736,2.5,0.057,Morning
+146,30,Other,India,38658,0,1,Engineer,Rural,Tiktok,87,14,5932,Life Hacks,16,7741,2,9,9,64,Evening,6,4,Habit,Tablet,Ios,14:00:00,8,2,Commuting,Mobile Data,14,6.21,88.977,0.64,0.103,Afternoon
+147,49,Male,Vietnam,41253,0,0,Waiting Staff,Rural,Tiktok,187,11,4054,Life Hacks,12,4694,8,27,28,25,Night,3,7,Procrastination,Smartphone,Ios,21:00:00,5,5,At Work,Mobile Data,21,17.0,25.102,2.55,0.144,Night
+148,56,Male,Germany,84166,1,0,Labor/Worker,Urban,Tiktok,12,16,4538,Jokes/Memes,20,8998,7,24,19,55,Morning,8,2,Procrastination,Smartphone,Android,08:00:00,10,0,At Home,Wi-Fi,8,0.75,749.833,1.19,2.0,Morning
+149,49,Other,Mexico,68563,1,0,Engineer,Rural,Facebook,223,8,6362,Vlogs,13,1934,6,29,28,9,Evening,6,4,Boredom,Smartphone,Ios,14:00:00,8,2,At Home,Wi-Fi,14,27.88,8.673,3.5,0.13,Afternoon
+150,21,Male,Japan,46390,0,0,Cashier,Rural,Instagram,83,7,1246,Trends,8,5172,5,17,27,17,Evening,6,4,Habit,Smartphone,Ios,14:00:00,8,2,At School,Mobile Data,14,11.86,62.313,3.86,0.205,Afternoon
+151,47,Other,United States,71578,1,0,Artist,Urban,Tiktok,60,11,2721,Entertainment,27,703,5,20,13,21,Afternoon,5,5,Habit,Smartphone,Android,17:00:00,7,3,At Home,Mobile Data,17,5.45,11.717,1.18,0.333,Evening
+152,54,Male,India,99025,1,1,Driver,Rural,Facebook,76,3,8470,Gaming,29,2523,9,7,38,60,Night,3,7,Habit,Tablet,Android,21:00:00,5,5,At Home,Mobile Data,21,25.33,33.197,12.67,0.092,Night
+153,40,Male,India,52658,1,0,Students,Rural,Youtube,102,17,7742,Life Hacks,26,2639,1,11,43,13,Evening,6,4,Entertainment,Smartphone,Windows,14:00:00,8,2,At Home,Mobile Data,14,6.0,25.873,2.53,0.108,Afternoon
+154,56,Other,India,26852,0,0,Waiting Staff,Urban,Facebook,185,14,5106,Trends,22,6159,9,8,21,3,Afternoon,5,5,Habit,Smartphone,Ios,17:00:00,7,3,At Home,Mobile Data,17,13.21,33.292,1.5,0.043,Evening
+155,62,Male,United States,22551,0,1,Students,Urban,Youtube,154,6,2923,Entertainment,1,3909,6,7,27,68,Night,3,7,Boredom,Smartphone,Android,21:00:00,5,5,At School,Mobile Data,21,25.67,25.383,4.5,0.045,Night
+156,32,Male,United States,91947,1,1,Students,Urban,Facebook,16,8,2514,Vlogs,26,1164,4,28,46,4,Afternoon,5,5,Boredom,Smartphone,Macos,17:00:00,7,3,At Home,Mobile Data,17,2.0,72.75,5.75,1.75,Evening
+157,60,Female,Japan,81001,1,1,Students,Rural,Instagram,278,5,9031,Pranks,21,619,7,19,6,92,Night,3,7,Boredom,Smartphone,Macos,21:00:00,5,5,At Work,Wi-Fi,21,55.6,2.227,1.2,0.068,Night
+158,46,Other,Pakistan,69159,1,0,Driver,Rural,Tiktok,13,8,2802,Pranks,7,7982,9,20,38,7,Night,3,7,Boredom,Tablet,Android,21:00:00,5,5,At School,Mobile Data,21,1.62,614.0,4.75,1.538,Night
+159,53,Female,Vietnam,71707,1,0,Manager,Rural,Instagram,147,2,6982,Jokes/Memes,15,3066,5,12,49,26,Evening,6,4,Procrastination,Computer,Ios,14:00:00,8,2,At School,Mobile Data,14,73.5,20.857,24.5,0.082,Afternoon
+160,30,Other,India,53243,1,0,Students,Rural,Facebook,240,15,8222,Jokes/Memes,29,4872,5,7,11,75,Evening,6,4,Entertainment,Smartphone,Android,14:00:00,8,2,Commuting,Mobile Data,14,16.0,20.3,0.73,0.029,Afternoon
+161,49,Male,India,41800,0,1,Waiting Staff,Rural,Tiktok,97,12,6503,Life Hacks,22,8638,8,8,47,24,Afternoon,5,5,Entertainment,Tablet,Android,17:00:00,7,3,At Work,Wi-Fi,17,8.08,89.052,3.92,0.082,Evening
+162,24,Male,Indonesia,95939,1,0,Labor/Worker,Urban,Youtube,26,17,6039,Trends,13,2337,7,7,41,10,Afternoon,5,5,Habit,Smartphone,Ios,17:00:00,7,3,At Home,Wi-Fi,17,1.53,89.885,2.41,0.269,Evening
+163,39,Other,Japan,77828,1,0,Students,Rural,Facebook,61,1,6230,Gaming,13,8400,8,6,17,13,Night,3,7,Boredom,Smartphone,Windows,21:00:00,5,5,At Work,Mobile Data,21,61.0,137.705,17.0,0.098,Night
+164,45,Male,India,27239,0,0,Manager,Rural,Tiktok,143,15,9450,Entertainment,28,5594,2,25,39,44,Evening,6,4,Entertainment,Smartphone,Windows,14:00:00,8,2,At Home,Mobile Data,14,9.53,39.119,2.6,0.175,Afternoon
+165,19,Male,Japan,26710,0,0,Cashier,Urban,Youtube,220,14,365,Jokes/Memes,9,2460,9,9,7,39,Evening,6,4,Boredom,Smartphone,Macos,14:00:00,8,2,Commuting,Mobile Data,14,15.71,11.182,0.5,0.041,Afternoon
+166,59,Male,Japan,41384,0,1,Engineer,Urban,Youtube,228,16,1801,Entertainment,24,6820,3,27,30,19,Afternoon,5,5,Entertainment,Smartphone,Android,17:00:00,7,3,At Work,Mobile Data,17,14.25,29.912,1.88,0.118,Evening
+167,62,Male,Philippines,41038,0,0,Labor/Worker,Rural,Instagram,214,9,5959,Gaming,15,5546,6,13,21,51,Evening,6,4,Habit,Computer,Windows,14:00:00,8,2,At School,Mobile Data,14,23.78,25.916,2.33,0.061,Afternoon
+168,23,Male,Japan,60846,1,1,Students,Urban,Facebook,220,1,9097,Gaming,4,3442,6,7,1,19,Evening,6,4,Entertainment,Tablet,Ios,14:00:00,8,2,At School,Wi-Fi,14,220.0,15.645,1.0,0.032,Afternoon
+169,45,Female,United States,87821,1,0,Waiting Staff,Rural,Youtube,286,17,7437,Trends,13,2711,2,8,25,76,Afternoon,5,5,Habit,Smartphone,Macos,17:00:00,7,3,At Work,Mobile Data,17,16.82,9.479,1.47,0.028,Evening
+170,45,Female,Philippines,57991,1,1,Labor/Worker,Rural,Tiktok,33,13,4794,Trends,27,1291,7,22,32,52,Afternoon,5,5,Entertainment,Smartphone,Windows,17:00:00,7,3,At Home,Mobile Data,17,2.54,39.121,2.46,0.667,Evening
+171,61,Male,Japan,99057,1,0,Driver,Rural,Youtube,13,5,8161,Life Hacks,12,5374,9,17,8,86,Afternoon,5,5,Habit,Smartphone,Ios,17:00:00,7,3,At School,Wi-Fi,17,2.6,413.385,1.6,1.308,Evening
+172,61,Male,Germany,26971,0,1,Students,Rural,Youtube,161,10,180,Jokes/Memes,5,9592,1,17,5,47,Night,3,7,Entertainment,Tablet,Android,21:00:00,5,5,At Work,Mobile Data,21,16.1,59.578,0.5,0.106,Night
+173,37,Female,United States,49139,0,0,Cashier,Rural,Instagram,268,6,3874,Entertainment,7,2655,8,16,30,30,Night,3,7,Habit,Smartphone,Android,21:00:00,5,5,At Work,Mobile Data,21,44.67,9.907,5.0,0.06,Night
+174,47,Male,India,97067,1,1,Cashier,Rural,Instagram,177,19,3961,Gaming,8,6513,2,22,8,46,Evening,6,4,Entertainment,Tablet,Android,14:00:00,8,2,At Home,Mobile Data,14,9.32,36.797,0.42,0.124,Afternoon
+175,28,Male,Philippines,57711,1,0,Students,Urban,Tiktok,185,13,1187,Asmr,5,7394,1,2,49,76,Night,3,7,Entertainment,Smartphone,Macos,21:00:00,5,5,Commuting,Wi-Fi,21,14.23,39.968,3.77,0.011,Night
+176,45,Female,Indonesia,26530,0,1,Teacher,Urban,Instagram,65,1,774,Life Hacks,9,704,8,8,19,93,Evening,6,4,Habit,Smartphone,Android,14:00:00,8,2,At Work,Mobile Data,14,65.0,10.831,19.0,0.123,Afternoon
+177,42,Male,United States,31116,0,0,Waiting Staff,Rural,Youtube,117,15,4461,Asmr,14,825,2,17,44,21,Morning,8,2,Boredom,Smartphone,Android,08:00:00,10,0,At Home,Wi-Fi,8,7.8,7.051,2.93,0.145,Morning
+178,56,Female,Indonesia,85794,1,1,Labor/Worker,Rural,Youtube,150,14,353,Trends,26,9196,6,13,30,75,Evening,6,4,Boredom,Tablet,Macos,14:00:00,8,2,At School,Mobile Data,14,10.71,61.307,2.14,0.087,Afternoon
+179,50,Male,India,20282,0,0,Driver,Urban,Instagram,164,8,6944,Trends,12,376,6,18,15,48,Afternoon,5,5,Habit,Smartphone,Android,17:00:00,7,3,At Work,Mobile Data,17,20.5,2.293,1.88,0.11,Evening
+180,18,Other,Indonesia,99473,1,1,Waiting Staff,Urban,Youtube,271,10,5203,Vlogs,4,972,5,24,36,62,Afternoon,5,5,Entertainment,Smartphone,Ios,17:00:00,7,3,At Home,Mobile Data,17,27.1,3.587,3.6,0.089,Evening
+181,44,Female,India,21898,0,0,Engineer,Rural,Youtube,282,9,5345,Life Hacks,20,4213,8,28,44,58,Evening,6,4,Procrastination,Computer,Ios,14:00:00,8,2,At School,Mobile Data,14,31.33,14.94,4.89,0.099,Afternoon
+182,30,Female,India,24135,0,1,Driver,Rural,Tiktok,241,17,4508,Life Hacks,29,443,3,22,27,18,Evening,6,4,Procrastination,Tablet,Android,14:00:00,8,2,At School,Mobile Data,14,14.18,1.838,1.59,0.091,Afternoon
+183,58,Male,Philippines,26629,0,0,Labor/Worker,Rural,Instagram,250,9,4831,Jokes/Memes,8,7519,4,28,13,59,Evening,6,4,Habit,Smartphone,Ios,14:00:00,8,2,At School,Wi-Fi,14,27.78,30.076,1.44,0.112,Afternoon
+184,20,Female,Japan,85031,1,1,Cashier,Rural,Youtube,267,3,118,Asmr,17,754,7,10,14,91,Evening,6,4,Habit,Tablet,Macos,14:00:00,8,2,At School,Mobile Data,14,89.0,2.824,4.67,0.037,Afternoon
+185,56,Male,Brazil,53380,1,0,Labor/Worker,Rural,Instagram,258,11,482,Pranks,8,4735,7,2,37,48,Night,3,7,Entertainment,Smartphone,Macos,21:00:00,5,5,At Home,Wi-Fi,21,23.45,18.353,3.36,0.008,Night
+186,23,Male,India,37071,0,1,Labor/Worker,Urban,Tiktok,86,12,4288,Jokes/Memes,21,5396,8,2,48,63,Evening,6,4,Entertainment,Smartphone,Ios,14:00:00,8,2,At Work,Mobile Data,14,7.17,62.744,4.0,0.023,Afternoon
+187,25,Male,Philippines,40074,0,0,Artist,Rural,Instagram,189,10,6803,Entertainment,29,3465,2,27,30,12,Afternoon,5,5,Procrastination,Tablet,Android,17:00:00,7,3,At Home,Mobile Data,17,18.9,18.333,3.0,0.143,Evening
+188,44,Male,Germany,87843,1,1,Waiting Staff,Urban,Youtube,75,17,8299,Life Hacks,27,2711,2,14,39,87,Morning,8,2,Procrastination,Smartphone,Android,08:00:00,10,0,At Work,Mobile Data,8,4.41,36.147,2.29,0.187,Morning
+189,26,Female,India,59901,1,1,Driver,Rural,Instagram,180,17,4478,Entertainment,1,2407,4,16,47,34,Morning,8,2,Entertainment,Smartphone,Windows,08:00:00,10,0,Commuting,Wi-Fi,8,10.59,13.372,2.76,0.089,Morning
+190,54,Male,Mexico,31205,0,1,Teacher,Rural,Youtube,31,11,6534,Pranks,20,8814,9,7,13,61,Morning,8,2,Habit,Smartphone,Android,08:00:00,10,0,At Home,Mobile Data,8,2.82,284.323,1.18,0.226,Morning
+191,50,Male,Indonesia,75661,1,1,Engineer,Rural,Youtube,116,4,244,Entertainment,2,5588,9,21,16,87,Evening,6,4,Boredom,Smartphone,Android,14:00:00,8,2,At Work,Wi-Fi,14,29.0,48.172,4.0,0.181,Afternoon
+192,59,Other,Brazil,25906,0,0,Driver,Rural,Youtube,236,7,7013,Life Hacks,4,6104,4,21,44,53,Evening,6,4,Entertainment,Smartphone,Ios,14:00:00,8,2,At Home,Wi-Fi,14,33.71,25.864,6.29,0.089,Afternoon
+193,61,Male,Japan,22591,0,1,Waiting Staff,Urban,Tiktok,225,14,866,Jokes/Memes,24,5747,9,24,7,25,Evening,6,4,Habit,Smartphone,Ios,14:00:00,8,2,At Home,Wi-Fi,14,16.07,25.542,0.5,0.107,Afternoon
+194,41,Female,United States,82987,1,1,Labor/Worker,Rural,Instagram,78,7,9754,Vlogs,21,1723,3,12,48,62,Afternoon,5,5,Entertainment,Smartphone,Macos,17:00:00,7,3,At Home,Mobile Data,17,11.14,22.09,6.86,0.154,Evening
+195,32,Other,India,83370,1,1,Teacher,Urban,Tiktok,93,8,5330,Trends,1,7224,5,28,27,4,Evening,6,4,Habit,Tablet,Android,14:00:00,8,2,At School,Wi-Fi,14,11.62,77.677,3.38,0.301,Afternoon
+196,49,Male,Vietnam,74400,1,0,Waiting Staff,Rural,Instagram,112,1,604,Life Hacks,7,1919,9,23,45,94,Evening,6,4,Habit,Tablet,Android,14:00:00,8,2,At Home,Mobile Data,14,112.0,17.134,45.0,0.205,Afternoon
+197,49,Male,Pakistan,45150,0,1,Waiting Staff,Rural,Tiktok,48,4,5757,Jokes/Memes,1,918,6,28,35,94,Evening,6,4,Habit,Smartphone,Android,14:00:00,8,2,At Home,Mobile Data,14,12.0,19.125,8.75,0.583,Afternoon
+198,41,Male,Brazil,51852,1,0,Manager,Urban,Facebook,22,12,4019,Gaming,9,4215,3,14,15,13,Night,3,7,Habit,Smartphone,Macos,21:00:00,5,5,At Work,Wi-Fi,21,1.83,191.591,1.25,0.636,Night
+199,58,Male,United States,62870,1,0,Artist,Rural,Youtube,190,3,5193,Pranks,3,581,9,25,28,42,Morning,8,2,Boredom,Computer,Android,08:00:00,10,0,At Home,Wi-Fi,8,63.33,3.058,9.33,0.132,Morning
+200,29,Male,India,72756,1,0,Students,Rural,Youtube,277,13,2016,Entertainment,12,3881,6,4,35,49,Evening,6,4,Boredom,Smartphone,Android,14:00:00,8,2,Commuting,Mobile Data,14,21.31,14.011,2.69,0.014,Afternoon
+201,56,Other,Vietnam,76481,1,0,Labor/Worker,Rural,Tiktok,22,6,9851,Pranks,19,9878,4,26,7,78,Evening,6,4,Entertainment,Tablet,Android,14:00:00,8,2,At School,Wi-Fi,14,3.67,449.0,1.17,1.182,Afternoon
+202,19,Female,Philippines,21283,0,0,Driver,Rural,Facebook,129,11,3381,Jokes/Memes,15,3909,4,4,46,56,Morning,8,2,Habit,Computer,Macos,08:00:00,10,0,At Home,Mobile Data,8,11.73,30.302,4.18,0.031,Morning
+203,20,Female,Japan,53691,1,1,Labor/Worker,Rural,Youtube,66,4,3771,Trends,22,1999,8,18,46,47,Evening,6,4,Habit,Smartphone,Windows,14:00:00,8,2,At Home,Mobile Data,14,16.5,30.288,11.5,0.273,Afternoon
+204,54,Female,India,21125,0,0,Artist,Rural,Instagram,49,16,5830,Gaming,16,400,7,3,20,8,Night,3,7,Habit,Smartphone,Android,21:00:00,5,5,At School,Wi-Fi,21,3.06,8.163,1.25,0.061,Night
+205,34,Male,India,87065,1,0,Students,Rural,Tiktok,137,7,1614,Trends,10,3648,1,1,32,55,Night,3,7,Boredom,Computer,Android,21:00:00,5,5,Commuting,Wi-Fi,21,19.57,26.628,4.57,0.007,Night
+206,19,Male,India,46170,0,1,Engineer,Urban,Youtube,182,11,1880,Gaming,22,5445,6,17,38,88,Evening,6,4,Boredom,Computer,Android,14:00:00,8,2,At School,Mobile Data,14,16.55,29.918,3.45,0.093,Afternoon
+207,19,Male,India,28438,0,1,Waiting Staff,Rural,Youtube,44,1,5373,Life Hacks,29,2628,8,7,40,18,Night,3,7,Habit,Smartphone,Windows,20:30:00,5,5,At School,Wi-Fi,20,44.0,59.727,40.0,0.159,Evening
+208,45,Female,Vietnam,40095,0,1,Waiting Staff,Rural,Tiktok,268,7,4109,Comedy,27,1656,3,16,32,35,Evening,6,4,Habit,Smartphone,Android,15:45:00,8,2,Commuting,Wi-Fi,15,38.29,6.179,4.57,0.06,Afternoon
+209,40,Male,Indonesia,36154,0,0,Driver,Rural,Tiktok,14,12,9292,Entertainment,27,620,9,5,26,89,Night,3,7,Habit,Smartphone,Android,20:30:00,5,5,At Home,Mobile Data,20,1.17,44.286,2.17,0.357,Evening
+210,54,Male,Pakistan,28004,0,0,Driver,Rural,Instagram,227,7,9267,Entertainment,6,246,2,19,39,81,Evening,6,4,Procrastination,Computer,Ios,15:45:00,8,2,At School,Wi-Fi,15,32.43,1.084,5.57,0.084,Afternoon
+211,49,Female,Germany,29752,0,0,Students,Rural,Instagram,20,7,8979,Gaming,29,5212,6,7,20,32,Evening,6,4,Habit,Tablet,Macos,15:45:00,8,2,At Home,Mobile Data,15,2.86,260.6,2.86,0.35,Afternoon
+212,50,Other,India,75426,1,1,Manager,Rural,Youtube,126,10,149,Vlogs,17,3339,1,14,18,24,Afternoon,5,5,Habit,Smartphone,Android,18:05:00,7,3,At Work,Wi-Fi,18,12.6,26.5,1.8,0.111,Evening
+213,18,Other,Mexico,46819,0,0,Waiting Staff,Urban,Youtube,193,16,1755,Trends,21,6758,2,2,15,7,Evening,6,4,Boredom,Smartphone,Android,15:45:00,8,2,At School,Mobile Data,15,12.06,35.016,0.94,0.01,Afternoon
+214,36,Female,Pakistan,44217,0,0,Labor/Worker,Rural,Tiktok,125,8,7379,Life Hacks,28,7086,5,3,22,13,Evening,6,4,Habit,Smartphone,Ios,15:45:00,8,2,At Work,Mobile Data,15,15.62,56.688,2.75,0.024,Afternoon
+215,19,Male,India,52994,1,0,Students,Rural,Youtube,171,9,6682,Jokes/Memes,22,3010,1,17,22,91,Evening,6,4,Boredom,Smartphone,Ios,15:45:00,8,2,At School,Mobile Data,15,19.0,17.602,2.44,0.099,Afternoon
+216,61,Male,Japan,35036,0,0,Artist,Rural,Youtube,76,9,3757,Entertainment,24,4719,8,16,21,69,Night,3,7,Habit,Tablet,Ios,20:30:00,5,5,At Home,Mobile Data,20,8.44,62.092,2.33,0.211,Evening
+217,43,Male,India,97275,1,1,Engineer,Rural,Tiktok,209,2,9372,Gaming,29,2368,1,8,2,90,Evening,6,4,Entertainment,Computer,Android,15:45:00,8,2,At Home,Mobile Data,15,104.5,11.33,1.0,0.038,Afternoon
+218,49,Male,United States,69416,1,0,Waiting Staff,Urban,Youtube,40,13,9117,Life Hacks,17,1839,9,18,40,42,Morning,8,2,Procrastination,Smartphone,Android,09:15:00,10,0,At Home,Mobile Data,9,3.08,45.975,3.08,0.45,Morning
+219,23,Other,Pakistan,29587,0,1,Manager,Rural,Youtube,84,13,5393,Comedy,21,2903,3,15,43,31,Night,3,7,Procrastination,Smartphone,Android,20:30:00,5,5,Commuting,Mobile Data,20,6.46,34.56,3.31,0.179,Evening
+220,49,Male,Mexico,20645,0,0,Manager,Rural,Facebook,246,4,9796,Pranks,19,6205,2,7,18,74,Night,3,7,Procrastination,Smartphone,Ios,20:30:00,5,5,At Home,Mobile Data,20,61.5,25.224,4.5,0.028,Evening
+221,21,Male,India,50930,1,1,Students,Urban,Instagram,75,12,3053,Trends,18,4395,1,27,23,26,Night,3,7,Boredom,Smartphone,Android,20:30:00,5,5,At School,Mobile Data,20,6.25,58.6,1.92,0.36,Evening
+222,28,Male,Indonesia,50090,1,0,Students,Rural,Tiktok,79,17,5693,Life Hacks,11,5767,9,9,13,86,Evening,6,4,Entertainment,Computer,Macos,15:45:00,8,2,At Work,Wi-Fi,15,4.65,73.0,0.76,0.114,Afternoon
+223,34,Other,Vietnam,72142,1,1,Waiting Staff,Rural,Facebook,29,2,4219,Vlogs,24,3691,4,6,41,76,Afternoon,5,5,Entertainment,Tablet,Ios,18:05:00,7,3,At School,Mobile Data,18,14.5,127.276,20.5,0.207,Evening
+224,55,Other,United States,46475,0,0,Students,Rural,Instagram,235,13,4804,Asmr,7,7470,1,18,9,32,Evening,6,4,Habit,Tablet,Ios,15:45:00,8,2,At School,Wi-Fi,15,18.08,31.787,0.69,0.077,Afternoon
+225,41,Male,Philippines,38888,0,1,Labor/Worker,Rural,Instagram,208,18,2378,Life Hacks,10,3841,1,18,49,91,Evening,6,4,Boredom,Tablet,Windows,15:45:00,8,2,At Home,Mobile Data,15,11.56,18.466,2.72,0.087,Afternoon
+226,22,Male,Pakistan,63732,1,0,Manager,Rural,Instagram,48,15,5087,Pranks,7,4348,7,25,7,97,Evening,6,4,Boredom,Smartphone,Android,15:45:00,8,2,At Work,Wi-Fi,15,3.2,90.583,0.47,0.521,Afternoon
+227,51,Male,Japan,66305,1,1,Engineer,Rural,Facebook,154,8,3183,Entertainment,5,6621,2,26,41,52,Night,3,7,Habit,Computer,Macos,20:30:00,5,5,At Work,Wi-Fi,20,19.25,42.994,5.12,0.169,Evening
+228,23,Male,Vietnam,66037,1,0,Engineer,Rural,Facebook,54,15,3161,Trends,12,1392,7,24,1,20,Night,3,7,Habit,Smartphone,Android,20:30:00,5,5,At School,Wi-Fi,20,3.6,25.778,0.07,0.444,Evening
+229,39,Other,United States,29346,0,1,Manager,Rural,Instagram,100,1,6577,Gaming,16,6060,7,14,2,40,Evening,6,4,Habit,Tablet,Android,15:45:00,8,2,At Home,Mobile Data,15,100.0,60.6,2.0,0.14,Afternoon
+230,28,Male,India,20587,0,0,Labor/Worker,Rural,Youtube,247,10,8904,Life Hacks,29,4255,9,14,4,59,Night,3,7,Entertainment,Computer,Android,20:30:00,5,5,At Home,Mobile Data,20,24.7,17.227,0.4,0.057,Evening
+231,33,Female,United States,32763,0,1,Students,Rural,Youtube,79,12,2587,Pranks,25,4300,7,14,14,77,Night,3,7,Boredom,Tablet,Macos,20:30:00,5,5,At School,Mobile Data,20,6.58,54.43,1.17,0.177,Evening
+232,50,Male,Vietnam,79165,1,0,Cashier,Rural,Facebook,175,5,2649,Life Hacks,21,3338,1,25,32,14,Night,3,7,Entertainment,Tablet,Ios,20:30:00,5,5,At School,Mobile Data,20,35.0,19.074,6.4,0.143,Evening
+233,26,Other,United States,89615,1,1,Students,Urban,Facebook,139,9,7314,Life Hacks,18,5487,8,4,36,44,Night,3,7,Boredom,Smartphone,Android,20:30:00,5,5,At Home,Wi-Fi,20,15.44,39.475,4.0,0.029,Evening
+234,23,Male,Germany,56116,1,0,Waiting Staff,Urban,Facebook,223,8,1718,Asmr,3,3514,8,4,2,86,Afternoon,5,5,Entertainment,Tablet,Ios,18:05:00,7,3,Commuting,Mobile Data,18,27.88,15.758,0.25,0.018,Evening
+235,33,Female,Brazil,45556,0,1,Driver,Urban,Instagram,98,16,5309,Trends,20,759,4,15,40,82,Evening,6,4,Boredom,Smartphone,Ios,15:45:00,8,2,Commuting,Mobile Data,15,6.12,7.745,2.5,0.153,Afternoon
+236,46,Female,Indonesia,79042,1,0,Students,Urban,Youtube,261,14,7408,Life Hacks,15,9915,8,15,14,48,Evening,6,4,Procrastination,Computer,Android,15:45:00,8,2,At School,Wi-Fi,15,18.64,37.989,1.0,0.057,Afternoon
+237,20,Other,India,38099,0,1,Teacher,Rural,Facebook,81,13,871,Jokes/Memes,5,8621,4,18,20,93,Morning,8,2,Habit,Computer,Macos,09:15:00,10,0,At Home,Mobile Data,9,6.23,106.432,1.54,0.222,Morning
+238,37,Female,Vietnam,65096,1,0,Artist,Rural,Facebook,174,13,3575,Trends,13,6793,8,14,25,43,Night,3,7,Habit,Tablet,Android,20:30:00,5,5,At Work,Mobile Data,20,13.38,39.04,1.92,0.08,Evening
+239,53,Male,Germany,91986,1,1,Students,Rural,Tiktok,58,5,5828,Jokes/Memes,19,2459,5,26,42,16,Evening,6,4,Habit,Computer,Ios,15:45:00,8,2,At School,Mobile Data,15,11.6,42.397,8.4,0.448,Afternoon
+240,36,Female,Germany,33230,0,1,Waiting Staff,Rural,Instagram,61,16,7987,Jokes/Memes,12,5273,4,1,49,35,Afternoon,5,5,Procrastination,Tablet,Ios,18:05:00,7,3,Commuting,Wi-Fi,18,3.81,86.443,3.06,0.016,Evening
+241,43,Other,Philippines,49009,0,1,Waiting Staff,Rural,Tiktok,298,11,8463,Life Hacks,23,1718,6,10,8,53,Afternoon,5,5,Entertainment,Smartphone,Windows,18:05:00,7,3,At Work,Mobile Data,18,27.09,5.765,0.73,0.034,Evening
+242,20,Other,United States,90969,1,1,Cashier,Rural,Youtube,287,5,9736,Life Hacks,21,9457,2,29,28,34,Evening,6,4,Entertainment,Tablet,Android,15:45:00,8,2,At School,Mobile Data,15,57.4,32.951,5.6,0.101,Afternoon
+243,36,Male,Brazil,53866,1,0,Driver,Rural,Tiktok,123,13,8742,Life Hacks,5,5423,2,20,46,3,Night,3,7,Procrastination,Smartphone,Android,20:30:00,5,5,At School,Mobile Data,20,9.46,44.089,3.54,0.163,Evening
+244,37,Female,Germany,96975,1,1,Driver,Rural,Tiktok,248,11,5770,Asmr,6,1308,2,10,21,68,Night,3,7,Habit,Smartphone,Ios,20:30:00,5,5,At Home,Wi-Fi,20,22.55,5.274,1.91,0.04,Evening
+245,49,Male,Brazil,61855,1,0,Waiting Staff,Urban,Tiktok,142,19,5734,Jokes/Memes,7,1050,9,10,23,5,Evening,6,4,Procrastination,Smartphone,Android,15:45:00,8,2,At School,Mobile Data,15,7.47,7.394,1.21,0.07,Afternoon
+246,24,Male,United States,26416,0,0,Driver,Rural,Instagram,283,3,9905,Life Hacks,26,5479,3,27,32,10,Night,3,7,Habit,Smartphone,Android,20:30:00,5,5,At Home,Mobile Data,20,94.33,19.36,10.67,0.095,Evening
+247,58,Male,Vietnam,92516,1,0,Students,Rural,Youtube,175,15,3241,Jokes/Memes,10,2249,4,24,8,52,Morning,8,2,Entertainment,Computer,Windows,09:15:00,10,0,At Home,Mobile Data,9,11.67,12.851,0.53,0.137,Morning
+248,50,Female,Japan,75915,1,0,Students,Rural,Tiktok,252,7,9555,Life Hacks,16,2809,8,2,31,29,Evening,6,4,Habit,Smartphone,Windows,15:45:00,8,2,At Home,Mobile Data,15,36.0,11.147,4.43,0.008,Afternoon
+249,57,Female,United States,38058,0,0,Students,Rural,Instagram,147,7,4894,Jokes/Memes,8,2921,4,29,37,96,Afternoon,5,5,Habit,Smartphone,Ios,18:05:00,7,3,At School,Mobile Data,18,21.0,19.871,5.29,0.197,Evening
+250,56,Male,Germany,96637,1,1,Labor/Worker,Rural,Youtube,88,6,9477,Trends,9,4676,7,28,16,31,Afternoon,5,5,Procrastination,Smartphone,Android,18:05:00,7,3,At Work,Mobile Data,18,14.67,53.136,2.67,0.318,Evening
+251,35,Other,India,60718,1,0,Waiting Staff,Urban,Facebook,179,3,887,Gaming,27,4041,5,27,40,66,Afternoon,5,5,Entertainment,Smartphone,Android,18:05:00,7,3,At Home,Mobile Data,18,59.67,22.575,13.33,0.151,Evening
+252,57,Female,United States,52602,1,0,Driver,Rural,Tiktok,132,13,5855,Entertainment,4,2417,9,8,42,76,Night,3,7,Habit,Smartphone,Android,20:30:00,5,5,At Home,Mobile Data,20,10.15,18.311,3.23,0.061,Evening
+253,18,Female,United States,94658,1,1,Engineer,Rural,Youtube,185,7,5319,Comedy,21,532,4,1,27,91,Evening,6,4,Habit,Smartphone,Windows,15:45:00,8,2,At Work,Mobile Data,15,26.43,2.876,3.86,0.005,Afternoon
+254,28,Male,Philippines,98112,1,1,Driver,Urban,Tiktok,91,5,2259,Gaming,21,9090,3,1,40,69,Afternoon,5,5,Habit,Smartphone,Android,18:05:00,7,3,At Work,Mobile Data,18,18.2,99.89,8.0,0.011,Evening
+255,45,Female,Indonesia,78067,1,1,Waiting Staff,Rural,Facebook,96,18,4383,Pranks,8,8167,2,4,41,37,Afternoon,5,5,Procrastination,Tablet,Ios,18:05:00,7,3,At Work,Mobile Data,18,5.33,85.073,2.28,0.042,Evening
+256,42,Female,India,47516,0,0,Labor/Worker,Rural,Youtube,234,8,1786,Vlogs,25,1469,1,7,18,27,Afternoon,5,5,Habit,Smartphone,Macos,18:05:00,7,3,Commuting,Mobile Data,18,29.25,6.278,2.25,0.03,Evening
+257,40,Male,India,21089,0,0,Engineer,Rural,Instagram,25,17,7728,Life Hacks,7,9444,6,9,35,87,Night,3,7,Procrastination,Smartphone,Windows,20:30:00,5,5,At Home,Wi-Fi,20,1.47,377.76,2.06,0.36,Evening
+258,48,Male,Philippines,57346,1,0,Engineer,Rural,Youtube,172,1,296,Life Hacks,15,7292,2,16,49,33,Evening,6,4,Boredom,Smartphone,Windows,15:45:00,8,2,Commuting,Wi-Fi,15,172.0,42.395,49.0,0.093,Afternoon
+259,47,Male,United States,94663,1,1,Labor/Worker,Rural,Instagram,107,14,2598,Asmr,21,8961,8,5,15,68,Evening,6,4,Habit,Smartphone,Ios,15:45:00,8,2,At School,Wi-Fi,15,7.64,83.748,1.07,0.047,Afternoon
+260,59,Male,United States,30487,0,0,Waiting Staff,Urban,Youtube,165,17,681,Pranks,3,9025,6,2,27,59,Evening,6,4,Boredom,Smartphone,Android,15:45:00,8,2,At Work,Mobile Data,15,9.71,54.697,1.59,0.012,Afternoon
+261,52,Male,United States,20155,0,0,Artist,Rural,Instagram,11,10,4891,Entertainment,17,7142,5,28,17,64,Evening,6,4,Habit,Smartphone,Ios,15:45:00,8,2,At School,Wi-Fi,15,1.1,649.273,1.7,2.545,Afternoon
+262,24,Male,Germany,87494,1,0,Students,Rural,Facebook,178,12,4299,Pranks,11,6000,2,23,40,85,Morning,8,2,Boredom,Smartphone,Windows,09:15:00,10,0,At Work,Mobile Data,9,14.83,33.708,3.33,0.129,Morning
+263,33,Other,Philippines,96229,1,0,Driver,Rural,Facebook,101,16,325,Life Hacks,9,7081,7,11,2,88,Evening,6,4,Entertainment,Smartphone,Windows,15:45:00,8,2,At School,Mobile Data,15,6.31,70.109,0.12,0.109,Afternoon
+264,43,Male,Vietnam,58547,1,1,Labor/Worker,Rural,Facebook,190,14,7953,Entertainment,5,4649,2,18,49,44,Morning,8,2,Entertainment,Tablet,Android,09:15:00,10,0,At School,Wi-Fi,9,13.57,24.468,3.5,0.095,Morning
+265,19,Male,India,48795,0,0,Students,Urban,Youtube,240,16,987,Vlogs,25,6931,5,25,31,95,Night,3,7,Procrastination,Computer,Macos,20:30:00,5,5,At Work,Mobile Data,20,15.0,28.879,1.94,0.104,Evening
+266,18,Male,Mexico,75296,1,1,Driver,Rural,Facebook,157,8,3119,Pranks,10,3424,2,25,37,88,Afternoon,5,5,Habit,Tablet,Android,18:05:00,7,3,Commuting,Mobile Data,18,19.62,21.809,4.62,0.159,Evening
+267,29,Male,Pakistan,41447,0,0,Driver,Rural,Tiktok,289,10,761,Jokes/Memes,15,1091,2,19,41,49,Evening,6,4,Habit,Smartphone,Android,15:45:00,8,2,At Home,Mobile Data,15,28.9,3.775,4.1,0.066,Afternoon
+268,22,Male,United States,56598,1,1,Artist,Urban,Facebook,198,17,7759,Vlogs,28,9388,7,13,41,53,Night,3,7,Habit,Tablet,Ios,20:30:00,5,5,At School,Wi-Fi,20,11.65,47.414,2.41,0.066,Evening
+269,54,Female,India,61814,1,0,Waiting Staff,Urban,Instagram,137,18,9229,Pranks,29,9852,9,24,34,74,Night,3,7,Habit,Smartphone,Macos,20:30:00,5,5,At School,Mobile Data,20,7.61,71.912,1.89,0.175,Evening
+270,49,Female,India,95330,1,1,Driver,Rural,Instagram,16,16,907,Comedy,14,7849,5,11,34,49,Evening,6,4,Boredom,Smartphone,Android,15:45:00,8,2,At Home,Wi-Fi,15,1.0,490.562,2.12,0.688,Afternoon
+271,26,Male,India,83278,1,0,Labor/Worker,Rural,Instagram,56,17,5500,Asmr,4,4654,7,20,3,66,Afternoon,5,5,Entertainment,Smartphone,Android,18:05:00,7,3,At Work,Mobile Data,18,3.29,83.107,0.18,0.357,Evening
+272,58,Other,Philippines,75077,1,1,Driver,Rural,Youtube,62,16,365,Gaming,21,260,4,19,17,95,Afternoon,5,5,Habit,Tablet,Android,18:05:00,7,3,At Home,Mobile Data,18,3.88,4.194,1.06,0.306,Evening
+273,52,Other,United States,91906,1,0,Waiting Staff,Rural,Tiktok,196,19,7770,Pranks,20,5936,2,17,14,63,Evening,6,4,Boredom,Tablet,Macos,15:45:00,8,2,At Home,Mobile Data,15,10.32,30.286,0.74,0.087,Afternoon
+274,36,Male,Pakistan,29528,0,1,Waiting Staff,Rural,Facebook,47,8,3414,Comedy,2,9377,3,5,14,25,Evening,6,4,Entertainment,Computer,Android,15:45:00,8,2,At Work,Wi-Fi,15,5.88,199.511,1.75,0.106,Afternoon
+275,33,Female,Japan,70100,1,0,Labor/Worker,Rural,Tiktok,235,6,8028,Jokes/Memes,12,4370,2,13,46,4,Evening,6,4,Entertainment,Tablet,Ios,15:45:00,8,2,Commuting,Mobile Data,15,39.17,18.596,7.67,0.055,Afternoon
+276,20,Female,Germany,28179,0,1,Driver,Rural,Tiktok,62,6,7940,Pranks,1,4301,5,27,38,51,Night,3,7,Entertainment,Smartphone,Android,20:30:00,5,5,At School,Mobile Data,20,10.33,69.371,6.33,0.435,Evening
+277,37,Male,Brazil,68781,1,1,Engineer,Rural,Instagram,233,9,9262,Trends,24,7207,6,20,35,11,Night,3,7,Entertainment,Smartphone,Ios,20:30:00,5,5,At Home,Mobile Data,20,25.89,30.931,3.89,0.086,Evening
+278,41,Other,Vietnam,75267,1,1,Labor/Worker,Rural,Instagram,163,4,3082,Vlogs,20,5819,7,1,1,17,Afternoon,5,5,Entertainment,Tablet,Ios,18:05:00,7,3,Commuting,Mobile Data,18,40.75,35.699,0.25,0.006,Evening
+279,50,Male,Pakistan,43952,0,1,Teacher,Rural,Instagram,57,12,5449,Gaming,5,9058,3,10,48,66,Night,3,7,Habit,Tablet,Windows,20:30:00,5,5,At Home,Mobile Data,20,4.75,158.912,4.0,0.175,Evening
+280,41,Other,Brazil,73798,1,1,Cashier,Rural,Youtube,156,12,3259,Vlogs,6,92,4,8,29,70,Evening,6,4,Habit,Tablet,Android,15:45:00,8,2,At Work,Mobile Data,15,13.0,0.59,2.42,0.051,Afternoon
+281,28,Female,Philippines,70939,1,1,Waiting Staff,Rural,Tiktok,73,17,2108,Pranks,24,5161,8,24,4,73,Morning,8,2,Boredom,Smartphone,Android,09:15:00,10,0,At Home,Wi-Fi,9,4.29,70.699,0.24,0.329,Morning
+282,25,Female,Brazil,49516,0,1,Students,Rural,Tiktok,191,15,7929,Vlogs,11,7632,4,29,33,69,Evening,6,4,Boredom,Tablet,Android,15:45:00,8,2,At Work,Wi-Fi,15,12.73,39.958,2.2,0.152,Afternoon
+283,53,Male,Mexico,76526,1,1,Teacher,Rural,Youtube,134,9,2934,Gaming,8,9543,7,8,17,84,Evening,6,4,Procrastination,Computer,Ios,15:45:00,8,2,At Home,Mobile Data,15,14.89,71.216,1.89,0.06,Afternoon
+284,55,Male,India,30449,0,1,Labor/Worker,Rural,Youtube,188,7,2830,Trends,7,6208,6,19,28,29,Evening,6,4,Boredom,Smartphone,Ios,15:45:00,8,2,Commuting,Wi-Fi,15,26.86,33.021,4.0,0.101,Afternoon
+285,57,Male,Pakistan,70290,1,1,Students,Urban,Youtube,48,10,8634,Entertainment,4,8556,7,6,26,85,Afternoon,5,5,Habit,Computer,Android,18:05:00,7,3,At Work,Mobile Data,18,4.8,178.25,2.6,0.125,Evening
+286,37,Male,Philippines,92954,1,1,Waiting Staff,Rural,Tiktok,269,16,5007,Vlogs,6,4916,1,12,8,73,Evening,6,4,Entertainment,Smartphone,Android,15:45:00,8,2,At Home,Mobile Data,15,16.81,18.275,0.5,0.045,Afternoon
+287,52,Male,Pakistan,42746,0,0,Students,Rural,Tiktok,12,12,1560,Vlogs,16,3718,3,28,34,92,Evening,6,4,Habit,Smartphone,Android,15:45:00,8,2,At School,Mobile Data,15,1.0,309.833,2.83,2.333,Afternoon
+288,42,Female,Mexico,87990,1,1,Waiting Staff,Rural,Instagram,73,7,1742,Jokes/Memes,20,6125,6,7,18,72,Night,3,7,Procrastination,Smartphone,Ios,20:30:00,5,5,At Home,Mobile Data,20,10.43,83.904,2.57,0.096,Evening
+289,52,Male,United States,78810,1,0,Students,Rural,Instagram,38,18,5831,Pranks,15,1924,3,16,31,95,Night,3,7,Habit,Computer,Macos,20:30:00,5,5,At Work,Mobile Data,20,2.11,50.632,1.72,0.421,Evening
+290,42,Female,United States,35223,0,1,Labor/Worker,Urban,Tiktok,20,15,7524,Life Hacks,14,3095,7,9,27,20,Afternoon,5,5,Entertainment,Tablet,Ios,18:05:00,7,3,Commuting,Mobile Data,18,1.33,154.75,1.8,0.45,Evening
+291,46,Female,United States,92237,1,0,Teacher,Rural,Instagram,106,6,626,Asmr,23,6683,9,21,16,27,Evening,6,4,Habit,Computer,Android,15:45:00,8,2,At Home,Mobile Data,15,17.67,63.047,2.67,0.198,Afternoon
+292,35,Female,Indonesia,22597,0,1,Labor/Worker,Urban,Youtube,212,12,1691,Jokes/Memes,12,5181,3,25,10,8,Night,3,7,Entertainment,Smartphone,Windows,20:30:00,5,5,At Work,Mobile Data,20,17.67,24.439,0.83,0.118,Evening
+293,63,Male,Brazil,85677,1,0,Waiting Staff,Urban,Facebook,30,11,8283,Trends,29,2538,1,22,40,85,Evening,6,4,Habit,Smartphone,Android,15:45:00,8,2,At Home,Wi-Fi,15,2.73,84.6,3.64,0.733,Afternoon
+294,35,Male,Indonesia,22659,0,1,Students,Rural,Instagram,48,3,6311,Jokes/Memes,12,9488,6,10,12,61,Evening,6,4,Boredom,Smartphone,Windows,15:45:00,8,2,At School,Wi-Fi,15,16.0,197.667,4.0,0.208,Afternoon
+295,19,Female,India,94567,1,0,Waiting Staff,Rural,Tiktok,232,2,3007,Jokes/Memes,16,2276,1,10,22,28,Afternoon,5,5,Habit,Smartphone,Android,18:05:00,7,3,At Work,Wi-Fi,18,116.0,9.81,11.0,0.043,Evening
+296,52,Male,Vietnam,35037,0,1,Labor/Worker,Rural,Instagram,111,6,4303,Life Hacks,15,8194,1,10,16,87,Afternoon,5,5,Habit,Computer,Android,18:05:00,7,3,At School,Mobile Data,18,18.5,73.82,2.67,0.09,Evening
+297,33,Female,Mexico,66738,1,0,Engineer,Rural,Instagram,55,5,1089,Life Hacks,29,9945,8,20,12,70,Night,3,7,Entertainment,Tablet,Android,20:30:00,5,5,At School,Mobile Data,20,11.0,180.818,2.4,0.364,Evening
+298,58,Female,Philippines,91678,1,1,Engineer,Rural,Instagram,75,18,6008,Trends,13,910,9,29,11,3,Evening,6,4,Boredom,Tablet,Android,15:45:00,8,2,Commuting,Mobile Data,15,4.17,12.133,0.61,0.387,Afternoon
+299,53,Male,Pakistan,32109,0,1,Waiting Staff,Rural,Facebook,100,16,4612,Pranks,11,306,2,16,20,69,Morning,8,2,Boredom,Tablet,Android,09:15:00,10,0,At Work,Wi-Fi,9,6.25,3.06,1.25,0.16,Morning
+300,50,Female,Germany,42010,0,1,Students,Rural,Youtube,173,8,9373,Entertainment,17,6575,9,1,1,73,Afternoon,5,5,Habit,Smartphone,Android,18:05:00,7,3,Commuting,Wi-Fi,18,21.62,38.006,0.12,0.006,Evening
+301,21,Female,Philippines,28787,0,1,Waiting Staff,Rural,Tiktok,120,11,7929,Vlogs,21,4231,5,17,27,7,Afternoon,5,5,Entertainment,Smartphone,Ios,18:05:00,7,3,At Home,Mobile Data,18,10.91,35.258,2.45,0.142,Evening
+302,50,Male,Brazil,28472,0,0,Engineer,Urban,Facebook,132,10,4491,Vlogs,15,6028,8,26,3,60,Afternoon,5,5,Habit,Smartphone,Ios,18:05:00,7,3,At Home,Mobile Data,18,13.2,45.667,0.3,0.197,Evening
+303,31,Male,Indonesia,43383,0,1,Cashier,Rural,Tiktok,202,12,8379,Jokes/Memes,14,6658,7,21,12,4,Afternoon,5,5,Boredom,Computer,Android,18:05:00,7,3,At School,Mobile Data,18,16.83,32.96,1.0,0.104,Evening
+304,38,Other,Indonesia,81709,1,0,Waiting Staff,Rural,Tiktok,108,6,1598,Gaming,10,6336,7,29,30,5,Evening,6,4,Boredom,Smartphone,Ios,15:45:00,8,2,At Home,Mobile Data,15,18.0,58.667,5.0,0.269,Afternoon
+305,37,Other,United States,89785,1,1,Artist,Rural,Tiktok,168,5,3748,Jokes/Memes,12,9630,4,14,9,11,Evening,6,4,Boredom,Smartphone,Ios,15:45:00,8,2,At Work,Mobile Data,15,33.6,57.321,1.8,0.083,Afternoon
+306,25,Male,Indonesia,54518,1,0,Waiting Staff,Rural,Facebook,112,9,2671,Life Hacks,16,872,2,19,37,15,Night,3,7,Habit,Computer,Ios,20:30:00,5,5,At School,Mobile Data,20,12.44,7.786,4.11,0.17,Evening
+307,24,Female,Vietnam,73909,1,1,Driver,Rural,Youtube,290,16,8432,Entertainment,15,1141,5,21,1,64,Evening,6,4,Habit,Smartphone,Android,15:45:00,8,2,At Work,Wi-Fi,15,18.12,3.934,0.06,0.072,Afternoon
+308,20,Male,Japan,38351,0,0,Students,Rural,Tiktok,52,14,2581,Trends,10,665,3,21,42,98,Morning,8,2,Entertainment,Smartphone,Android,09:15:00,10,0,At Home,Wi-Fi,9,3.71,12.788,3.0,0.404,Morning
+309,34,Female,Pakistan,89624,1,1,Engineer,Rural,Youtube,93,8,7433,Jokes/Memes,4,8400,9,17,49,13,Afternoon,5,5,Habit,Computer,Android,18:05:00,7,3,At Work,Mobile Data,18,11.62,90.323,6.12,0.183,Evening
+310,50,Male,Japan,73330,1,0,Manager,Rural,Youtube,200,19,8331,Jokes/Memes,27,951,6,14,4,7,Morning,8,2,Entertainment,Smartphone,Ios,09:15:00,10,0,At Home,Mobile Data,9,10.53,4.755,0.21,0.07,Morning
+311,29,Female,Pakistan,35282,0,1,Driver,Rural,Instagram,60,14,2507,Trends,23,9249,1,8,15,6,Night,3,7,Habit,Smartphone,Windows,20:30:00,5,5,At School,Wi-Fi,20,4.29,154.15,1.07,0.133,Evening
+312,39,Female,Mexico,41778,0,0,Manager,Rural,Facebook,219,7,4726,Trends,29,4722,3,21,27,56,Night,3,7,Habit,Smartphone,Android,20:30:00,5,5,At Work,Mobile Data,20,31.29,21.562,3.86,0.096,Evening
+313,39,Other,Pakistan,44264,0,1,Students,Urban,Facebook,135,5,4301,Jokes/Memes,9,4008,4,21,8,64,Night,3,7,Habit,Smartphone,Android,20:30:00,5,5,At Home,Mobile Data,20,27.0,29.689,1.6,0.156,Evening
+314,63,Female,Japan,79675,1,0,Waiting Staff,Rural,Instagram,78,18,9942,Jokes/Memes,21,6655,9,9,23,50,Evening,6,4,Boredom,Computer,Macos,15:45:00,8,2,At School,Mobile Data,15,4.33,85.321,1.28,0.115,Afternoon
+315,47,Male,Philippines,25075,0,1,Engineer,Rural,Instagram,274,2,8760,Entertainment,20,6190,6,8,15,30,Night,3,7,Procrastination,Smartphone,Ios,20:30:00,5,5,At Home,Mobile Data,20,137.0,22.591,7.5,0.029,Evening
+316,55,Female,Pakistan,95948,1,0,Teacher,Rural,Youtube,267,11,7003,Gaming,9,771,4,13,27,22,Night,3,7,Entertainment,Computer,Macos,20:30:00,5,5,At Work,Mobile Data,20,24.27,2.888,2.45,0.049,Evening
+317,55,Other,Mexico,68454,1,1,Driver,Rural,Tiktok,197,8,9074,Jokes/Memes,21,4030,1,17,31,25,Afternoon,5,5,Boredom,Smartphone,Macos,18:05:00,7,3,At School,Wi-Fi,18,24.62,20.457,3.88,0.086,Evening
+318,62,Male,Mexico,48365,0,0,Students,Rural,Facebook,239,1,6132,Entertainment,25,7859,8,19,39,28,Night,3,7,Habit,Smartphone,Android,20:30:00,5,5,At Work,Mobile Data,20,239.0,32.883,39.0,0.079,Evening
+319,25,Other,India,92766,1,1,Waiting Staff,Rural,Tiktok,198,12,8832,Entertainment,24,521,2,28,47,84,Afternoon,5,5,Boredom,Smartphone,Macos,18:05:00,7,3,At Work,Wi-Fi,18,16.5,2.631,3.92,0.141,Evening
+320,44,Male,Pakistan,68200,1,1,Driver,Urban,Tiktok,19,2,4538,Entertainment,20,3355,8,7,8,39,Afternoon,5,5,Entertainment,Smartphone,Macos,18:05:00,7,3,At School,Mobile Data,18,9.5,176.579,4.0,0.368,Evening
+321,44,Female,Germany,31002,0,1,Students,Rural,Instagram,123,18,2336,Life Hacks,11,1400,6,17,30,67,Morning,8,2,Entertainment,Smartphone,Macos,09:15:00,10,0,At School,Mobile Data,9,6.83,11.382,1.67,0.138,Morning
+322,51,Male,United States,33947,0,1,Engineer,Rural,Tiktok,85,7,4322,Gaming,11,3723,8,1,42,5,Afternoon,5,5,Entertainment,Tablet,Android,18:05:00,7,3,At Home,Mobile Data,18,12.14,43.8,6.0,0.012,Evening
+323,38,Male,United States,99222,1,0,Artist,Urban,Youtube,173,17,2986,Comedy,7,6579,6,5,18,65,Evening,6,4,Habit,Smartphone,Android,15:45:00,8,2,Commuting,Mobile Data,15,10.18,38.029,1.06,0.029,Afternoon
+324,47,Other,India,98610,1,1,Driver,Urban,Instagram,94,14,560,Trends,21,3247,5,25,4,15,Evening,6,4,Habit,Smartphone,Ios,15:45:00,8,2,Commuting,Mobile Data,15,6.71,34.543,0.29,0.266,Afternoon
+325,50,Male,Mexico,72142,1,0,Manager,Urban,Tiktok,58,7,714,Asmr,10,1858,5,6,47,90,Afternoon,5,5,Entertainment,Smartphone,Windows,18:05:00,7,3,At School,Wi-Fi,18,8.29,32.034,6.71,0.103,Evening
+326,45,Female,India,76307,1,1,Manager,Urban,Instagram,186,3,4594,Gaming,4,4781,8,26,43,67,Night,3,7,Habit,Computer,Macos,20:30:00,5,5,At Work,Mobile Data,20,62.0,25.704,14.33,0.14,Evening
+327,64,Male,United States,24493,0,0,Students,Rural,Youtube,227,6,3989,Gaming,5,4064,7,2,22,40,Night,3,7,Entertainment,Tablet,Macos,20:30:00,5,5,At School,Mobile Data,20,37.83,17.903,3.67,0.009,Evening
+328,50,Male,Vietnam,70085,1,1,Manager,Rural,Youtube,198,2,6204,Asmr,5,2398,8,27,3,98,Afternoon,5,5,Boredom,Smartphone,Android,18:05:00,7,3,Commuting,Mobile Data,18,99.0,12.111,1.5,0.136,Evening
+329,22,Male,Brazil,54228,1,0,Students,Rural,Tiktok,239,17,257,Gaming,11,142,8,25,15,69,Night,3,7,Habit,Smartphone,Windows,20:30:00,5,5,At Home,Mobile Data,20,14.06,0.594,0.88,0.105,Evening
+330,36,Other,Pakistan,99676,1,1,Students,Rural,Instagram,264,12,8769,Jokes/Memes,9,5062,7,16,35,95,Afternoon,5,5,Habit,Tablet,Android,18:05:00,7,3,At Work,Mobile Data,18,22.0,19.174,2.92,0.061,Evening
+331,21,Other,Japan,71875,1,0,Driver,Rural,Tiktok,245,12,38,Jokes/Memes,28,3469,2,22,47,77,Afternoon,5,5,Entertainment,Smartphone,Ios,18:05:00,7,3,At School,Wi-Fi,18,20.42,14.159,3.92,0.09,Evening
+332,52,Male,India,51655,1,1,Waiting Staff,Rural,Tiktok,35,17,8653,Life Hacks,16,3695,9,5,38,43,Afternoon,5,5,Entertainment,Tablet,Ios,18:05:00,7,3,At Work,Mobile Data,18,2.06,105.571,2.24,0.143,Evening
+333,34,Other,India,63472,1,0,Students,Rural,Instagram,81,10,9633,Vlogs,9,717,7,5,33,1,Afternoon,5,5,Habit,Smartphone,Windows,18:05:00,7,3,At Work,Mobile Data,18,8.1,8.852,3.3,0.062,Evening
+334,61,Female,United States,69437,1,1,Waiting Staff,Rural,Tiktok,270,3,1833,Asmr,22,642,6,12,14,22,Evening,6,4,Entertainment,Smartphone,Ios,15:45:00,8,2,At School,Mobile Data,15,90.0,2.378,4.67,0.044,Afternoon
+335,45,Female,Pakistan,69416,1,0,Driver,Rural,Youtube,263,18,7601,Asmr,4,2548,9,3,48,62,Night,3,7,Boredom,Smartphone,Android,20:30:00,5,5,At Work,Mobile Data,20,14.61,9.688,2.67,0.011,Evening
+336,47,Female,India,79711,1,1,Teacher,Rural,Instagram,280,13,5168,Trends,2,8561,1,16,1,79,Afternoon,5,5,Boredom,Tablet,Android,18:05:00,7,3,Commuting,Mobile Data,18,21.54,30.575,0.08,0.057,Evening
+337,46,Male,Brazil,26816,0,0,Students,Urban,Instagram,132,12,433,Asmr,14,3650,2,6,49,26,Night,3,7,Procrastination,Tablet,Android,20:30:00,5,5,At School,Mobile Data,20,11.0,27.652,4.08,0.045,Evening
+338,63,Male,India,97175,1,1,Labor/Worker,Rural,Instagram,153,17,4152,Gaming,3,7549,1,15,26,18,Evening,6,4,Entertainment,Tablet,Android,15:45:00,8,2,At Home,Mobile Data,15,9.0,49.34,1.53,0.098,Afternoon
+339,23,Female,United States,84307,1,0,Students,Rural,Instagram,266,4,6412,Life Hacks,18,8978,3,15,8,48,Night,3,7,Boredom,Smartphone,Ios,20:30:00,5,5,At Home,Wi-Fi,20,66.5,33.752,2.0,0.056,Evening
+340,52,Male,India,66733,1,1,Labor/Worker,Rural,Tiktok,153,10,1752,Gaming,21,949,5,29,16,9,Evening,6,4,Habit,Smartphone,Windows,15:45:00,8,2,At School,Mobile Data,15,15.3,6.203,1.6,0.19,Afternoon
+341,58,Male,India,31240,0,1,Engineer,Rural,Tiktok,268,11,4998,Life Hacks,6,5444,1,16,38,1,Morning,8,2,Boredom,Computer,Ios,09:15:00,10,0,At School,Mobile Data,9,24.36,20.313,3.45,0.06,Morning
+342,54,Other,Vietnam,91363,1,1,Students,Urban,Youtube,56,6,5721,Entertainment,11,521,4,20,10,9,Morning,8,2,Entertainment,Tablet,Ios,09:15:00,10,0,At School,Mobile Data,9,9.33,9.304,1.67,0.357,Morning
+343,41,Female,India,52762,1,1,Cashier,Urban,Facebook,22,6,7617,Asmr,21,6632,8,13,42,23,Morning,8,2,Habit,Computer,Ios,09:15:00,10,0,Commuting,Mobile Data,9,3.67,301.455,7.0,0.591,Morning
+344,46,Male,India,28259,0,0,Driver,Urban,Facebook,217,9,257,Vlogs,18,6048,6,12,37,45,Evening,6,4,Entertainment,Smartphone,Android,15:45:00,8,2,At School,Wi-Fi,15,24.11,27.871,4.11,0.055,Afternoon
+345,63,Female,Brazil,70139,1,1,Labor/Worker,Rural,Youtube,244,15,672,Entertainment,12,354,1,10,26,2,Evening,6,4,Boredom,Smartphone,Macos,15:45:00,8,2,At School,Mobile Data,15,16.27,1.451,1.73,0.041,Afternoon
+346,48,Female,United States,34849,0,0,Engineer,Rural,Facebook,158,2,490,Asmr,5,1482,1,14,28,14,Night,3,7,Boredom,Computer,Android,20:30:00,5,5,At Home,Wi-Fi,20,79.0,9.38,14.0,0.089,Evening
+347,52,Male,India,74869,1,1,Students,Rural,Youtube,164,4,6890,Life Hacks,9,9839,3,2,12,38,Evening,6,4,Habit,Smartphone,Android,15:45:00,8,2,At School,Wi-Fi,15,41.0,59.994,3.0,0.012,Afternoon
+348,50,Other,Indonesia,83095,1,0,Waiting Staff,Urban,Tiktok,175,5,2097,Comedy,20,6994,8,29,20,40,Evening,6,4,Boredom,Tablet,Ios,15:45:00,8,2,At School,Mobile Data,15,35.0,39.966,4.0,0.166,Afternoon
+349,38,Female,United States,90910,1,1,Engineer,Rural,Instagram,99,17,1683,Life Hacks,28,2215,8,3,49,63,Morning,8,2,Boredom,Smartphone,Android,09:15:00,10,0,At Work,Wi-Fi,9,5.82,22.374,2.88,0.03,Morning
+350,49,Male,India,43567,0,0,Labor/Worker,Rural,Instagram,195,8,2461,Life Hacks,26,4716,3,9,14,82,Night,3,7,Entertainment,Smartphone,Macos,20:30:00,5,5,At School,Mobile Data,20,24.38,24.185,1.75,0.046,Evening
+351,40,Male,Vietnam,55292,1,1,Driver,Rural,Tiktok,183,8,4530,Comedy,18,8619,7,11,46,16,Morning,8,2,Habit,Tablet,Android,09:15:00,10,0,At Home,Wi-Fi,9,22.88,47.098,5.75,0.06,Morning
+352,50,Male,Brazil,94813,1,0,Students,Rural,Instagram,226,12,5122,Entertainment,19,5821,3,11,35,93,Evening,6,4,Habit,Smartphone,Android,15:45:00,8,2,At Home,Wi-Fi,15,18.83,25.757,2.92,0.049,Afternoon
+353,20,Other,Germany,71631,1,1,Manager,Rural,Instagram,273,8,1976,Jokes/Memes,3,2537,4,25,29,75,Afternoon,5,5,Habit,Tablet,Android,18:05:00,7,3,At Work,Mobile Data,18,34.12,9.293,3.62,0.092,Evening
+354,35,Female,Pakistan,29885,0,0,Waiting Staff,Rural,Facebook,106,19,3217,Trends,9,6339,9,22,12,6,Night,3,7,Habit,Computer,Android,20:30:00,5,5,At Work,Mobile Data,20,5.58,59.802,0.63,0.208,Evening
+355,42,Female,Japan,79659,1,1,Teacher,Rural,Tiktok,126,3,9582,Trends,4,8736,4,10,18,3,Night,3,7,Boredom,Smartphone,Ios,20:30:00,5,5,At School,Wi-Fi,20,42.0,69.333,6.0,0.079,Evening
+356,59,Male,Philippines,74306,1,0,Labor/Worker,Rural,Facebook,208,18,4516,Jokes/Memes,17,4919,3,26,44,14,Night,3,7,Boredom,Smartphone,Windows,20:30:00,5,5,At Home,Mobile Data,20,11.56,23.649,2.44,0.125,Evening
+357,48,Female,Philippines,86314,1,1,Labor/Worker,Rural,Facebook,30,19,5693,Entertainment,17,7075,5,14,2,66,Evening,6,4,Entertainment,Smartphone,Ios,15:45:00,8,2,At Home,Mobile Data,15,1.58,235.833,0.11,0.467,Afternoon
+358,20,Other,Japan,85087,1,0,Waiting Staff,Rural,Instagram,209,19,9777,Pranks,23,3765,7,9,2,96,Morning,8,2,Habit,Smartphone,Ios,09:15:00,10,0,At Home,Mobile Data,9,11.0,18.014,0.11,0.043,Morning
+359,57,Male,Japan,49165,0,1,Labor/Worker,Rural,Instagram,257,15,4940,Trends,23,8850,5,20,17,95,Night,3,7,Entertainment,Tablet,Windows,20:30:00,5,5,At Home,Mobile Data,20,17.13,34.436,1.13,0.078,Evening
+360,63,Male,India,78929,1,0,Waiting Staff,Rural,Tiktok,285,6,5564,Jokes/Memes,2,7082,4,27,10,75,Evening,6,4,Boredom,Computer,Android,15:45:00,8,2,At School,Wi-Fi,15,47.5,24.849,1.67,0.095,Afternoon
+361,41,Male,India,87028,1,1,Students,Rural,Instagram,273,16,2964,Jokes/Memes,9,2827,8,21,18,86,Evening,6,4,Habit,Smartphone,Android,15:45:00,8,2,At Home,Mobile Data,15,17.06,10.355,1.12,0.077,Afternoon
+362,49,Other,Brazil,69812,1,1,Students,Rural,Instagram,67,8,4530,Trends,9,2058,4,10,22,67,Afternoon,5,5,Entertainment,Tablet,Windows,18:05:00,7,3,At Work,Mobile Data,18,8.38,30.716,2.75,0.149,Evening
+363,64,Male,United States,70500,1,1,Cashier,Rural,Tiktok,40,16,6787,Jokes/Memes,5,7749,2,22,19,31,Evening,6,4,Procrastination,Smartphone,Android,15:45:00,8,2,At Home,Mobile Data,15,2.5,193.725,1.19,0.55,Afternoon
+364,39,Female,India,99151,1,1,Teacher,Urban,Instagram,258,18,6201,Jokes/Memes,15,730,6,29,1,33,Morning,8,2,Entertainment,Smartphone,Ios,09:15:00,10,0,At School,Mobile Data,9,14.33,2.829,0.06,0.112,Morning
+365,40,Female,India,78643,1,0,Engineer,Urban,Facebook,102,16,977,Trends,15,1832,2,9,24,88,Evening,6,4,Boredom,Smartphone,Android,15:45:00,8,2,At Work,Wi-Fi,15,6.38,17.961,1.5,0.088,Afternoon
+366,19,Male,Pakistan,64900,1,1,Cashier,Urban,Tiktok,274,11,7346,Entertainment,3,8600,3,29,36,1,Afternoon,5,5,Boredom,Smartphone,Android,18:05:00,7,3,At Work,Mobile Data,18,24.91,31.387,3.27,0.106,Evening
+367,44,Male,Indonesia,62946,1,0,Students,Urban,Instagram,280,7,46,Gaming,19,6505,1,5,25,44,Night,3,7,Procrastination,Tablet,Ios,20:30:00,5,5,At Home,Mobile Data,20,40.0,23.232,3.57,0.018,Evening
+368,59,Male,Philippines,27851,0,1,Students,Rural,Youtube,103,17,1194,Jokes/Memes,28,7170,5,8,36,15,Night,3,7,Boredom,Smartphone,Windows,20:30:00,5,5,At School,Mobile Data,20,6.06,69.612,2.12,0.078,Evening
+369,19,Female,Brazil,36288,0,0,Students,Urban,Tiktok,163,17,4513,Jokes/Memes,3,4179,9,11,31,37,Night,3,7,Habit,Smartphone,Ios,20:30:00,5,5,Commuting,Mobile Data,20,9.59,25.638,1.82,0.067,Evening
+370,43,Male,Japan,92692,1,1,Labor/Worker,Rural,Tiktok,294,12,4944,Gaming,6,6299,2,1,31,27,Evening,6,4,Entertainment,Tablet,Android,15:45:00,8,2,At Work,Wi-Fi,15,24.5,21.425,2.58,0.003,Afternoon
+371,34,Male,India,87580,1,0,Driver,Rural,Youtube,89,13,6283,Gaming,4,7830,7,21,2,48,Evening,6,4,Entertainment,Smartphone,Android,15:45:00,8,2,At Home,Mobile Data,15,6.85,87.978,0.15,0.236,Afternoon
+372,57,Female,Germany,27368,0,1,Labor/Worker,Rural,Instagram,93,10,247,Life Hacks,24,4802,5,10,19,27,Afternoon,5,5,Habit,Tablet,Ios,18:05:00,7,3,At Home,Wi-Fi,18,9.3,51.634,1.9,0.108,Evening
+373,50,Male,Brazil,66403,1,0,Students,Urban,Instagram,46,7,3220,Entertainment,13,6057,2,1,12,12,Evening,6,4,Boredom,Computer,Android,15:45:00,8,2,Commuting,Mobile Data,15,6.57,131.674,1.71,0.022,Afternoon
+374,26,Female,Mexico,29168,0,1,Waiting Staff,Urban,Tiktok,241,14,8984,Pranks,27,6615,8,26,10,67,Morning,8,2,Habit,Tablet,Ios,09:15:00,10,0,At Home,Mobile Data,9,17.21,27.448,0.71,0.108,Morning
+375,60,Other,Vietnam,69879,1,0,Teacher,Urban,Tiktok,102,1,637,Gaming,13,6762,6,22,31,30,Night,3,7,Boredom,Smartphone,Android,20:30:00,5,5,At School,Wi-Fi,20,102.0,66.294,31.0,0.216,Evening
+376,56,Female,India,79871,1,1,Waiting Staff,Rural,Instagram,111,17,3776,Jokes/Memes,27,5543,4,7,45,96,Morning,8,2,Entertainment,Smartphone,Ios,09:15:00,10,0,At Work,Wi-Fi,9,6.53,49.937,2.65,0.063,Morning
+377,46,Other,United States,52174,1,0,Labor/Worker,Rural,Instagram,175,4,2422,Pranks,11,8325,4,28,22,87,Afternoon,5,5,Entertainment,Smartphone,Macos,18:05:00,7,3,At School,Mobile Data,18,43.75,47.571,5.5,0.16,Evening
+378,59,Female,Pakistan,26581,0,1,Students,Urban,Facebook,168,5,9281,Pranks,5,4883,2,14,23,66,Night,3,7,Habit,Tablet,Android,20:30:00,5,5,At School,Wi-Fi,20,33.6,29.065,4.6,0.083,Evening
+379,43,Female,Indonesia,91853,1,0,Driver,Rural,Tiktok,23,7,4184,Jokes/Memes,1,7050,3,5,23,7,Morning,8,2,Habit,Smartphone,Android,09:15:00,10,0,At School,Mobile Data,9,3.29,306.522,3.29,0.217,Morning
+380,52,Other,Pakistan,84046,1,1,Waiting Staff,Urban,Tiktok,234,10,713,Jokes/Memes,9,4959,7,17,15,34,Afternoon,5,5,Habit,Tablet,Android,18:05:00,7,3,At School,Mobile Data,18,23.4,21.192,1.5,0.073,Evening
+381,42,Male,Brazil,69678,1,0,Students,Rural,Youtube,82,17,5846,Gaming,17,666,3,22,26,32,Evening,6,4,Habit,Computer,Ios,15:45:00,8,2,At Home,Wi-Fi,15,4.82,8.122,1.53,0.268,Afternoon
+382,41,Male,Philippines,46649,0,1,Labor/Worker,Urban,Facebook,258,7,5324,Gaming,22,276,5,26,3,39,Evening,6,4,Entertainment,Tablet,Android,15:45:00,8,2,At Work,Wi-Fi,15,36.86,1.07,0.43,0.101,Afternoon
+383,30,Male,United States,34567,0,1,Labor/Worker,Rural,Instagram,100,1,6033,Jokes/Memes,1,881,6,21,23,96,Evening,6,4,Habit,Tablet,Android,15:45:00,8,2,At Work,Mobile Data,15,100.0,8.81,23.0,0.21,Afternoon
+384,24,Male,Mexico,81944,1,1,Students,Urban,Facebook,225,7,3645,Asmr,3,2060,6,6,20,43,Afternoon,5,5,Habit,Smartphone,Macos,18:05:00,7,3,At Home,Mobile Data,18,32.14,9.156,2.86,0.027,Evening
+385,53,Female,United States,98002,1,1,Students,Rural,Instagram,99,11,7774,Asmr,15,2082,4,16,45,43,Afternoon,5,5,Entertainment,Tablet,Android,18:05:00,7,3,At Work,Mobile Data,18,9.0,21.03,4.09,0.162,Evening
+386,62,Male,India,48803,0,0,Students,Urban,Instagram,38,9,2109,Trends,26,6702,6,11,40,78,Evening,6,4,Entertainment,Smartphone,Ios,15:45:00,8,2,At School,Mobile Data,15,4.22,176.368,4.44,0.289,Afternoon
+387,37,Female,United States,38230,0,1,Driver,Rural,Facebook,229,12,3615,Life Hacks,21,9429,3,10,39,3,Night,3,7,Habit,Smartphone,Ios,20:30:00,5,5,At Home,Mobile Data,20,19.08,41.175,3.25,0.044,Evening
+388,18,Male,India,37862,0,0,Students,Rural,Tiktok,224,3,9435,Entertainment,26,158,7,15,8,46,Night,3,7,Boredom,Smartphone,Android,20:30:00,5,5,At Home,Wi-Fi,20,74.67,0.705,2.67,0.067,Evening
+389,25,Male,Japan,63355,1,1,Manager,Urban,Instagram,230,4,6958,Gaming,23,5229,7,7,18,32,Night,3,7,Procrastination,Smartphone,Android,20:30:00,5,5,At Work,Mobile Data,20,57.5,22.735,4.5,0.03,Evening
+390,63,Male,Mexico,51259,1,0,Labor/Worker,Rural,Facebook,51,4,5280,Asmr,10,7956,4,23,41,43,Night,3,7,Procrastination,Tablet,Ios,20:30:00,5,5,At School,Wi-Fi,20,12.75,156.0,10.25,0.451,Evening
+391,33,Male,India,50795,1,1,Labor/Worker,Rural,Youtube,144,13,4333,Life Hacks,8,7514,2,2,6,81,Evening,6,4,Habit,Computer,Android,15:45:00,8,2,At Work,Mobile Data,15,11.08,52.181,0.46,0.014,Afternoon
+392,31,Female,Germany,28770,0,0,Labor/Worker,Urban,Facebook,51,19,3901,Pranks,12,7803,7,12,27,3,Evening,6,4,Boredom,Tablet,Android,15:45:00,8,2,At Home,Wi-Fi,15,2.68,153.0,1.42,0.235,Afternoon
+393,29,Male,Indonesia,31093,0,1,Labor/Worker,Urban,Youtube,173,10,7940,Jokes/Memes,25,2526,3,19,36,74,Night,3,7,Boredom,Smartphone,Windows,20:30:00,5,5,At Home,Mobile Data,20,17.3,14.601,3.6,0.11,Evening
+394,40,Male,Japan,66571,1,0,Students,Rural,Instagram,292,5,6964,Vlogs,22,8302,1,12,15,63,Evening,6,4,Boredom,Computer,Ios,15:45:00,8,2,Commuting,Wi-Fi,15,58.4,28.432,3.0,0.041,Afternoon
+395,32,Male,Brazil,20193,0,1,Manager,Rural,Facebook,67,7,4569,Jokes/Memes,15,7803,2,16,37,40,Night,3,7,Habit,Computer,Android,20:30:00,5,5,At Home,Mobile Data,20,9.57,116.463,5.29,0.239,Evening
+396,45,Other,United States,37569,0,0,Driver,Urban,Facebook,34,16,7839,Pranks,27,6574,9,6,5,18,Evening,6,4,Boredom,Smartphone,Android,15:45:00,8,2,At Home,Wi-Fi,15,2.12,193.353,0.31,0.176,Afternoon
+397,51,Female,Philippines,31190,0,1,Waiting Staff,Rural,Youtube,82,1,1846,Life Hacks,9,8733,8,3,39,67,Night,3,7,Habit,Smartphone,Ios,20:30:00,5,5,At Home,Mobile Data,20,82.0,106.5,39.0,0.037,Evening
+398,19,Other,India,82824,1,0,Labor/Worker,Rural,Facebook,138,12,383,Entertainment,24,1138,6,2,9,62,Night,3,7,Habit,Tablet,Android,20:30:00,5,5,At Home,Mobile Data,20,11.5,8.246,0.75,0.014,Evening
+399,49,Other,Vietnam,62752,1,1,Waiting Staff,Rural,Facebook,96,2,4113,Vlogs,25,7257,6,20,7,10,Morning,8,2,Habit,Computer,Ios,09:15:00,10,0,At Home,Wi-Fi,9,48.0,75.594,3.5,0.208,Morning
+400,40,Male,India,52327,1,0,Labor/Worker,Rural,Instagram,162,7,7070,Gaming,10,3283,1,5,41,52,Morning,8,2,Habit,Tablet,Android,07:45:00,10,0,At Home,Mobile Data,7,23.14,20.265,5.86,0.031,Morning
+401,39,Male,Vietnam,62070,1,1,Students,Rural,Facebook,191,11,3811,Vlogs,20,7762,2,11,20,73,Afternoon,5,5,Procrastination,Computer,Windows,19:25:00,7,3,At Home,Mobile Data,19,17.36,40.639,1.82,0.058,Evening
+402,42,Female,United States,60197,1,0,Driver,Rural,Tiktok,134,13,1510,Life Hacks,9,7896,4,26,10,46,Afternoon,5,5,Boredom,Smartphone,Ios,19:25:00,7,3,At Work,Mobile Data,19,10.31,58.925,0.77,0.194,Evening
+403,39,Female,Vietnam,22261,0,1,Students,Urban,Youtube,76,2,7574,Gaming,15,2419,3,25,26,55,Afternoon,5,5,Boredom,Smartphone,Ios,19:25:00,7,3,At School,Mobile Data,19,38.0,31.829,13.0,0.329,Evening
+404,39,Female,Germany,46512,0,1,Engineer,Rural,Facebook,15,7,1579,Vlogs,23,1756,1,3,4,46,Afternoon,5,5,Procrastination,Smartphone,Ios,19:25:00,7,3,At Home,Mobile Data,19,2.14,117.067,0.57,0.2,Evening
+405,59,Male,United States,26716,0,1,Students,Urban,Youtube,134,15,880,Entertainment,21,2306,8,3,38,75,Evening,6,4,Boredom,Tablet,Android,15:55:00,8,2,At Home,Mobile Data,15,8.93,17.209,2.53,0.022,Afternoon
+406,23,Male,Mexico,48933,0,1,Engineer,Rural,Youtube,62,11,2163,Pranks,21,7630,7,22,24,60,Morning,8,2,Boredom,Tablet,Android,07:45:00,10,0,At School,Mobile Data,7,5.64,123.065,2.18,0.355,Morning
+407,32,Female,Indonesia,24378,0,0,Driver,Rural,Youtube,75,2,9765,Life Hacks,1,6263,4,5,14,97,Evening,6,4,Procrastination,Tablet,Android,15:55:00,8,2,At Home,Mobile Data,15,37.5,83.507,7.0,0.067,Afternoon
+408,60,Male,Mexico,60583,1,1,Cashier,Rural,Facebook,91,7,9841,Entertainment,2,9167,9,22,41,26,Night,3,7,Habit,Computer,Android,23:30:00,5,5,At Work,Wi-Fi,23,13.0,100.736,5.86,0.242,Night
+409,54,Male,India,49033,0,0,Driver,Rural,Facebook,96,4,7715,Entertainment,26,5008,4,23,1,27,Evening,6,4,Boredom,Smartphone,Macos,15:55:00,8,2,At Work,Mobile Data,15,24.0,52.167,0.25,0.24,Afternoon
+410,50,Other,India,44000,0,1,Engineer,Urban,Youtube,11,11,1360,Jokes/Memes,19,5247,1,11,17,38,Night,3,7,Procrastination,Tablet,Ios,23:30:00,5,5,At Work,Mobile Data,23,1.0,477.0,1.55,1.0,Night
+411,25,Male,Indonesia,95868,1,0,Waiting Staff,Rural,Tiktok,213,2,4432,Jokes/Memes,14,8914,1,3,45,22,Night,3,7,Habit,Computer,Android,23:30:00,5,5,At Home,Mobile Data,23,106.5,41.85,22.5,0.014,Night
+412,61,Male,Vietnam,62604,1,1,Students,Urban,Youtube,159,16,8149,Vlogs,8,2570,1,13,24,26,Morning,8,2,Entertainment,Smartphone,Ios,07:45:00,10,0,At Home,Mobile Data,7,9.94,16.164,1.5,0.082,Morning
+413,61,Male,Philippines,88336,1,0,Waiting Staff,Rural,Tiktok,112,7,3961,Trends,6,5807,1,21,27,86,Afternoon,5,5,Entertainment,Smartphone,Android,19:25:00,7,3,At Work,Mobile Data,19,16.0,51.848,3.86,0.188,Evening
+414,22,Female,Pakistan,93869,1,1,Students,Urban,Youtube,33,13,3812,Asmr,12,7812,4,8,7,69,Evening,6,4,Habit,Smartphone,Android,15:55:00,8,2,At Home,Mobile Data,15,2.54,236.727,0.54,0.242,Afternoon
+415,56,Male,India,25410,0,0,Waiting Staff,Rural,Instagram,221,5,4243,Gaming,26,324,1,20,9,35,Morning,8,2,Boredom,Tablet,Android,07:45:00,10,0,At School,Mobile Data,7,44.2,1.466,1.8,0.09,Morning
+416,21,Female,Indonesia,76044,1,1,Manager,Rural,Youtube,74,17,4218,Asmr,27,7487,2,10,43,66,Night,3,7,Boredom,Smartphone,Android,23:30:00,5,5,Commuting,Mobile Data,23,4.35,101.176,2.53,0.135,Night
+417,23,Female,Indonesia,83315,1,0,Students,Urban,Youtube,218,12,81,Asmr,29,9721,4,2,35,99,Evening,6,4,Habit,Smartphone,Android,15:55:00,8,2,At School,Mobile Data,15,18.17,44.592,2.92,0.009,Afternoon
+418,62,Male,India,91344,1,1,Teacher,Rural,Facebook,260,19,2733,Jokes/Memes,15,5645,7,4,12,73,Afternoon,5,5,Boredom,Smartphone,Ios,19:25:00,7,3,Commuting,Mobile Data,19,13.68,21.712,0.63,0.015,Evening
+419,49,Male,Brazil,26796,0,0,Labor/Worker,Urban,Tiktok,126,7,7834,Life Hacks,14,1945,2,18,21,51,Night,3,7,Habit,Smartphone,Ios,23:30:00,5,5,Commuting,Wi-Fi,23,18.0,15.437,3.0,0.143,Night
+420,47,Male,Vietnam,74245,1,1,Students,Urban,Instagram,125,6,2710,Vlogs,21,4486,8,19,3,18,Morning,8,2,Habit,Smartphone,Android,07:45:00,10,0,At School,Wi-Fi,7,20.83,35.888,0.5,0.152,Morning
+421,64,Male,India,63056,1,0,Students,Urban,Tiktok,246,8,2423,Entertainment,29,2430,7,4,15,43,Evening,6,4,Boredom,Smartphone,Android,15:55:00,8,2,At School,Mobile Data,15,30.75,9.878,1.88,0.016,Afternoon
+422,52,Male,Indonesia,37709,0,1,Engineer,Rural,Instagram,114,13,3642,Gaming,1,3510,9,20,21,12,Morning,8,2,Boredom,Tablet,Windows,07:45:00,10,0,Commuting,Wi-Fi,7,8.77,30.789,1.62,0.175,Morning
+423,57,Male,India,78557,1,0,Waiting Staff,Rural,Youtube,268,5,668,Pranks,28,845,6,26,10,3,Night,3,7,Entertainment,Tablet,Ios,23:30:00,5,5,At Home,Mobile Data,23,53.6,3.153,2.0,0.097,Night
+424,33,Male,India,37543,0,1,Waiting Staff,Rural,Facebook,55,2,2497,Jokes/Memes,11,567,4,9,33,82,Evening,6,4,Procrastination,Smartphone,Windows,15:55:00,8,2,At Work,Mobile Data,15,27.5,10.309,16.5,0.164,Afternoon
+425,30,Male,India,57418,1,1,Waiting Staff,Rural,Facebook,225,9,3500,Comedy,28,2179,6,16,46,7,Evening,6,4,Habit,Smartphone,Android,15:55:00,8,2,At Work,Mobile Data,15,25.0,9.684,5.11,0.071,Afternoon
+426,59,Female,Brazil,36724,0,1,Artist,Urban,Tiktok,33,11,9637,Pranks,25,2019,4,26,6,97,Night,3,7,Boredom,Smartphone,Android,23:30:00,5,5,At School,Mobile Data,23,3.0,61.182,0.55,0.788,Night
+427,47,Male,United States,23828,0,1,Waiting Staff,Rural,Facebook,44,6,9538,Asmr,3,3319,7,6,2,6,Evening,6,4,Habit,Computer,Android,15:55:00,8,2,At Home,Wi-Fi,15,7.33,75.432,0.33,0.136,Afternoon
+428,36,Male,Mexico,37087,0,0,Engineer,Rural,Tiktok,33,7,8081,Trends,19,2320,9,25,29,82,Evening,6,4,Entertainment,Smartphone,Ios,15:55:00,8,2,Commuting,Wi-Fi,15,4.71,70.303,4.14,0.758,Afternoon
+429,34,Male,Indonesia,32605,0,1,Teacher,Urban,Tiktok,37,7,6824,Vlogs,18,1646,3,4,40,45,Evening,6,4,Boredom,Computer,Android,15:55:00,8,2,At Work,Wi-Fi,15,5.29,44.486,5.71,0.108,Afternoon
+430,36,Female,Vietnam,51337,1,0,Artist,Rural,Instagram,25,19,1190,Pranks,20,3909,3,9,33,86,Evening,6,4,Habit,Smartphone,Android,15:55:00,8,2,At Work,Mobile Data,15,1.32,156.36,1.74,0.36,Afternoon
+431,45,Male,Pakistan,25482,0,1,Labor/Worker,Rural,Tiktok,68,6,6605,Trends,28,8015,2,27,4,39,Night,3,7,Boredom,Smartphone,Android,23:30:00,5,5,At Home,Wi-Fi,23,11.33,117.868,0.67,0.397,Night
+432,43,Female,United States,85333,1,0,Students,Rural,Instagram,252,11,8651,Comedy,2,3420,1,13,4,51,Evening,6,4,Boredom,Smartphone,Android,15:55:00,8,2,At Home,Mobile Data,15,22.91,13.571,0.36,0.052,Afternoon
+433,54,Female,United States,70952,1,1,Waiting Staff,Urban,Facebook,216,11,9405,Gaming,29,356,1,9,29,9,Afternoon,5,5,Habit,Smartphone,Macos,19:25:00,7,3,At Work,Wi-Fi,19,19.64,1.648,2.64,0.042,Evening
+434,43,Male,Philippines,25463,0,0,Students,Rural,Tiktok,280,7,9104,Comedy,25,7485,3,6,37,99,Night,3,7,Entertainment,Tablet,Android,23:30:00,5,5,At Work,Wi-Fi,23,40.0,26.732,5.29,0.021,Night
+435,40,Other,Philippines,90448,1,1,Engineer,Rural,Tiktok,258,2,1026,Life Hacks,28,3081,7,21,20,23,Evening,6,4,Habit,Smartphone,Android,15:55:00,8,2,At Home,Wi-Fi,15,129.0,11.942,10.0,0.081,Afternoon
+436,26,Other,Japan,24648,0,0,Students,Rural,Youtube,276,19,7786,Vlogs,26,2280,9,19,41,12,Morning,8,2,Boredom,Tablet,Android,07:45:00,10,0,At Home,Wi-Fi,7,14.53,8.261,2.16,0.069,Morning
+437,29,Female,Brazil,53623,1,1,Labor/Worker,Urban,Tiktok,202,4,72,Trends,7,4131,2,14,23,88,Night,3,7,Boredom,Smartphone,Macos,23:30:00,5,5,At School,Mobile Data,23,50.5,20.45,5.75,0.069,Night
+438,18,Female,Pakistan,79156,1,0,Students,Urban,Tiktok,227,6,5547,Pranks,8,5123,7,21,45,62,Afternoon,6,4,Entertainment,Tablet,Android,19:25:00,8,2,At School,Wi-Fi,19,37.83,22.568,7.5,0.093,Evening
+439,18,Male,Japan,55634,1,1,Students,Rural,Youtube,124,17,2686,Asmr,19,7422,1,15,18,73,Evening,7,3,Habit,Smartphone,Windows,15:55:00,9,1,At Work,Mobile Data,15,7.29,59.855,1.06,0.121,Afternoon
+440,64,Male,Brazil,64602,1,0,Cashier,Rural,Youtube,77,5,9386,Jokes/Memes,22,2787,2,3,49,77,Night,2,8,Entertainment,Smartphone,Ios,23:30:00,4,6,At School,Wi-Fi,23,15.4,36.195,9.8,0.039,Night
+441,51,Female,Vietnam,69334,1,1,Cashier,Urban,Facebook,84,7,7373,Entertainment,15,4209,6,5,25,40,Night,2,8,Entertainment,Smartphone,Macos,23:30:00,4,6,At Work,Mobile Data,23,12.0,50.107,3.57,0.06,Night
+442,49,Male,India,88648,1,0,Labor/Worker,Rural,Tiktok,112,9,1849,Vlogs,10,6540,5,21,1,54,Evening,7,3,Boredom,Smartphone,Android,15:55:00,9,1,At School,Mobile Data,15,12.44,58.393,0.11,0.188,Afternoon
+443,42,Male,Vietnam,42054,0,1,Driver,Rural,Facebook,187,1,2023,Pranks,22,9389,8,18,15,81,Morning,9,1,Habit,Smartphone,Android,07:45:00,10,0,At Work,Mobile Data,7,187.0,50.209,15.0,0.096,Morning
+444,57,Male,Mexico,90028,1,0,Manager,Rural,Facebook,224,1,6339,Life Hacks,29,9470,2,14,34,7,Evening,7,3,Boredom,Smartphone,Android,15:55:00,9,1,At School,Mobile Data,15,224.0,42.277,34.0,0.062,Afternoon
+445,62,Male,United States,42207,0,1,Students,Rural,Youtube,48,19,3742,Life Hacks,1,465,1,16,48,17,Evening,7,3,Boredom,Tablet,Android,15:55:00,9,1,At School,Mobile Data,15,2.53,9.688,2.53,0.333,Afternoon
+446,18,Male,India,41386,0,1,Waiting Staff,Rural,Instagram,268,6,1299,Life Hacks,6,1487,7,14,20,50,Night,2,8,Entertainment,Smartphone,Android,23:30:00,4,6,At Work,Mobile Data,23,44.67,5.549,3.33,0.052,Night
+447,33,Female,Philippines,79518,1,1,Labor/Worker,Rural,Facebook,213,18,4103,Gaming,13,4942,6,9,37,24,Morning,9,1,Entertainment,Smartphone,Android,07:45:00,10,0,At Home,Wi-Fi,7,11.83,23.202,2.06,0.042,Morning
+448,56,Male,Brazil,72781,1,1,Engineer,Rural,Instagram,16,10,905,Vlogs,14,4597,8,15,27,2,Evening,7,3,Boredom,Smartphone,Android,15:55:00,9,1,Commuting,Mobile Data,15,1.6,287.312,2.7,0.938,Afternoon
+449,22,Male,Vietnam,72780,1,0,Labor/Worker,Urban,Tiktok,58,11,3027,Trends,3,4536,8,7,22,99,Night,2,8,Boredom,Tablet,Macos,23:30:00,4,6,At School,Mobile Data,23,5.27,78.207,2.0,0.121,Night
+450,39,Female,India,81440,1,1,Driver,Urban,Youtube,35,1,6710,Entertainment,11,325,2,14,5,92,Evening,7,3,Boredom,Smartphone,Android,15:55:00,9,1,At Home,Mobile Data,15,35.0,9.286,5.0,0.4,Afternoon
+451,46,Other,Mexico,64199,1,0,Driver,Urban,Tiktok,170,1,4712,Jokes/Memes,3,9957,8,6,34,83,Afternoon,6,4,Habit,Smartphone,Windows,19:25:00,8,2,At School,Mobile Data,19,170.0,58.571,34.0,0.035,Evening
+452,20,Male,Indonesia,81035,1,1,Waiting Staff,Rural,Tiktok,185,13,8022,Entertainment,19,4162,6,21,39,33,Evening,7,3,Boredom,Smartphone,Windows,15:55:00,9,1,At Work,Mobile Data,15,14.23,22.497,3.0,0.114,Afternoon
+453,29,Male,United States,28210,0,0,Driver,Urban,Youtube,88,5,5970,Entertainment,10,303,9,15,3,21,Evening,7,3,Entertainment,Computer,Android,15:55:00,9,1,At Work,Wi-Fi,15,17.6,3.443,0.6,0.17,Afternoon
+454,43,Male,United States,64363,1,1,Manager,Rural,Tiktok,11,1,2621,Vlogs,27,5067,7,20,17,74,Evening,7,3,Boredom,Tablet,Macos,15:55:00,9,1,At Home,Wi-Fi,15,11.0,460.636,17.0,1.818,Afternoon
+455,33,Male,Mexico,98279,1,0,Driver,Rural,Youtube,141,3,2647,Entertainment,15,5024,2,8,24,53,Night,2,8,Entertainment,Smartphone,Android,23:30:00,4,6,At Home,Mobile Data,23,47.0,35.631,8.0,0.057,Night
+456,54,Other,Mexico,80348,1,1,Labor/Worker,Rural,Instagram,285,18,4866,Trends,11,7715,8,2,24,46,Afternoon,6,4,Entertainment,Tablet,Ios,19:25:00,8,2,Commuting,Mobile Data,19,15.83,27.07,1.33,0.007,Evening
+457,39,Other,Vietnam,75284,1,0,Labor/Worker,Urban,Tiktok,126,9,7346,Jokes/Memes,15,9632,9,8,3,45,Evening,7,3,Boredom,Smartphone,Android,15:55:00,9,1,At School,Mobile Data,15,14.0,76.444,0.33,0.063,Afternoon
+458,46,Male,India,92124,1,1,Waiting Staff,Rural,Youtube,173,14,2290,Trends,26,8340,7,1,45,9,Evening,7,3,Entertainment,Tablet,Macos,15:55:00,9,1,At Home,Mobile Data,15,12.36,48.208,3.21,0.006,Afternoon
+459,31,Female,Japan,88847,1,0,Manager,Rural,Facebook,297,17,7371,Vlogs,27,2631,4,26,7,6,Afternoon,6,4,Boredom,Tablet,Ios,19:25:00,8,2,At Work,Mobile Data,19,17.47,8.859,0.41,0.088,Evening
+460,45,Male,United States,42432,0,1,Students,Rural,Tiktok,37,14,3873,Entertainment,24,6391,9,17,25,51,Afternoon,6,4,Habit,Tablet,Android,19:25:00,8,2,At Work,Mobile Data,19,2.64,172.73,1.79,0.459,Evening
+461,22,Female,United States,84089,1,0,Labor/Worker,Rural,Instagram,10,4,9678,Vlogs,13,8287,4,19,3,35,Afternoon,6,4,Procrastination,Tablet,Ios,19:25:00,8,2,At Home,Wi-Fi,19,2.5,828.7,0.75,1.9,Evening
+462,64,Male,Indonesia,75398,1,1,Labor/Worker,Rural,Youtube,197,5,7691,Life Hacks,5,2369,4,5,15,82,Afternoon,6,4,Boredom,Smartphone,Macos,19:25:00,8,2,At Home,Mobile Data,19,39.4,12.025,3.0,0.025,Evening
+463,47,Female,Indonesia,23321,0,0,Labor/Worker,Rural,Tiktok,65,17,1441,Jokes/Memes,4,528,9,22,29,53,Morning,9,1,Procrastination,Tablet,Windows,07:45:00,10,0,At Home,Wi-Fi,7,3.82,8.123,1.71,0.338,Morning
+464,63,Male,India,57383,1,1,Engineer,Rural,Tiktok,44,2,766,Life Hacks,13,4675,8,20,29,19,Afternoon,6,4,Entertainment,Smartphone,Android,19:25:00,8,2,At Work,Mobile Data,19,22.0,106.25,14.5,0.455,Evening
+465,22,Male,Mexico,98682,1,0,Labor/Worker,Urban,Tiktok,121,5,4093,Jokes/Memes,9,1663,4,16,10,69,Night,2,8,Habit,Tablet,Ios,23:30:00,4,6,At Work,Mobile Data,23,24.2,13.744,2.0,0.132,Night
+466,29,Female,Brazil,99190,1,1,Waiting Staff,Rural,Instagram,295,4,9342,Asmr,25,3364,8,7,32,25,Evening,7,3,Habit,Smartphone,Ios,15:55:00,9,1,At Home,Wi-Fi,15,73.75,11.403,8.0,0.024,Afternoon
+467,33,Female,India,72893,1,1,Driver,Rural,Youtube,45,4,2667,Trends,17,2341,8,7,23,11,Afternoon,6,4,Entertainment,Smartphone,Ios,19:25:00,8,2,Commuting,Wi-Fi,19,11.25,52.022,5.75,0.156,Evening
+468,43,Male,United States,55820,1,1,Students,Rural,Facebook,226,6,8656,Vlogs,2,6656,7,18,39,74,Evening,7,3,Procrastination,Smartphone,Android,15:55:00,9,1,At School,Wi-Fi,15,37.67,29.451,6.5,0.08,Afternoon
+469,43,Female,Vietnam,86262,1,1,Manager,Rural,Facebook,89,13,5969,Life Hacks,24,4905,6,18,9,17,Morning,9,1,Boredom,Smartphone,Android,07:45:00,10,0,At Work,Mobile Data,7,6.85,55.112,0.69,0.202,Morning
+470,38,Male,Indonesia,23760,0,0,Students,Rural,Facebook,92,5,7642,Vlogs,5,8884,8,2,37,36,Night,2,8,Entertainment,Smartphone,Ios,23:30:00,4,6,At School,Wi-Fi,23,18.4,96.565,7.4,0.022,Night
+471,56,Other,United States,42190,0,1,Driver,Urban,Youtube,74,7,2182,Jokes/Memes,16,9143,7,15,40,90,Morning,9,1,Habit,Smartphone,Ios,07:45:00,10,0,At Home,Mobile Data,7,10.57,123.554,5.71,0.203,Morning
+472,53,Female,India,87411,1,0,Students,Urban,Facebook,137,1,9835,Gaming,7,5950,5,14,14,95,Night,2,8,Entertainment,Tablet,Android,23:30:00,4,6,At Home,Mobile Data,23,137.0,43.431,14.0,0.102,Night
+473,50,Other,Philippines,43377,0,1,Labor/Worker,Rural,Instagram,31,14,3889,Comedy,1,1360,4,18,4,96,Night,2,8,Habit,Tablet,Android,23:30:00,4,6,At Work,Mobile Data,23,2.21,43.871,0.29,0.581,Night
+474,47,Male,United States,66737,1,0,Students,Rural,Youtube,225,4,841,Jokes/Memes,28,5127,2,29,20,21,Afternoon,6,4,Habit,Smartphone,Ios,19:25:00,8,2,At Work,Mobile Data,19,56.25,22.787,5.0,0.129,Evening
+475,54,Male,India,89569,1,1,Manager,Rural,Tiktok,116,17,5900,Life Hacks,26,5562,8,9,28,18,Morning,9,1,Boredom,Smartphone,Windows,07:45:00,10,0,Commuting,Wi-Fi,7,6.82,47.948,1.65,0.078,Morning
+476,40,Male,Brazil,58211,1,0,Manager,Rural,Instagram,118,14,4119,Comedy,12,8730,9,14,14,60,Night,2,8,Entertainment,Smartphone,Android,23:30:00,4,6,At Home,Wi-Fi,23,8.43,73.983,1.0,0.119,Night
+477,27,Female,India,23744,0,1,Driver,Rural,Tiktok,190,16,566,Life Hacks,21,9011,4,5,44,18,Morning,9,1,Habit,Smartphone,Android,07:45:00,10,0,At School,Mobile Data,7,11.88,47.426,2.75,0.026,Morning
+478,22,Male,Philippines,44995,0,0,Driver,Urban,Facebook,173,14,6006,Gaming,11,5777,4,11,34,1,Afternoon,6,4,Procrastination,Computer,Macos,19:25:00,8,2,At Home,Mobile Data,19,12.36,33.393,2.43,0.064,Evening
+479,53,Male,India,36977,0,1,Students,Urban,Instagram,77,16,9157,Entertainment,12,3925,5,8,13,14,Evening,7,3,Entertainment,Smartphone,Macos,15:55:00,9,1,At Home,Mobile Data,15,4.81,50.974,0.81,0.104,Afternoon
+480,51,Female,Japan,54542,1,0,Driver,Urban,Youtube,189,8,9188,Trends,19,8463,2,5,31,8,Evening,7,3,Entertainment,Smartphone,Ios,15:55:00,9,1,Commuting,Wi-Fi,15,23.62,44.778,3.88,0.026,Afternoon
+481,48,Other,United States,30651,0,1,Labor/Worker,Rural,Instagram,190,3,7227,Pranks,26,8001,7,29,33,66,Night,2,8,Entertainment,Smartphone,Windows,23:30:00,4,6,At Home,Wi-Fi,23,63.33,42.111,11.0,0.153,Night
+482,27,Female,India,98931,1,0,Labor/Worker,Rural,Tiktok,178,19,9380,Jokes/Memes,12,1028,5,11,39,51,Morning,9,1,Procrastination,Smartphone,Windows,07:45:00,10,0,Commuting,Wi-Fi,7,9.37,5.775,2.05,0.062,Morning
+483,36,Male,Germany,36715,0,1,Waiting Staff,Urban,Youtube,31,1,5891,Life Hacks,12,6018,6,5,28,79,Night,2,8,Boredom,Tablet,Windows,23:30:00,4,6,At Home,Wi-Fi,23,31.0,194.129,28.0,0.161,Night
+484,49,Female,Japan,64409,1,0,Artist,Rural,Instagram,75,2,4312,Comedy,14,1242,4,17,25,60,Afternoon,6,4,Habit,Tablet,Android,19:25:00,8,2,At Home,Mobile Data,19,37.5,16.56,12.5,0.227,Evening
+485,18,Male,Japan,44306,0,1,Waiting Staff,Rural,Instagram,30,15,7737,Trends,2,9333,8,22,32,34,Evening,7,3,Habit,Smartphone,Ios,15:55:00,9,1,At Home,Mobile Data,15,2.0,311.1,2.13,0.733,Afternoon
+486,22,Female,India,39086,0,0,Labor/Worker,Rural,Instagram,109,10,8849,Trends,2,8784,8,4,9,36,Evening,7,3,Boredom,Tablet,Ios,15:55:00,9,1,At Home,Mobile Data,15,10.9,80.587,0.9,0.037,Afternoon
+487,62,Male,Germany,34376,0,1,Waiting Staff,Urban,Instagram,112,18,2983,Life Hacks,25,7119,5,15,28,62,Night,2,8,Entertainment,Tablet,Android,23:30:00,4,6,At Work,Wi-Fi,23,6.22,63.562,1.56,0.134,Night
+488,21,Other,India,81350,1,1,Labor/Worker,Rural,Youtube,56,14,9306,Life Hacks,29,9797,6,19,31,1,Afternoon,6,4,Boredom,Smartphone,Ios,19:25:00,8,2,At Work,Wi-Fi,19,4.0,174.946,2.21,0.339,Evening
+489,33,Male,United States,91425,1,1,Waiting Staff,Urban,Tiktok,48,17,6084,Gaming,4,4210,3,22,17,85,Evening,7,3,Boredom,Smartphone,Android,15:55:00,9,1,At Home,Wi-Fi,15,2.82,87.708,1.0,0.458,Afternoon
+490,41,Female,Brazil,56636,1,1,Students,Rural,Instagram,294,13,557,Pranks,20,6406,1,2,23,42,Evening,7,3,Entertainment,Computer,Windows,15:55:00,9,1,Commuting,Mobile Data,15,22.62,21.789,1.77,0.007,Afternoon
+491,33,Female,Pakistan,71649,1,0,Driver,Urban,Youtube,99,1,3020,Vlogs,23,3377,9,24,13,1,Evening,7,3,Entertainment,Tablet,Android,15:55:00,9,1,At Home,Wi-Fi,15,99.0,34.111,13.0,0.242,Afternoon
+492,19,Male,United States,54610,1,1,Students,Rural,Tiktok,94,5,2581,Jokes/Memes,26,4071,9,17,10,96,Evening,7,3,Habit,Smartphone,Ios,15:55:00,9,1,At Work,Mobile Data,15,18.8,43.309,2.0,0.181,Afternoon
+493,45,Female,India,30058,0,0,Students,Rural,Instagram,282,13,8147,Asmr,16,1440,3,12,16,84,Night,2,8,Boredom,Tablet,Android,23:30:00,4,6,At Home,Mobile Data,23,21.69,5.106,1.23,0.043,Night
+494,49,Male,Brazil,94637,1,1,Students,Rural,Tiktok,197,14,8244,Entertainment,10,3626,4,25,6,54,Night,2,8,Habit,Tablet,Android,23:30:00,4,6,At Home,Mobile Data,23,14.07,18.406,0.43,0.127,Night
+495,44,Male,Indonesia,98033,1,0,Labor/Worker,Rural,Tiktok,168,3,9554,Gaming,13,184,7,24,48,47,Afternoon,6,4,Procrastination,Computer,Ios,19:25:00,8,2,At School,Mobile Data,19,56.0,1.095,16.0,0.143,Evening
+496,37,Male,India,90194,1,1,Waiting Staff,Rural,Youtube,252,15,9387,Jokes/Memes,2,4996,2,17,11,39,Night,2,8,Procrastination,Smartphone,Android,23:30:00,4,6,At Work,Mobile Data,23,16.8,19.825,0.73,0.067,Night
+497,41,Female,Indonesia,96917,1,0,Engineer,Urban,Tiktok,82,19,4020,Vlogs,3,8412,3,10,3,30,Night,2,8,Entertainment,Tablet,Android,23:30:00,4,6,At Home,Mobile Data,23,4.32,102.585,0.16,0.122,Night
+498,29,Female,Germany,84200,1,1,Driver,Urban,Youtube,58,17,3139,Entertainment,19,8031,6,28,28,7,Night,2,8,Entertainment,Tablet,Android,23:30:00,4,6,At Home,Mobile Data,23,3.41,138.466,1.65,0.483,Night
+499,52,Male,Indonesia,66619,1,0,Artist,Rural,Instagram,110,3,9841,Gaming,6,5563,8,25,41,22,Morning,9,1,Entertainment,Computer,Ios,07:45:00,10,0,At Work,Mobile Data,7,36.67,50.573,13.67,0.227,Morning
+500,50,Female,Vietnam,37154,0,1,Waiting Staff,Rural,Tiktok,11,16,672,Jokes/Memes,19,3188,1,18,15,50,Morning,9,1,Boredom,Tablet,Android,07:45:00,10,0,At Home,Wi-Fi,7,0.69,289.818,0.94,1.636,Morning
+501,50,Male,United States,39539,0,0,Driver,Urban,Tiktok,253,14,778,Vlogs,27,9285,4,19,13,45,Night,2,8,Habit,Tablet,Ios,23:30:00,4,6,At Home,Wi-Fi,23,18.07,36.7,0.93,0.075,Night
+502,60,Other,United States,80058,1,1,Students,Rural,Facebook,185,12,4928,Vlogs,21,2945,1,18,42,74,Morning,9,1,Entertainment,Tablet,Ios,07:45:00,10,0,At Home,Mobile Data,7,15.42,15.919,3.5,0.097,Morning
+503,54,Male,Pakistan,82068,1,0,Students,Urban,Instagram,247,12,3023,Jokes/Memes,20,6765,2,13,45,72,Evening,7,3,Entertainment,Tablet,Android,15:55:00,9,1,At Home,Mobile Data,15,20.58,27.389,3.75,0.053,Afternoon
+504,29,Male,Vietnam,97313,1,1,Students,Rural,Instagram,68,11,1861,Life Hacks,19,2474,8,14,17,91,Morning,9,1,Boredom,Smartphone,Windows,07:45:00,10,0,At Home,Mobile Data,7,6.18,36.382,1.55,0.206,Morning
+505,20,Female,India,50373,1,0,Waiting Staff,Urban,Facebook,108,17,3140,Asmr,8,6787,6,24,7,10,Afternoon,6,4,Boredom,Smartphone,Ios,19:25:00,8,2,Commuting,Wi-Fi,19,6.35,62.843,0.41,0.222,Evening
+506,18,Male,Pakistan,53154,1,1,Manager,Rural,Facebook,11,8,1075,Jokes/Memes,14,8792,9,16,28,14,Afternoon,6,4,Entertainment,Computer,Ios,19:25:00,8,2,At School,Mobile Data,19,1.38,799.273,3.5,1.455,Evening
+507,50,Male,Indonesia,26031,0,0,Labor/Worker,Rural,Youtube,252,17,9909,Jokes/Memes,10,9352,2,18,38,46,Evening,7,3,Entertainment,Tablet,Android,15:55:00,9,1,At Work,Mobile Data,15,14.82,37.111,2.24,0.071,Afternoon
+508,57,Female,India,91975,1,1,Students,Rural,Youtube,220,11,9476,Comedy,3,4599,3,26,13,75,Evening,7,3,Habit,Smartphone,Android,15:55:00,9,1,At Home,Wi-Fi,15,20.0,20.905,1.18,0.118,Afternoon
+509,27,Female,Philippines,42785,0,1,Labor/Worker,Rural,Tiktok,132,2,6764,Vlogs,6,6274,9,18,17,6,Afternoon,6,4,Entertainment,Smartphone,Android,19:25:00,8,2,At Work,Mobile Data,19,66.0,47.53,8.5,0.136,Evening
+510,60,Other,India,98928,1,1,Labor/Worker,Rural,Tiktok,238,10,1987,Pranks,29,4313,9,16,15,21,Night,2,8,Procrastination,Smartphone,Macos,23:30:00,4,6,At Work,Mobile Data,23,23.8,18.122,1.5,0.067,Night
+511,61,Female,Mexico,48669,0,1,Labor/Worker,Rural,Tiktok,91,10,9194,Jokes/Memes,15,2218,6,17,36,62,Night,2,8,Habit,Smartphone,Android,23:30:00,4,6,Commuting,Mobile Data,23,9.1,24.374,3.6,0.187,Night
+512,46,Male,Pakistan,22282,0,0,Students,Urban,Tiktok,153,11,6328,Gaming,23,1152,3,7,28,97,Afternoon,6,4,Boredom,Smartphone,Android,19:25:00,8,2,At School,Wi-Fi,19,13.91,7.529,2.55,0.046,Evening
+513,30,Female,Indonesia,54624,1,1,Engineer,Rural,Youtube,149,6,1047,Asmr,23,56,5,12,15,19,Morning,9,1,Entertainment,Smartphone,Ios,07:45:00,10,0,At Work,Wi-Fi,7,24.83,0.376,2.5,0.081,Morning
+514,29,Female,India,68438,1,0,Labor/Worker,Urban,Instagram,38,4,2177,Vlogs,18,9396,2,2,46,88,Night,2,8,Entertainment,Smartphone,Ios,23:30:00,4,6,At Home,Mobile Data,23,9.5,247.263,11.5,0.053,Night
+515,48,Other,Brazil,87534,1,1,Labor/Worker,Rural,Tiktok,279,12,2339,Comedy,14,143,7,10,11,82,Afternoon,6,4,Boredom,Smartphone,Android,19:25:00,8,2,At Work,Mobile Data,19,23.25,0.513,0.92,0.036,Evening
+516,63,Male,United States,51705,1,0,Students,Rural,Instagram,256,11,501,Entertainment,19,7218,8,5,31,99,Evening,7,3,Procrastination,Smartphone,Windows,15:55:00,9,1,At Home,Mobile Data,15,23.27,28.195,2.82,0.02,Afternoon
+517,19,Male,Japan,58244,1,1,Waiting Staff,Urban,Tiktok,21,13,2234,Vlogs,28,8559,6,21,4,62,Afternoon,6,4,Habit,Smartphone,Android,19:25:00,8,2,At School,Mobile Data,19,1.62,407.571,0.31,1.0,Evening
+518,52,Male,United States,94964,1,0,Waiting Staff,Urban,Facebook,115,5,4609,Trends,26,9674,8,3,35,83,Morning,9,1,Entertainment,Smartphone,Android,07:45:00,10,0,At Work,Mobile Data,7,23.0,84.122,7.0,0.026,Morning
+519,40,Female,India,57437,1,1,Students,Rural,Tiktok,41,6,7235,Gaming,10,6361,2,19,34,53,Morning,9,1,Boredom,Tablet,Windows,07:45:00,10,0,At Home,Mobile Data,7,6.83,155.146,5.67,0.463,Morning
+520,34,Male,India,97872,1,0,Students,Urban,Tiktok,83,1,7973,Life Hacks,15,615,3,13,27,24,Afternoon,6,4,Boredom,Tablet,Windows,19:25:00,8,2,At Work,Wi-Fi,19,83.0,7.41,27.0,0.157,Evening
+521,43,Male,Germany,94878,1,1,Engineer,Rural,Tiktok,180,6,6611,Vlogs,4,8062,7,12,10,56,Night,2,8,Entertainment,Smartphone,Android,23:30:00,4,6,At School,Mobile Data,23,30.0,44.789,1.67,0.067,Night
+522,25,Other,India,92982,1,0,Labor/Worker,Rural,Youtube,78,18,601,Life Hacks,23,5977,1,3,30,62,Evening,7,3,Entertainment,Smartphone,Android,15:55:00,9,1,At School,Wi-Fi,15,4.33,76.628,1.67,0.038,Afternoon
+523,46,Female,India,70583,1,1,Waiting Staff,Urban,Facebook,146,9,4285,Trends,2,9780,7,6,45,34,Afternoon,6,4,Habit,Computer,Windows,19:25:00,8,2,At School,Mobile Data,19,16.22,66.986,5.0,0.041,Evening
+524,43,Male,India,58392,1,0,Teacher,Rural,Tiktok,109,15,9181,Jokes/Memes,3,6984,6,14,20,22,Evening,7,3,Entertainment,Smartphone,Android,15:55:00,9,1,At School,Mobile Data,15,7.27,64.073,1.33,0.128,Afternoon
+525,27,Other,United States,27461,0,1,Artist,Urban,Tiktok,155,8,4484,Jokes/Memes,7,8890,8,4,29,68,Afternoon,6,4,Habit,Smartphone,Ios,19:25:00,8,2,At Home,Mobile Data,19,19.38,57.355,3.62,0.026,Evening
+526,43,Male,India,30516,0,0,Waiting Staff,Rural,Instagram,18,19,5902,Life Hacks,23,4971,7,13,29,57,Morning,9,1,Boredom,Smartphone,Ios,07:45:00,10,0,At Home,Mobile Data,7,0.95,276.167,1.53,0.722,Morning
+527,51,Male,Pakistan,99285,1,1,Students,Rural,Facebook,71,16,6130,Life Hacks,16,5781,4,19,23,10,Afternoon,6,4,Procrastination,Smartphone,Ios,19:25:00,8,2,At Work,Mobile Data,19,4.44,81.423,1.44,0.268,Evening
+528,58,Other,Japan,37514,0,0,Engineer,Rural,Tiktok,194,6,1755,Trends,10,944,3,18,21,66,Evening,7,3,Habit,Smartphone,Ios,15:55:00,9,1,At Work,Wi-Fi,15,32.33,4.866,3.5,0.093,Afternoon
+529,24,Male,India,56268,1,1,Artist,Urban,Instagram,38,6,2465,Comedy,19,9114,3,29,48,8,Night,2,8,Habit,Computer,Android,23:30:00,4,6,At School,Mobile Data,23,6.33,239.842,8.0,0.763,Night
+530,21,Female,Japan,56788,1,1,Waiting Staff,Rural,Instagram,123,3,4483,Gaming,28,7078,4,3,43,97,Night,2,8,Boredom,Smartphone,Macos,23:30:00,4,6,At Work,Wi-Fi,23,41.0,57.545,14.33,0.024,Night
+531,62,Male,Philippines,95749,1,1,Artist,Rural,Youtube,152,10,9687,Entertainment,17,1746,9,20,10,38,Night,2,8,Procrastination,Tablet,Android,23:30:00,4,6,At School,Wi-Fi,23,15.2,11.487,1.0,0.132,Night
+532,28,Female,Indonesia,81049,1,1,Cashier,Rural,Instagram,129,1,9045,Pranks,28,5783,9,6,41,62,Evening,7,3,Procrastination,Smartphone,Android,15:55:00,9,1,At Home,Mobile Data,15,129.0,44.829,41.0,0.047,Afternoon
+533,46,Male,India,82493,1,0,Labor/Worker,Rural,Tiktok,179,14,7401,Jokes/Memes,19,9751,2,16,12,28,Night,2,8,Entertainment,Smartphone,Windows,23:30:00,4,6,At Work,Mobile Data,23,12.79,54.475,0.86,0.089,Night
+534,53,Female,United States,56027,1,1,Students,Rural,Youtube,166,4,6807,Vlogs,5,6907,5,20,30,10,Night,2,8,Entertainment,Smartphone,Android,23:30:00,4,6,At Home,Mobile Data,23,41.5,41.608,7.5,0.12,Night
+535,42,Other,India,62849,1,0,Cashier,Rural,Youtube,269,12,8644,Gaming,23,9275,1,24,33,45,Night,2,8,Habit,Computer,Android,23:30:00,4,6,At Home,Wi-Fi,23,22.42,34.48,2.75,0.089,Night
+536,38,Male,Indonesia,37858,0,1,Manager,Rural,Tiktok,91,6,7397,Life Hacks,20,8625,4,3,18,65,Night,2,8,Entertainment,Tablet,Android,23:30:00,4,6,At School,Mobile Data,23,15.17,94.78,3.0,0.033,Night
+537,53,Female,Philippines,99003,1,0,Driver,Rural,Facebook,251,11,7339,Trends,13,2926,2,12,14,98,Evening,7,3,Procrastination,Smartphone,Android,15:55:00,9,1,At School,Mobile Data,15,22.82,11.657,1.27,0.048,Afternoon
+538,27,Male,United States,72395,1,1,Driver,Rural,Instagram,181,12,9951,Asmr,13,1089,8,19,22,67,Night,2,8,Boredom,Smartphone,Android,23:30:00,4,6,At Home,Mobile Data,23,15.08,6.017,1.83,0.105,Night
+539,54,Male,India,59758,1,0,Students,Rural,Youtube,240,10,5242,Life Hacks,11,2957,4,19,21,9,Evening,7,3,Boredom,Tablet,Android,15:55:00,9,1,At Work,Mobile Data,15,24.0,12.321,2.1,0.079,Afternoon
+540,26,Other,India,74312,1,1,Artist,Rural,Facebook,217,18,7395,Gaming,11,2612,5,24,1,5,Evening,7,3,Boredom,Tablet,Macos,15:55:00,9,1,At School,Mobile Data,15,12.06,12.037,0.06,0.111,Afternoon
+541,41,Male,Japan,88670,1,0,Students,Urban,Tiktok,84,7,6438,Trends,16,6047,4,4,49,10,Evening,7,3,Habit,Computer,Android,15:55:00,9,1,Commuting,Wi-Fi,15,12.0,71.988,7.0,0.048,Afternoon
+542,52,Male,Indonesia,35434,0,1,Waiting Staff,Rural,Instagram,279,7,4696,Trends,15,6249,5,1,43,12,Night,2,8,Habit,Computer,Android,23:30:00,4,6,At Work,Mobile Data,23,39.86,22.398,6.14,0.004,Night
+543,52,Male,Japan,84047,1,0,Waiting Staff,Urban,Instagram,123,11,2589,Trends,17,3759,5,2,15,82,Night,2,8,Boredom,Tablet,Ios,23:30:00,4,6,At School,Wi-Fi,23,11.18,30.561,1.36,0.016,Night
+544,53,Other,Philippines,67775,1,1,Students,Rural,Youtube,71,4,1783,Jokes/Memes,22,7718,5,13,36,58,Night,2,8,Habit,Smartphone,Ios,23:30:00,4,6,At Home,Mobile Data,23,17.75,108.704,9.0,0.183,Night
+545,35,Other,United States,95769,1,0,Manager,Rural,Instagram,111,1,5948,Pranks,18,4263,3,26,47,21,Afternoon,6,4,Habit,Smartphone,Windows,19:25:00,8,2,Commuting,Mobile Data,19,111.0,38.405,47.0,0.234,Evening
+546,56,Female,India,86677,1,1,Labor/Worker,Rural,Instagram,219,13,6595,Jokes/Memes,28,1902,7,29,22,21,Afternoon,6,4,Habit,Tablet,Windows,19:25:00,8,2,At Home,Mobile Data,19,16.85,8.685,1.69,0.132,Evening
+547,49,Female,Mexico,65734,1,0,Waiting Staff,Urban,Instagram,264,18,3521,Comedy,19,2567,3,13,32,65,Evening,7,3,Habit,Tablet,Macos,15:55:00,9,1,At School,Mobile Data,15,14.67,9.723,1.78,0.049,Afternoon
+548,41,Female,United States,60603,1,1,Students,Rural,Instagram,29,9,9972,Asmr,4,8075,2,2,46,3,Evening,7,3,Boredom,Tablet,Android,15:55:00,9,1,At School,Mobile Data,15,3.22,278.448,5.11,0.069,Afternoon
+549,40,Other,India,96708,1,0,Manager,Rural,Tiktok,67,9,3219,Life Hacks,22,2994,3,19,33,69,Evening,7,3,Boredom,Smartphone,Android,15:55:00,9,1,At School,Mobile Data,15,7.44,44.687,3.67,0.284,Afternoon
+550,49,Male,United States,88803,1,1,Cashier,Urban,Facebook,121,9,3758,Vlogs,22,5229,3,22,41,89,Night,3,7,Habit,Smartphone,Windows,23:30:00,5,5,At Home,Wi-Fi,23,13.44,43.215,4.56,0.182,Night
+551,54,Male,Japan,59332,1,1,Driver,Rural,Tiktok,205,10,4017,Vlogs,23,2010,8,24,39,64,Night,3,7,Procrastination,Tablet,Android,23:30:00,5,5,At School,Wi-Fi,23,20.5,9.805,3.9,0.117,Night
+552,29,Male,United States,41312,0,1,Labor/Worker,Rural,Tiktok,101,2,2838,Asmr,5,7377,4,16,23,49,Afternoon,6,4,Boredom,Tablet,Ios,19:25:00,8,2,At Home,Wi-Fi,19,50.5,73.04,11.5,0.158,Evening
+553,30,Male,Philippines,64179,1,1,Engineer,Rural,Youtube,61,6,6001,Comedy,7,830,3,12,43,72,Night,3,7,Entertainment,Computer,Ios,23:30:00,5,5,At Home,Mobile Data,23,10.17,13.607,7.17,0.197,Night
+554,40,Other,Vietnam,91442,1,0,Teacher,Rural,Instagram,17,15,7035,Gaming,2,48,5,1,2,17,Evening,7,3,Procrastination,Tablet,Ios,15:55:00,9,1,At Home,Wi-Fi,15,1.13,2.824,0.13,0.059,Afternoon
+555,42,Male,Vietnam,60379,1,1,Students,Rural,Tiktok,107,3,7310,Entertainment,1,4210,4,9,2,73,Afternoon,6,4,Boredom,Tablet,Android,19:25:00,8,2,At Home,Mobile Data,19,35.67,39.346,0.67,0.084,Evening
+556,52,Male,Vietnam,37297,0,0,Cashier,Urban,Instagram,245,11,4240,Jokes/Memes,12,1178,9,17,38,32,Evening,7,3,Habit,Tablet,Macos,15:55:00,9,1,At Work,Mobile Data,15,22.27,4.808,3.45,0.069,Afternoon
+557,58,Male,Philippines,22011,0,1,Manager,Urban,Tiktok,78,6,4429,Jokes/Memes,10,5768,8,10,29,70,Evening,7,3,Entertainment,Smartphone,Ios,15:55:00,9,1,At Work,Mobile Data,15,13.0,73.949,4.83,0.128,Afternoon
+558,47,Female,United States,64014,1,0,Labor/Worker,Rural,Tiktok,54,3,9612,Entertainment,8,7878,7,18,46,21,Evening,7,3,Habit,Smartphone,Android,15:55:00,9,1,Commuting,Mobile Data,15,18.0,145.889,15.33,0.333,Afternoon
+559,34,Female,India,31738,0,1,Students,Urban,Youtube,146,11,4151,Pranks,1,70,8,19,3,7,Evening,7,3,Boredom,Smartphone,Android,15:55:00,9,1,At School,Mobile Data,15,13.27,0.479,0.27,0.13,Afternoon
+560,37,Male,Philippines,67498,1,0,Cashier,Urban,Facebook,243,15,9523,Pranks,12,7686,5,7,39,7,Morning,9,1,Habit,Computer,Android,07:45:00,10,0,At Work,Mobile Data,7,16.2,31.63,2.6,0.029,Morning
+561,42,Female,Vietnam,31120,0,1,Waiting Staff,Rural,Facebook,41,13,1447,Pranks,2,7879,4,25,7,27,Night,3,7,Habit,Smartphone,Android,23:30:00,5,5,At Work,Wi-Fi,23,3.15,192.171,0.54,0.61,Night
+562,39,Male,Indonesia,28767,0,0,Waiting Staff,Rural,Tiktok,298,10,9633,Gaming,27,5455,7,19,36,8,Night,3,7,Habit,Smartphone,Android,23:30:00,5,5,At Home,Wi-Fi,23,29.8,18.305,3.6,0.064,Night
+563,30,Male,Philippines,42852,0,1,Driver,Rural,Youtube,135,6,6469,Trends,28,8258,1,24,29,73,Afternoon,6,4,Entertainment,Tablet,Android,19:25:00,8,2,Commuting,Mobile Data,19,22.5,61.17,4.83,0.178,Evening
+564,36,Male,Germany,99239,1,0,Students,Rural,Instagram,76,15,5791,Pranks,10,5612,6,15,37,28,Evening,7,3,Procrastination,Smartphone,Android,15:55:00,9,1,At Work,Mobile Data,15,5.07,73.842,2.47,0.197,Afternoon
+565,53,Male,India,20929,0,1,Students,Rural,Instagram,39,18,4176,Vlogs,22,5769,8,9,49,79,Evening,7,3,Procrastination,Smartphone,Macos,15:55:00,9,1,At Home,Mobile Data,15,2.17,147.923,2.72,0.231,Afternoon
+566,29,Female,Vietnam,97487,1,0,Driver,Rural,Tiktok,123,18,5081,Comedy,17,1777,7,10,36,66,Night,3,7,Habit,Smartphone,Android,23:30:00,5,5,At School,Mobile Data,23,6.83,14.447,2.0,0.081,Night
+567,58,Other,Brazil,37438,0,1,Teacher,Rural,Facebook,213,7,865,Jokes/Memes,26,7380,2,23,23,71,Evening,5,5,Habit,Smartphone,Android,15:55:00,7,3,At Home,Wi-Fi,15,30.43,34.648,3.29,0.108,Afternoon
+568,36,Other,India,68515,1,0,Students,Rural,Youtube,38,15,6861,Trends,3,2228,7,20,45,47,Evening,5,5,Boredom,Smartphone,Android,15:55:00,7,3,At School,Mobile Data,15,2.53,58.632,3.0,0.526,Afternoon
+569,29,Male,India,25744,0,1,Manager,Rural,Facebook,140,18,8664,Vlogs,7,9981,6,20,16,82,Evening,5,5,Boredom,Smartphone,Android,15:55:00,7,3,At Work,Mobile Data,15,7.78,71.293,0.89,0.143,Afternoon
+570,26,Other,United States,62417,1,0,Students,Rural,Instagram,194,18,6218,Jokes/Memes,12,8804,5,4,48,86,Night,1,9,Procrastination,Smartphone,Android,23:30:00,3,7,At Work,Wi-Fi,23,10.78,45.381,2.67,0.021,Night
+571,24,Male,India,27069,0,1,Students,Rural,Facebook,262,9,5673,Life Hacks,8,9814,4,6,31,10,Night,1,9,Habit,Smartphone,Windows,23:30:00,3,7,At Home,Mobile Data,23,29.11,37.458,3.44,0.023,Night
+572,45,Female,India,62359,1,1,Labor/Worker,Rural,Instagram,295,2,1503,Jokes/Memes,20,8888,1,4,34,33,Night,1,9,Habit,Tablet,Android,23:30:00,3,7,At Home,Mobile Data,23,147.5,30.129,17.0,0.014,Night
+573,31,Male,Pakistan,39799,0,1,Waiting Staff,Rural,Youtube,71,8,4685,Jokes/Memes,12,6746,2,5,1,7,Evening,5,5,Procrastination,Smartphone,Macos,15:55:00,7,3,At Home,Wi-Fi,15,8.88,95.014,0.12,0.07,Afternoon
+574,48,Female,Japan,90188,1,1,Waiting Staff,Rural,Youtube,12,2,1411,Gaming,3,6391,7,9,18,3,Night,1,9,Boredom,Smartphone,Android,23:30:00,3,7,At Home,Wi-Fi,23,6.0,532.583,9.0,0.75,Night
+575,36,Female,India,27597,0,0,Cashier,Urban,Tiktok,77,11,3771,Jokes/Memes,17,9429,3,12,40,14,Afternoon,4,6,Boredom,Smartphone,Macos,19:25:00,6,4,At School,Mobile Data,19,7.0,122.455,3.64,0.156,Evening
+576,64,Male,Germany,67093,1,1,Students,Rural,Tiktok,34,7,4660,Pranks,28,2406,5,23,43,44,Night,1,9,Entertainment,Tablet,Android,23:30:00,3,7,At Work,Mobile Data,23,4.86,70.765,6.14,0.676,Night
+577,33,Female,India,57226,1,0,Teacher,Rural,Facebook,188,6,4002,Life Hacks,9,8440,8,8,15,46,Afternoon,4,6,Habit,Smartphone,Windows,19:25:00,6,4,At School,Wi-Fi,19,31.33,44.894,2.5,0.043,Evening
+578,22,Male,Philippines,92127,1,1,Waiting Staff,Rural,Youtube,150,10,3484,Pranks,10,637,8,21,48,61,Evening,5,5,Habit,Smartphone,Android,15:55:00,7,3,At School,Mobile Data,15,15.0,4.247,4.8,0.14,Afternoon
+579,52,Other,Mexico,97362,1,0,Labor/Worker,Rural,Youtube,240,5,4563,Vlogs,22,8090,6,5,49,36,Evening,5,5,Habit,Smartphone,Macos,15:55:00,7,3,At Work,Mobile Data,15,48.0,33.708,9.8,0.021,Afternoon
+580,29,Male,Japan,46417,0,1,Students,Rural,Tiktok,172,11,599,Pranks,6,949,5,29,17,13,Evening,5,5,Entertainment,Smartphone,Windows,15:55:00,7,3,At Work,Mobile Data,15,15.64,5.517,1.55,0.169,Afternoon
+581,42,Male,Brazil,38693,0,0,Driver,Rural,Instagram,139,1,9184,Vlogs,25,3587,2,11,44,16,Evening,5,5,Boredom,Smartphone,Android,15:55:00,7,3,At Home,Mobile Data,15,139.0,25.806,44.0,0.079,Afternoon
+582,38,Male,India,99674,1,1,Driver,Rural,Facebook,255,2,3042,Asmr,1,1111,9,23,10,80,Night,1,9,Procrastination,Smartphone,Android,23:30:00,3,7,At School,Wi-Fi,23,127.5,4.357,5.0,0.09,Night
+583,53,Other,Japan,73161,1,0,Teacher,Rural,Facebook,181,1,8161,Vlogs,22,8367,1,11,20,5,Morning,7,3,Boredom,Smartphone,Windows,07:45:00,9,1,At School,Mobile Data,7,181.0,46.227,20.0,0.061,Morning
+584,40,Female,India,22169,0,1,Teacher,Rural,Tiktok,73,19,6392,Life Hacks,12,722,2,13,6,89,Night,1,9,Habit,Tablet,Macos,23:30:00,3,7,At School,Wi-Fi,23,3.84,9.89,0.32,0.178,Night
+585,33,Male,United States,42052,0,0,Cashier,Rural,Youtube,40,2,7288,Asmr,5,3842,1,14,8,38,Evening,5,5,Habit,Tablet,Windows,15:55:00,7,3,At Home,Mobile Data,15,20.0,96.05,4.0,0.35,Afternoon
+586,56,Female,Japan,91849,1,1,Labor/Worker,Rural,Tiktok,56,4,67,Vlogs,13,3674,4,28,45,50,Morning,7,3,Entertainment,Smartphone,Android,07:45:00,9,1,At Work,Mobile Data,7,14.0,65.607,11.25,0.5,Morning
+587,62,Male,Vietnam,93851,1,0,Students,Urban,Tiktok,139,12,8124,Gaming,27,4866,4,8,34,38,Night,1,9,Habit,Smartphone,Ios,23:30:00,3,7,At Work,Mobile Data,23,11.58,35.007,2.83,0.058,Night
+588,59,Female,India,28036,0,1,Labor/Worker,Rural,Tiktok,119,18,2751,Gaming,15,702,5,25,32,56,Evening,5,5,Entertainment,Tablet,Macos,15:55:00,7,3,At Work,Wi-Fi,15,6.61,5.899,1.78,0.21,Afternoon
+589,56,Male,Brazil,51778,1,0,Students,Rural,Tiktok,78,1,8662,Comedy,22,2128,5,18,42,63,Evening,5,5,Habit,Smartphone,Android,15:55:00,7,3,At Work,Wi-Fi,15,78.0,27.282,42.0,0.231,Afternoon
+590,31,Male,Vietnam,47734,0,1,Waiting Staff,Urban,Instagram,67,1,9917,Jokes/Memes,11,9118,8,19,4,48,Night,1,9,Boredom,Tablet,Ios,23:30:00,3,7,At Home,Mobile Data,23,67.0,136.09,4.0,0.284,Night
+591,48,Female,India,43173,0,0,Labor/Worker,Rural,Instagram,115,14,6807,Vlogs,8,4233,3,12,44,90,Night,1,9,Boredom,Tablet,Android,23:30:00,3,7,At Home,Wi-Fi,23,8.21,36.809,3.14,0.104,Night
+592,22,Male,United States,50403,1,1,Labor/Worker,Rural,Youtube,265,4,6430,Life Hacks,5,2517,6,12,39,59,Evening,5,5,Habit,Smartphone,Android,15:55:00,7,3,At Home,Mobile Data,15,66.25,9.498,9.75,0.045,Afternoon
+593,52,Other,United States,86321,1,1,Cashier,Rural,Tiktok,180,5,8124,Asmr,2,1149,3,18,20,77,Night,1,9,Entertainment,Tablet,Windows,23:30:00,3,7,At Work,Mobile Data,23,36.0,6.383,4.0,0.1,Night
+594,40,Male,Brazil,91675,1,1,Labor/Worker,Rural,Instagram,171,11,1632,Gaming,12,1878,2,10,24,44,Afternoon,4,6,Boredom,Tablet,Android,19:25:00,6,4,At Home,Mobile Data,19,15.55,10.982,2.18,0.058,Evening
+595,46,Male,Mexico,26344,0,1,Cashier,Rural,Youtube,295,13,6453,Gaming,28,9445,8,7,24,90,Evening,5,5,Entertainment,Tablet,Ios,15:55:00,7,3,At Work,Mobile Data,15,22.69,32.017,1.85,0.024,Afternoon
+596,60,Other,India,38800,0,0,Labor/Worker,Urban,Tiktok,80,16,775,Entertainment,2,9675,1,28,26,55,Afternoon,4,6,Entertainment,Smartphone,Android,19:25:00,6,4,At Home,Mobile Data,19,5.0,120.938,1.62,0.35,Evening
+597,28,Male,United States,45372,0,1,Teacher,Rural,Facebook,264,13,6108,Jokes/Memes,26,309,9,18,25,55,Night,1,9,Habit,Tablet,Android,23:30:00,3,7,At School,Wi-Fi,23,20.31,1.17,1.92,0.068,Night
+598,35,Male,Brazil,81516,1,0,Labor/Worker,Rural,Instagram,64,2,7805,Entertainment,16,3952,7,12,36,1,Night,1,9,Boredom,Tablet,Android,23:30:00,3,7,At Work,Wi-Fi,23,32.0,61.75,18.0,0.188,Night
+599,64,Male,Vietnam,40538,0,1,Students,Rural,Youtube,12,16,9679,Comedy,21,7728,4,14,7,8,Afternoon,4,6,Boredom,Tablet,Windows,19:25:00,6,4,At Work,Wi-Fi,19,0.75,644.0,0.44,1.167,Evening
+600,29,Female,United States,83918,1,0,Labor/Worker,Rural,Facebook,35,6,4020,Pranks,3,3049,3,15,10,4,Night,1,9,Entertainment,Computer,Ios,22:15:00,3,7,At School,Wi-Fi,22,5.83,87.114,1.67,0.429,Night
+601,26,Female,Philippines,34973,0,1,Students,Rural,Tiktok,135,14,930,Jokes/Memes,10,5766,6,16,47,85,Morning,7,3,Entertainment,Tablet,Android,09:55:00,9,1,At Home,Mobile Data,9,9.64,42.711,3.36,0.119,Morning
+602,27,Male,United States,91155,1,0,Cashier,Rural,Tiktok,62,1,3013,Life Hacks,19,9756,9,2,12,86,Morning,7,3,Boredom,Computer,Ios,09:55:00,9,1,At Home,Mobile Data,9,62.0,157.355,12.0,0.032,Morning
+603,61,Male,United States,79500,1,1,Students,Urban,Tiktok,207,17,5025,Life Hacks,8,9692,9,18,1,53,Night,1,9,Habit,Smartphone,Android,22:15:00,3,7,At Home,Mobile Data,22,12.18,46.821,0.06,0.087,Night
+604,34,Male,Vietnam,56575,1,0,Waiting Staff,Urban,Instagram,197,11,6265,Vlogs,7,6412,4,12,25,58,Evening,5,5,Procrastination,Tablet,Android,16:25:00,7,3,At School,Mobile Data,16,17.91,32.548,2.27,0.061,Afternoon
+605,55,Female,Indonesia,62261,1,1,Waiting Staff,Rural,Youtube,195,19,7974,Trends,1,4865,5,16,16,37,Night,1,9,Entertainment,Smartphone,Android,22:15:00,3,7,At Work,Mobile Data,22,10.26,24.949,0.84,0.082,Night
+606,24,Male,Brazil,47716,0,0,Waiting Staff,Rural,Facebook,213,3,9698,Gaming,12,15,9,13,5,49,Evening,5,5,Habit,Smartphone,Android,16:25:00,7,3,At Home,Mobile Data,16,71.0,0.07,1.67,0.061,Afternoon
+607,63,Female,India,23236,0,1,Artist,Rural,Youtube,20,11,4730,Entertainment,29,605,2,20,19,67,Evening,5,5,Entertainment,Smartphone,Android,16:25:00,7,3,At Home,Mobile Data,16,1.82,30.25,1.73,1.0,Afternoon
+608,30,Female,United States,35848,0,0,Driver,Rural,Instagram,155,5,7962,Asmr,28,9573,2,17,4,19,Morning,7,3,Entertainment,Smartphone,Android,09:55:00,9,1,At Work,Wi-Fi,9,31.0,61.761,0.8,0.11,Morning
+609,57,Other,United States,22352,0,1,Students,Rural,Youtube,94,17,2820,Life Hacks,5,4908,5,18,6,1,Night,1,9,Entertainment,Smartphone,Android,22:15:00,3,7,At School,Mobile Data,22,5.53,52.213,0.35,0.191,Night
+610,59,Male,Philippines,21932,0,0,Waiting Staff,Rural,Instagram,109,7,6656,Jokes/Memes,16,8006,1,3,26,29,Night,1,9,Boredom,Smartphone,Ios,22:15:00,3,7,At Work,Mobile Data,22,15.57,73.45,3.71,0.028,Night
+611,26,Male,India,96449,1,1,Cashier,Rural,Tiktok,113,10,1185,Life Hacks,25,9086,8,23,49,87,Evening,5,5,Boredom,Smartphone,Ios,16:25:00,7,3,At School,Mobile Data,16,11.3,80.407,4.9,0.204,Afternoon
+612,44,Male,Brazil,28556,0,0,Driver,Rural,Facebook,55,11,8481,Life Hacks,4,9759,5,10,39,33,Afternoon,4,6,Habit,Tablet,Macos,17:45:00,6,4,At Work,Mobile Data,17,5.0,177.436,3.55,0.182,Evening
+613,19,Other,Germany,25498,0,1,Waiting Staff,Rural,Tiktok,53,3,6344,Pranks,17,6412,2,1,39,52,Morning,7,3,Entertainment,Smartphone,Android,09:55:00,9,1,At School,Wi-Fi,9,17.67,120.981,13.0,0.019,Morning
+614,22,Male,Vietnam,96118,1,1,Labor/Worker,Rural,Youtube,287,10,528,Trends,24,8605,9,6,9,41,Afternoon,4,6,Entertainment,Smartphone,Ios,17:45:00,6,4,At Work,Wi-Fi,17,28.7,29.983,0.9,0.021,Evening
+615,46,Male,Indonesia,70098,1,1,Driver,Rural,Tiktok,190,10,917,Trends,21,4120,2,3,45,23,Afternoon,4,6,Entertainment,Smartphone,Android,17:45:00,6,4,At Home,Mobile Data,17,19.0,21.684,4.5,0.016,Evening
+616,54,Male,Brazil,84386,1,1,Driver,Rural,Facebook,196,14,9901,Gaming,2,8507,7,19,14,5,Evening,5,5,Procrastination,Smartphone,Android,16:25:00,7,3,At Home,Wi-Fi,16,14.0,43.403,1.0,0.097,Afternoon
+617,55,Male,United States,29569,0,0,Students,Urban,Tiktok,123,12,3575,Entertainment,12,4666,8,4,48,71,Night,1,9,Procrastination,Smartphone,Android,22:15:00,3,7,At School,Mobile Data,22,10.25,37.935,4.0,0.033,Night
+618,36,Female,Philippines,76882,1,1,Labor/Worker,Rural,Facebook,264,15,3320,Vlogs,1,4820,6,29,9,57,Evening,5,5,Habit,Smartphone,Android,16:25:00,7,3,At Work,Mobile Data,16,17.6,18.258,0.6,0.11,Afternoon
+619,25,Other,Indonesia,90393,1,0,Manager,Urban,Facebook,39,10,1407,Entertainment,12,7835,7,20,15,6,Evening,5,5,Habit,Smartphone,Android,16:25:00,7,3,At Home,Wi-Fi,16,3.9,200.897,1.5,0.513,Afternoon
+620,62,Male,United States,20340,0,1,Waiting Staff,Urban,Tiktok,273,10,1242,Comedy,12,1849,1,23,37,49,Night,1,9,Entertainment,Tablet,Android,22:15:00,3,7,At Home,Wi-Fi,22,27.3,6.773,3.7,0.084,Night
+621,18,Female,Brazil,63949,1,0,Waiting Staff,Rural,Instagram,107,19,5207,Vlogs,12,1953,4,3,20,22,Evening,5,5,Entertainment,Computer,Windows,16:25:00,7,3,At Work,Wi-Fi,16,5.63,18.252,1.05,0.028,Afternoon
+622,39,Male,India,82443,1,1,Labor/Worker,Rural,Youtube,124,1,7250,Gaming,19,8580,7,8,8,77,Night,1,9,Habit,Smartphone,Android,22:15:00,3,7,At Home,Mobile Data,22,124.0,69.194,8.0,0.065,Night
+623,34,Male,Germany,94027,1,0,Labor/Worker,Rural,Instagram,285,10,3134,Vlogs,25,2769,1,8,32,76,Evening,5,5,Entertainment,Smartphone,Macos,16:25:00,7,3,At School,Mobile Data,16,28.5,9.716,3.2,0.028,Afternoon
+624,24,Male,United States,20138,0,1,Labor/Worker,Rural,Instagram,290,2,799,Jokes/Memes,17,3046,1,27,47,4,Afternoon,4,6,Boredom,Smartphone,Windows,17:45:00,6,4,At Home,Mobile Data,17,145.0,10.503,23.5,0.093,Evening
+625,42,Male,Indonesia,20358,0,0,Cashier,Rural,Tiktok,284,17,1524,Gaming,20,7594,6,29,21,72,Night,1,9,Boredom,Tablet,Ios,22:15:00,3,7,At Home,Mobile Data,22,16.71,26.739,1.24,0.102,Night
+626,62,Female,Indonesia,95250,1,1,Waiting Staff,Urban,Youtube,270,7,7210,Trends,24,6840,4,7,41,64,Night,1,9,Boredom,Tablet,Ios,22:15:00,3,7,At School,Mobile Data,22,38.57,25.333,5.86,0.026,Night
+627,21,Male,United States,50654,1,0,Waiting Staff,Rural,Youtube,216,7,4929,Trends,24,5066,3,2,19,37,Evening,5,5,Procrastination,Tablet,Macos,16:25:00,7,3,At Work,Mobile Data,16,30.86,23.454,2.71,0.009,Afternoon
+628,53,Male,Pakistan,45879,0,1,Students,Rural,Instagram,220,9,2889,Vlogs,26,2415,5,21,29,31,Afternoon,4,6,Boredom,Smartphone,Windows,17:45:00,6,4,At Home,Mobile Data,17,24.44,10.977,3.22,0.095,Evening
+629,23,Male,Brazil,75778,1,0,Artist,Rural,Tiktok,224,2,2691,Asmr,28,2389,9,6,31,37,Evening,5,5,Entertainment,Tablet,Ios,16:25:00,7,3,At Home,Wi-Fi,16,112.0,10.665,15.5,0.027,Afternoon
+630,48,Male,Pakistan,57772,1,1,Students,Rural,Youtube,49,14,4092,Pranks,11,5924,3,28,6,45,Afternoon,4,6,Habit,Smartphone,Ios,17:45:00,6,4,At Home,Wi-Fi,17,3.5,120.898,0.43,0.571,Evening
+631,36,Female,Mexico,78478,1,0,Labor/Worker,Rural,Instagram,35,17,7283,Entertainment,13,8495,5,16,4,90,Morning,7,3,Boredom,Computer,Ios,09:55:00,9,1,At Home,Mobile Data,9,2.06,242.714,0.24,0.457,Morning
+632,61,Female,Brazil,84353,1,1,Engineer,Urban,Youtube,36,1,9434,Jokes/Memes,27,763,5,10,43,8,Evening,5,5,Boredom,Smartphone,Android,16:25:00,7,3,At Home,Mobile Data,16,36.0,21.194,43.0,0.278,Afternoon
+633,56,Female,United States,46762,0,0,Artist,Rural,Tiktok,199,9,6250,Entertainment,8,7541,9,4,29,40,Morning,7,3,Entertainment,Smartphone,Android,09:55:00,9,1,At Home,Mobile Data,9,22.11,37.894,3.22,0.02,Morning
+634,44,Male,India,33283,0,1,Labor/Worker,Urban,Tiktok,92,19,691,Gaming,10,815,4,13,42,97,Afternoon,4,6,Habit,Smartphone,Android,17:45:00,6,4,At School,Mobile Data,17,4.84,8.859,2.21,0.141,Evening
+635,27,Male,Philippines,83922,1,1,Labor/Worker,Rural,Tiktok,179,4,8720,Jokes/Memes,8,6255,1,10,3,93,Afternoon,4,6,Entertainment,Smartphone,Android,17:45:00,6,4,At Home,Mobile Data,17,44.75,34.944,0.75,0.056,Evening
+636,43,Male,United States,59420,1,1,Engineer,Urban,Youtube,176,8,1496,Trends,20,877,5,21,1,5,Evening,5,5,Habit,Smartphone,Ios,16:25:00,7,3,At School,Mobile Data,16,22.0,4.983,0.12,0.119,Afternoon
+637,36,Male,Pakistan,75568,1,1,Waiting Staff,Rural,Facebook,197,13,893,Asmr,8,7173,1,14,44,28,Evening,5,5,Habit,Tablet,Macos,16:25:00,7,3,At School,Mobile Data,16,15.15,36.411,3.38,0.071,Afternoon
+638,56,Male,India,40219,0,0,Waiting Staff,Rural,Youtube,178,4,8579,Asmr,9,7073,6,9,15,81,Evening,5,5,Boredom,Smartphone,Android,16:25:00,7,3,At Work,Mobile Data,16,44.5,39.736,3.75,0.051,Afternoon
+639,20,Female,Philippines,77169,1,1,Waiting Staff,Rural,Facebook,298,9,9442,Life Hacks,7,4798,7,11,47,87,Night,1,9,Habit,Smartphone,Ios,22:15:00,3,7,At Work,Mobile Data,22,33.11,16.101,5.22,0.037,Night
+640,62,Female,United States,94965,1,0,Driver,Rural,Tiktok,238,9,5874,Trends,14,6989,1,23,21,9,Night,1,9,Habit,Smartphone,Windows,22:15:00,3,7,At Work,Mobile Data,22,26.44,29.366,2.33,0.097,Night
+641,30,Other,United States,66840,1,1,Driver,Rural,Instagram,106,18,4504,Asmr,28,5039,4,18,46,2,Afternoon,4,6,Habit,Tablet,Macos,17:45:00,6,4,At School,Mobile Data,17,5.89,47.538,2.56,0.17,Evening
+642,45,Male,India,64695,1,0,Students,Rural,Facebook,25,12,898,Jokes/Memes,2,9771,9,11,31,63,Afternoon,4,6,Procrastination,Tablet,Ios,17:45:00,6,4,At Work,Mobile Data,17,2.08,390.84,2.58,0.44,Evening
+643,37,Male,United States,97988,1,1,Engineer,Rural,Tiktok,288,10,711,Gaming,25,6324,1,17,7,96,Evening,5,5,Habit,Smartphone,Windows,16:25:00,7,3,At School,Wi-Fi,16,28.8,21.958,0.7,0.059,Afternoon
+644,45,Female,Philippines,78342,1,0,Students,Rural,Tiktok,144,11,3696,Trends,11,9395,9,2,17,51,Evening,5,5,Habit,Computer,Android,16:25:00,7,3,At Home,Mobile Data,16,13.09,65.243,1.55,0.014,Afternoon
+645,25,Female,United States,38951,0,1,Labor/Worker,Rural,Facebook,35,7,2687,Jokes/Memes,8,2823,8,3,19,31,Evening,5,5,Boredom,Smartphone,Android,16:25:00,7,3,At Home,Wi-Fi,16,5.0,80.657,2.71,0.086,Afternoon
+646,58,Other,India,21307,0,0,Students,Rural,Instagram,21,9,7189,Asmr,13,5287,5,11,39,7,Evening,5,5,Procrastination,Tablet,Android,16:25:00,7,3,At Work,Wi-Fi,16,2.33,251.762,4.33,0.524,Afternoon
+647,56,Male,India,55428,1,1,Labor/Worker,Rural,Tiktok,81,6,5779,Jokes/Memes,21,3285,6,18,3,30,Afternoon,4,6,Entertainment,Tablet,Android,17:45:00,6,4,At School,Wi-Fi,17,13.5,40.556,0.5,0.222,Evening
+648,18,Female,India,95774,1,0,Waiting Staff,Rural,Facebook,142,19,7769,Entertainment,15,7433,7,27,30,58,Night,1,9,Boredom,Tablet,Android,22:15:00,3,7,At Home,Mobile Data,22,7.47,52.345,1.58,0.19,Night
+649,20,Male,Vietnam,58975,1,1,Students,Urban,Instagram,115,16,5014,Asmr,28,6174,4,3,35,3,Evening,5,5,Boredom,Smartphone,Android,16:25:00,7,3,At Work,Mobile Data,16,7.19,53.687,2.19,0.026,Afternoon
+650,30,Female,Germany,21140,0,0,Labor/Worker,Rural,Instagram,229,15,4513,Pranks,3,4826,6,26,29,51,Night,1,9,Habit,Tablet,Android,22:15:00,3,7,At School,Mobile Data,22,15.27,21.074,1.93,0.114,Night
+651,45,Male,United States,44842,0,1,Labor/Worker,Rural,Tiktok,186,7,416,Life Hacks,23,3664,7,15,14,56,Night,1,9,Entertainment,Tablet,Android,22:15:00,3,7,Commuting,Mobile Data,22,26.57,19.699,2.0,0.081,Night
+652,42,Male,United States,46421,0,0,Cashier,Rural,Youtube,291,16,9664,Vlogs,14,497,6,11,35,73,Afternoon,4,6,Entertainment,Tablet,Android,17:45:00,6,4,At Work,Mobile Data,17,18.19,1.708,2.19,0.038,Evening
+653,50,Male,Brazil,21708,0,1,Artist,Rural,Youtube,142,5,4181,Vlogs,15,7641,6,11,28,10,Evening,5,5,Habit,Smartphone,Windows,16:25:00,7,3,At Home,Mobile Data,16,28.4,53.81,5.6,0.077,Afternoon
+654,55,Female,United States,23630,0,0,Waiting Staff,Urban,Tiktok,31,16,4263,Jokes/Memes,2,4643,2,28,30,61,Night,1,9,Boredom,Tablet,Android,22:15:00,3,7,Commuting,Wi-Fi,22,1.94,149.774,1.88,0.903,Night
+655,23,Male,Pakistan,39595,0,1,Students,Rural,Instagram,278,1,2516,Vlogs,29,5056,5,28,26,50,Night,1,9,Habit,Smartphone,Android,22:15:00,3,7,At Home,Mobile Data,22,278.0,18.187,26.0,0.101,Night
+656,61,Other,United States,96021,1,1,Students,Rural,Tiktok,170,19,9288,Pranks,19,131,3,25,7,47,Night,1,9,Boredom,Tablet,Ios,22:15:00,3,7,At School,Mobile Data,22,8.95,0.771,0.37,0.147,Night
+657,62,Male,India,48308,0,1,Labor/Worker,Rural,Facebook,116,5,9002,Life Hacks,12,5443,7,20,39,90,Afternoon,4,6,Procrastination,Computer,Ios,17:45:00,6,4,At Home,Mobile Data,17,23.2,46.922,7.8,0.172,Evening
+658,49,Male,United States,64789,1,1,Students,Rural,Youtube,288,7,5641,Gaming,25,857,4,28,31,1,Night,1,9,Boredom,Smartphone,Android,22:15:00,3,7,At Home,Mobile Data,22,41.14,2.976,4.43,0.097,Night
+659,62,Female,Vietnam,75690,1,0,Labor/Worker,Rural,Facebook,244,19,6617,Pranks,20,8712,1,25,5,94,Evening,5,5,Procrastination,Tablet,Ios,16:25:00,7,3,At School,Wi-Fi,16,12.84,35.705,0.26,0.102,Afternoon
+660,64,Male,India,46086,0,1,Labor/Worker,Rural,Tiktok,27,5,993,Gaming,4,8221,6,11,35,57,Evening,5,5,Procrastination,Smartphone,Windows,16:25:00,7,3,At Home,Mobile Data,16,5.4,304.481,7.0,0.407,Afternoon
+661,38,Female,Mexico,36859,0,0,Waiting Staff,Rural,Tiktok,251,17,9474,Vlogs,3,6147,6,19,47,38,Night,1,9,Habit,Tablet,Android,22:15:00,3,7,At Work,Wi-Fi,22,14.76,24.49,2.76,0.076,Night
+662,33,Male,India,27684,0,1,Cashier,Rural,Instagram,126,8,4371,Life Hacks,5,4604,7,28,14,62,Afternoon,4,6,Habit,Tablet,Ios,17:45:00,6,4,At Home,Mobile Data,17,15.75,36.54,1.75,0.222,Evening
+663,38,Male,Japan,21207,0,0,Students,Rural,Instagram,295,1,1774,Trends,3,9452,8,1,36,79,Night,1,9,Habit,Computer,Android,22:15:00,3,7,At School,Mobile Data,22,295.0,32.041,36.0,0.003,Night
+664,28,Male,Philippines,66099,1,1,Manager,Rural,Instagram,291,2,3562,Life Hacks,25,1558,3,27,27,89,Evening,5,5,Procrastination,Tablet,Macos,16:25:00,7,3,Commuting,Mobile Data,16,145.5,5.354,13.5,0.093,Afternoon
+665,54,Male,United States,87496,1,0,Students,Rural,Facebook,153,15,3817,Jokes/Memes,15,15,6,5,24,70,Afternoon,4,6,Procrastination,Computer,Android,17:45:00,6,4,At Work,Mobile Data,17,10.2,0.098,1.6,0.033,Evening
+666,53,Other,Philippines,86093,1,1,Students,Rural,Instagram,214,18,6634,Asmr,19,3605,2,10,40,82,Evening,5,5,Boredom,Computer,Ios,16:25:00,7,3,At School,Mobile Data,16,11.89,16.846,2.22,0.047,Afternoon
+667,52,Male,Indonesia,49689,0,0,Labor/Worker,Rural,Tiktok,48,11,1757,Life Hacks,2,1607,9,10,29,65,Afternoon,4,6,Entertainment,Tablet,Windows,17:45:00,6,4,At Work,Wi-Fi,17,4.36,33.479,2.64,0.208,Evening
+668,36,Female,Pakistan,68651,1,1,Driver,Urban,Instagram,163,10,2374,Asmr,12,5935,2,14,45,62,Afternoon,4,6,Habit,Tablet,Windows,17:45:00,6,4,At Work,Mobile Data,17,16.3,36.411,4.5,0.086,Evening
+669,37,Male,United States,33893,0,0,Students,Urban,Youtube,185,4,2577,Life Hacks,5,2016,3,2,22,56,Night,1,9,Entertainment,Tablet,Macos,22:15:00,3,7,Commuting,Mobile Data,22,46.25,10.897,5.5,0.011,Night
+670,35,Male,Pakistan,86418,1,1,Students,Urban,Instagram,250,5,9084,Jokes/Memes,22,3574,2,4,8,67,Morning,7,3,Entertainment,Tablet,Android,09:55:00,9,1,At Home,Mobile Data,9,50.0,14.296,1.6,0.016,Morning
+671,64,Male,Philippines,80011,1,0,Waiting Staff,Urban,Facebook,143,4,4185,Pranks,17,7274,9,2,15,17,Night,1,9,Entertainment,Tablet,Windows,22:15:00,3,7,At School,Mobile Data,22,35.75,50.867,3.75,0.014,Night
+672,58,Male,India,58635,1,1,Students,Rural,Youtube,55,13,8900,Vlogs,14,9935,1,18,49,8,Night,1,9,Habit,Smartphone,Android,22:15:00,3,7,At School,Wi-Fi,22,4.23,180.636,3.77,0.327,Night
+673,31,Male,Japan,76115,1,0,Waiting Staff,Rural,Youtube,59,13,2398,Entertainment,28,3791,5,13,5,60,Morning,7,3,Entertainment,Smartphone,Windows,09:55:00,9,1,At School,Mobile Data,9,4.54,64.254,0.38,0.22,Morning
+674,32,Male,India,98405,1,1,Waiting Staff,Rural,Youtube,175,18,5970,Entertainment,27,6406,1,19,4,40,Evening,5,5,Habit,Computer,Windows,16:25:00,7,3,At Work,Mobile Data,16,9.72,36.606,0.22,0.109,Afternoon
+675,48,Male,Mexico,92702,1,0,Students,Rural,Facebook,115,2,4536,Gaming,22,1088,5,5,11,81,Night,1,9,Habit,Tablet,Android,22:15:00,3,7,At Work,Mobile Data,22,57.5,9.461,5.5,0.043,Night
+676,18,Male,Japan,98518,1,1,Labor/Worker,Rural,Tiktok,225,16,6884,Pranks,10,1361,8,20,18,89,Morning,7,3,Procrastination,Smartphone,Macos,09:55:00,9,1,At Work,Mobile Data,9,14.06,6.049,1.12,0.089,Morning
+677,20,Male,Japan,92805,1,1,Students,Rural,Instagram,155,1,8128,Life Hacks,3,4473,8,2,42,62,Night,1,9,Entertainment,Tablet,Macos,22:15:00,3,7,At School,Mobile Data,22,155.0,28.858,42.0,0.013,Night
+678,33,Female,India,78954,1,1,Teacher,Rural,Youtube,81,19,9169,Jokes/Memes,4,5294,8,11,49,41,Night,1,9,Boredom,Tablet,Android,22:15:00,3,7,Commuting,Wi-Fi,22,4.26,65.358,2.58,0.136,Night
+679,40,Female,India,48064,0,1,Artist,Rural,Youtube,282,9,735,Pranks,6,7106,2,26,30,12,Morning,7,3,Boredom,Smartphone,Ios,09:55:00,9,1,At School,Mobile Data,9,31.33,25.199,3.33,0.092,Morning
+680,28,Male,Vietnam,99063,1,0,Manager,Rural,Youtube,256,3,633,Vlogs,24,7319,8,18,15,93,Afternoon,4,6,Entertainment,Smartphone,Ios,17:45:00,6,4,At Work,Mobile Data,17,85.33,28.59,5.0,0.07,Evening
+681,29,Other,Philippines,22454,0,1,Manager,Urban,Tiktok,195,7,4269,Life Hacks,25,8667,5,6,6,89,Night,1,9,Habit,Smartphone,Android,22:15:00,3,7,At Home,Mobile Data,22,27.86,44.446,0.86,0.031,Night
+682,27,Female,India,40878,0,0,Labor/Worker,Rural,Tiktok,79,10,4100,Life Hacks,22,9481,1,23,16,54,Evening,5,5,Habit,Computer,Windows,16:25:00,7,3,Commuting,Wi-Fi,16,7.9,120.013,1.6,0.291,Afternoon
+683,49,Male,Pakistan,71098,1,1,Labor/Worker,Rural,Facebook,159,1,2902,Entertainment,16,8520,7,28,47,89,Afternoon,4,6,Habit,Smartphone,Macos,17:45:00,6,4,At School,Mobile Data,17,159.0,53.585,47.0,0.176,Evening
+684,33,Male,India,82154,1,0,Teacher,Rural,Tiktok,255,10,1664,Asmr,7,1186,6,10,40,93,Morning,7,3,Boredom,Smartphone,Android,09:55:00,9,1,At Work,Wi-Fi,9,25.5,4.651,4.0,0.039,Morning
+685,25,Male,Pakistan,32991,0,1,Students,Urban,Instagram,271,9,5592,Entertainment,15,3414,5,22,9,11,Evening,5,5,Habit,Smartphone,Android,16:25:00,7,3,At School,Mobile Data,16,30.11,12.598,1.0,0.081,Afternoon
+686,55,Female,Vietnam,88344,1,0,Driver,Rural,Facebook,35,15,3873,Pranks,21,5486,1,23,43,60,Night,1,9,Boredom,Smartphone,Android,22:15:00,3,7,At Work,Wi-Fi,22,2.33,156.743,2.87,0.657,Night
+687,29,Male,Mexico,56593,1,1,Driver,Rural,Facebook,149,15,1055,Jokes/Memes,28,3536,1,17,34,68,Evening,5,5,Habit,Tablet,Android,16:25:00,7,3,At School,Mobile Data,16,9.93,23.732,2.27,0.114,Afternoon
+688,41,Male,United States,56304,1,0,Students,Rural,Instagram,108,3,8573,Gaming,25,1773,6,22,27,78,Night,1,9,Procrastination,Computer,Windows,22:15:00,3,7,Commuting,Mobile Data,22,36.0,16.417,9.0,0.204,Night
+689,45,Female,Vietnam,50386,1,1,Waiting Staff,Rural,Instagram,287,5,3083,Pranks,20,5415,7,11,13,46,Evening,5,5,Procrastination,Smartphone,Android,16:25:00,7,3,At Home,Wi-Fi,16,57.4,18.868,2.6,0.038,Afternoon
+690,25,Female,Germany,75220,1,0,Students,Rural,Instagram,60,9,8008,Asmr,26,2558,1,19,36,38,Evening,5,5,Boredom,Smartphone,Android,16:25:00,7,3,At Home,Mobile Data,16,6.67,42.633,4.0,0.317,Afternoon
+691,45,Male,Brazil,89338,1,1,Students,Rural,Facebook,160,9,9785,Life Hacks,11,5907,9,17,27,61,Night,1,9,Procrastination,Smartphone,Android,22:15:00,3,7,At Home,Wi-Fi,22,17.78,36.919,3.0,0.106,Night
+692,53,Male,India,41083,0,0,Waiting Staff,Urban,Facebook,113,7,4262,Pranks,22,5079,4,24,9,17,Morning,7,3,Boredom,Smartphone,Android,09:55:00,9,1,At Work,Wi-Fi,9,16.14,44.947,1.29,0.212,Morning
+693,43,Other,Mexico,38354,0,1,Students,Rural,Facebook,98,12,2390,Vlogs,21,9454,5,4,5,66,Night,1,9,Boredom,Computer,Android,22:15:00,3,7,At Home,Mobile Data,22,8.17,96.469,0.42,0.041,Night
+694,25,Female,Germany,42190,0,0,Waiting Staff,Rural,Instagram,150,9,3554,Jokes/Memes,1,6724,2,26,22,72,Afternoon,4,6,Entertainment,Smartphone,Android,17:45:00,6,4,At Home,Mobile Data,17,16.67,44.827,2.44,0.173,Evening
+695,45,Female,Indonesia,26142,0,1,Cashier,Rural,Instagram,222,6,5139,Life Hacks,5,5420,8,24,31,36,Evening,5,5,Boredom,Computer,Macos,16:25:00,7,3,At Home,Wi-Fi,16,37.0,24.414,5.17,0.108,Afternoon
+696,45,Female,Mexico,48398,0,0,Teacher,Urban,Youtube,242,2,9400,Life Hacks,13,3291,2,26,3,74,Night,1,9,Entertainment,Smartphone,Android,22:15:00,3,7,At Work,Mobile Data,22,121.0,13.599,1.5,0.107,Night
+697,54,Other,India,71971,1,1,Cashier,Urban,Tiktok,192,9,545,Gaming,21,9210,3,14,30,7,Evening,5,5,Entertainment,Tablet,Android,16:25:00,7,3,At Home,Wi-Fi,16,21.33,47.969,3.33,0.073,Afternoon
+698,58,Male,India,61862,1,1,Artist,Rural,Youtube,260,17,3664,Vlogs,14,9981,9,27,21,16,Afternoon,4,6,Entertainment,Tablet,Android,17:45:00,6,4,At Work,Mobile Data,17,15.29,38.388,1.24,0.104,Evening
+699,53,Male,Vietnam,73410,1,1,Students,Rural,Instagram,18,1,2240,Life Hacks,9,3524,2,20,35,14,Evening,5,5,Boredom,Computer,Macos,16:25:00,7,3,Commuting,Mobile Data,16,18.0,195.778,35.0,1.111,Afternoon
+700,44,Female,Brazil,39503,0,1,Cashier,Rural,Facebook,88,19,3774,Gaming,17,3504,6,4,6,80,Evening,5,5,Boredom,Tablet,Android,16:25:00,7,3,At School,Wi-Fi,16,4.63,39.818,0.32,0.045,Afternoon
+701,34,Female,Mexico,68456,1,0,Students,Urban,Instagram,61,6,2628,Vlogs,15,8998,4,28,28,25,Afternoon,4,6,Procrastination,Computer,Ios,17:45:00,6,4,At Home,Wi-Fi,17,10.17,147.508,4.67,0.459,Evening
+702,26,Male,Philippines,28016,0,1,Students,Urban,Tiktok,278,5,6619,Life Hacks,21,5989,7,14,32,4,Night,1,9,Boredom,Smartphone,Windows,22:15:00,3,7,At Home,Wi-Fi,22,55.6,21.543,6.4,0.05,Night
+703,50,Other,India,22384,0,0,Cashier,Rural,Youtube,235,2,6781,Jokes/Memes,7,2666,6,26,42,29,Evening,5,5,Entertainment,Computer,Android,16:25:00,7,3,At Home,Mobile Data,16,117.5,11.345,21.0,0.111,Afternoon
+704,37,Male,United States,82320,1,1,Students,Rural,Youtube,60,9,8016,Trends,27,8596,9,4,37,56,Night,1,9,Boredom,Computer,Android,22:15:00,3,7,At School,Wi-Fi,22,6.67,143.267,4.11,0.067,Night
+705,30,Male,Vietnam,35072,0,0,Students,Urban,Facebook,195,14,3131,Jokes/Memes,22,7140,9,6,25,6,Night,1,9,Habit,Smartphone,Ios,22:15:00,3,7,At Home,Wi-Fi,22,13.93,36.615,1.79,0.031,Night
+706,45,Male,India,60510,1,1,Driver,Rural,Youtube,43,4,97,Vlogs,22,8785,4,9,32,1,Evening,5,5,Habit,Tablet,Macos,16:25:00,7,3,At Home,Mobile Data,16,10.75,204.302,8.0,0.209,Afternoon
+707,46,Male,Brazil,68933,1,0,Labor/Worker,Rural,Youtube,239,4,3859,Trends,12,6895,1,21,35,39,Evening,5,5,Habit,Smartphone,Android,16:25:00,7,3,At School,Mobile Data,16,59.75,28.849,8.75,0.088,Afternoon
+708,30,Female,United States,41826,0,1,Labor/Worker,Urban,Instagram,140,15,2709,Entertainment,23,4107,2,12,22,1,Evening,5,5,Habit,Smartphone,Android,16:25:00,7,3,At Home,Mobile Data,16,9.33,29.336,1.47,0.086,Afternoon
+709,63,Female,Mexico,88026,1,0,Labor/Worker,Rural,Youtube,129,8,5398,Pranks,6,3280,8,29,24,63,Night,1,9,Procrastination,Tablet,Ios,22:15:00,3,7,At Home,Wi-Fi,22,16.12,25.426,3.0,0.225,Night
+710,52,Male,Philippines,45518,0,1,Artist,Rural,Youtube,256,4,6153,Life Hacks,21,2212,8,26,39,57,Night,1,9,Boredom,Smartphone,Ios,22:15:00,3,7,At Home,Wi-Fi,22,64.0,8.641,9.75,0.102,Night
+711,23,Male,Mexico,44045,0,0,Waiting Staff,Rural,Youtube,201,16,457,Entertainment,16,8078,2,8,30,67,Afternoon,4,6,Procrastination,Smartphone,Android,17:45:00,6,4,At School,Wi-Fi,17,12.56,40.189,1.88,0.04,Evening
+712,35,Other,Japan,70876,1,1,Students,Rural,Facebook,219,4,5915,Life Hacks,26,9734,4,24,32,65,Evening,5,5,Entertainment,Tablet,Ios,16:25:00,7,3,At Home,Mobile Data,16,54.75,44.447,8.0,0.11,Afternoon
+713,22,Male,Brazil,71919,1,0,Waiting Staff,Rural,Facebook,112,16,4369,Entertainment,5,7601,1,4,31,65,Evening,5,5,Habit,Smartphone,Android,16:25:00,7,3,At Work,Mobile Data,16,7.0,67.866,1.94,0.036,Afternoon
+714,64,Other,Germany,47103,0,1,Students,Rural,Instagram,142,12,4089,Vlogs,9,613,7,27,23,21,Night,1,9,Entertainment,Smartphone,Android,22:15:00,3,7,At Home,Mobile Data,22,11.83,4.317,1.92,0.19,Night
+715,42,Female,India,56188,1,0,Artist,Rural,Youtube,148,16,9224,Entertainment,14,868,4,26,40,30,Morning,7,3,Boredom,Computer,Windows,09:55:00,9,1,At School,Mobile Data,9,9.25,5.865,2.5,0.176,Morning
+716,19,Male,Philippines,25845,0,1,Labor/Worker,Rural,Facebook,130,19,8400,Asmr,8,811,8,25,33,96,Evening,5,5,Entertainment,Tablet,Windows,16:25:00,7,3,At Home,Mobile Data,16,6.84,6.238,1.74,0.192,Afternoon
+717,27,Female,India,56674,1,0,Driver,Rural,Facebook,103,8,1938,Jokes/Memes,14,4862,9,25,25,33,Night,1,9,Habit,Tablet,Ios,22:15:00,3,7,At School,Mobile Data,22,12.88,47.204,3.12,0.243,Night
+718,47,Female,Mexico,39337,0,1,Waiting Staff,Rural,Instagram,138,6,1147,Vlogs,12,4177,9,5,36,48,Morning,7,3,Procrastination,Tablet,Android,09:55:00,9,1,At Home,Mobile Data,9,23.0,30.268,6.0,0.036,Morning
+719,62,Female,India,42313,0,1,Driver,Rural,Tiktok,100,10,5153,Vlogs,10,1744,3,6,24,22,Evening,5,5,Boredom,Smartphone,Windows,16:25:00,7,3,At School,Mobile Data,16,10.0,17.44,2.4,0.06,Afternoon
+720,22,Other,Mexico,46943,0,1,Students,Urban,Youtube,101,5,4300,Life Hacks,20,2256,5,5,31,94,Afternoon,4,6,Entertainment,Smartphone,Windows,17:45:00,6,4,At Home,Mobile Data,17,20.2,22.337,6.2,0.05,Evening
+721,50,Male,India,97949,1,1,Waiting Staff,Urban,Facebook,72,18,8119,Trends,20,7612,6,19,39,54,Evening,5,5,Entertainment,Tablet,Android,16:25:00,7,3,Commuting,Wi-Fi,16,4.0,105.722,2.17,0.264,Afternoon
+722,18,Male,United States,20276,0,0,Students,Rural,Instagram,38,10,8635,Vlogs,26,8713,6,27,46,4,Afternoon,4,6,Boredom,Smartphone,Android,17:45:00,6,4,At Work,Mobile Data,17,3.8,229.289,4.6,0.711,Evening
+723,35,Other,United States,71151,1,1,Labor/Worker,Rural,Instagram,219,10,7760,Pranks,21,7196,8,8,13,87,Afternoon,4,6,Boredom,Smartphone,Android,17:45:00,6,4,At Home,Mobile Data,17,21.9,32.858,1.3,0.037,Evening
+724,49,Female,United States,37611,0,0,Cashier,Urban,Instagram,21,7,7954,Gaming,13,5423,6,9,10,55,Afternoon,4,6,Boredom,Tablet,Windows,17:45:00,6,4,At School,Wi-Fi,17,3.0,258.238,1.43,0.429,Evening
+725,64,Female,Mexico,31944,0,1,Artist,Rural,Facebook,139,18,4785,Life Hacks,29,5089,6,15,23,44,Evening,5,5,Procrastination,Tablet,Ios,16:25:00,7,3,At School,Wi-Fi,16,7.72,36.612,1.28,0.108,Afternoon
+726,28,Female,Pakistan,72887,1,0,Students,Rural,Youtube,182,1,9025,Asmr,19,6608,4,4,18,89,Evening,5,5,Entertainment,Tablet,Ios,16:25:00,7,3,At School,Mobile Data,16,182.0,36.308,18.0,0.022,Afternoon
+727,38,Female,United States,69847,1,1,Cashier,Rural,Tiktok,217,7,1462,Trends,15,9717,7,25,32,12,Night,1,9,Habit,Computer,Macos,22:15:00,3,7,At Home,Wi-Fi,22,31.0,44.779,4.57,0.115,Night
+728,43,Female,Germany,78653,1,0,Students,Rural,Youtube,33,1,1160,Pranks,8,1469,8,9,33,81,Afternoon,4,6,Habit,Tablet,Android,17:00:00,6,4,Commuting,Mobile Data,17,33.0,44.515,33.0,0.273,Evening
+729,42,Male,United States,76622,1,1,Waiting Staff,Rural,Instagram,108,15,387,Asmr,23,2675,3,7,36,79,Afternoon,4,6,Habit,Computer,Android,17:00:00,6,4,At Home,Mobile Data,17,7.2,24.769,2.4,0.065,Evening
+730,39,Male,India,47810,0,0,Waiting Staff,Rural,Instagram,148,4,7193,Trends,21,1513,7,8,28,74,Afternoon,4,6,Boredom,Smartphone,Android,17:00:00,6,4,At Work,Mobile Data,17,37.0,10.223,7.0,0.054,Evening
+731,44,Female,Brazil,97842,1,1,Engineer,Rural,Tiktok,183,10,9911,Vlogs,10,4876,3,15,16,99,Evening,5,5,Boredom,Smartphone,Android,14:00:00,7,3,Commuting,Wi-Fi,14,18.3,26.645,1.6,0.082,Afternoon
+732,30,Other,India,30503,0,0,Driver,Rural,Youtube,38,9,4776,Pranks,3,1451,8,19,16,52,Evening,5,5,Entertainment,Tablet,Android,14:00:00,7,3,At School,Mobile Data,14,4.22,38.184,1.78,0.5,Afternoon
+733,50,Male,Vietnam,56976,1,1,Waiting Staff,Rural,Instagram,152,2,3410,Comedy,21,4654,1,15,18,93,Morning,7,3,Habit,Smartphone,Macos,08:00:00,9,1,At Home,Mobile Data,8,76.0,30.618,9.0,0.099,Morning
+734,51,Female,India,31590,0,0,Waiting Staff,Rural,Instagram,51,14,690,Trends,3,3007,1,5,8,76,Night,1,9,Entertainment,Smartphone,Android,21:00:00,3,7,At Home,Mobile Data,21,3.64,58.961,0.57,0.098,Night
+735,58,Other,Germany,30886,0,1,Waiting Staff,Rural,Youtube,217,16,7029,Gaming,26,3124,6,19,42,65,Evening,5,5,Boredom,Smartphone,Ios,14:00:00,7,3,At Home,Wi-Fi,14,13.56,14.396,2.62,0.088,Afternoon
+736,52,Male,Pakistan,32866,0,0,Students,Rural,Instagram,201,1,7263,Entertainment,5,1753,9,7,16,65,Afternoon,4,6,Entertainment,Smartphone,Ios,17:00:00,6,4,At Work,Mobile Data,17,201.0,8.721,16.0,0.035,Evening
+737,18,Other,United States,86624,1,1,Waiting Staff,Rural,Youtube,169,2,5665,Life Hacks,16,1612,4,6,11,10,Evening,5,5,Boredom,Tablet,Windows,14:00:00,7,3,At Home,Mobile Data,14,84.5,9.538,5.5,0.036,Afternoon
+738,38,Female,United States,88899,1,0,Students,Rural,Instagram,73,7,6767,Gaming,17,3275,6,27,6,18,Afternoon,3,7,Boredom,Computer,Android,17:00:00,5,5,At Home,Mobile Data,17,10.43,44.863,0.86,0.37,Evening
+739,23,Male,Indonesia,52792,1,1,Cashier,Rural,Youtube,252,10,9362,Gaming,6,8747,5,19,1,47,Night,9,1,Habit,Tablet,Ios,21:00:00,10,0,At School,Mobile Data,21,25.2,34.71,0.1,0.075,Night
+740,45,Female,Mexico,29764,0,1,Driver,Rural,Tiktok,267,1,953,Asmr,26,2049,1,25,12,66,Evening,3,7,Habit,Smartphone,Ios,14:00:00,5,5,Commuting,Mobile Data,14,267.0,7.674,12.0,0.094,Afternoon
+741,34,Female,Pakistan,62727,1,1,Students,Rural,Instagram,161,13,6143,Asmr,20,824,6,28,38,49,Evening,9,1,Entertainment,Smartphone,Android,14:00:00,10,0,At Home,Mobile Data,14,12.38,5.118,2.92,0.174,Afternoon
+742,22,Other,Indonesia,98471,1,1,Driver,Rural,Tiktok,224,1,5968,Entertainment,20,3030,9,17,28,72,Afternoon,3,7,Habit,Tablet,Macos,17:00:00,5,5,At Home,Mobile Data,17,224.0,13.527,28.0,0.076,Evening
+743,48,Male,Vietnam,28068,0,0,Labor/Worker,Rural,Instagram,175,5,7206,Life Hacks,16,1081,3,10,45,22,Evening,3,7,Habit,Tablet,Windows,14:00:00,5,5,At Home,Mobile Data,14,35.0,6.177,9.0,0.057,Afternoon
+744,22,Female,India,27295,0,1,Students,Rural,Instagram,40,16,2485,Trends,24,5299,3,19,17,86,Afternoon,8,2,Habit,Smartphone,Ios,17:00:00,10,0,At Home,Wi-Fi,17,2.5,132.475,1.06,0.475,Evening
+745,55,Female,Mexico,61160,1,0,Manager,Rural,Facebook,241,15,1855,Life Hacks,2,492,2,11,1,26,Afternoon,6,4,Habit,Computer,Android,17:00:00,8,2,At School,Mobile Data,17,16.07,2.041,0.07,0.046,Evening
+746,20,Male,Mexico,31390,0,1,Cashier,Rural,Youtube,291,17,3232,Pranks,20,4764,4,15,32,90,Evening,8,2,Boredom,Computer,Ios,14:00:00,10,0,At Work,Wi-Fi,14,17.12,16.371,1.88,0.052,Afternoon
+747,40,Male,Japan,40131,0,0,Cashier,Urban,Tiktok,38,16,2598,Entertainment,15,7202,3,10,8,9,Evening,6,4,Habit,Smartphone,Ios,14:00:00,8,2,At Home,Wi-Fi,14,2.38,189.526,0.5,0.263,Afternoon
+748,54,Female,Japan,95969,1,1,Engineer,Urban,Tiktok,204,13,7830,Pranks,18,8266,2,11,40,21,Night,8,2,Boredom,Smartphone,Android,21:00:00,10,0,At Work,Wi-Fi,21,15.69,40.52,3.08,0.054,Night
+749,54,Male,India,35038,0,0,Students,Rural,Tiktok,265,11,8187,Pranks,1,3360,1,23,43,95,Morning,8,2,Procrastination,Smartphone,Windows,08:00:00,10,0,At School,Mobile Data,8,24.09,12.679,3.91,0.087,Morning
+750,27,Female,India,72327,1,1,Waiting Staff,Rural,Youtube,290,17,3984,Pranks,26,8562,3,3,46,63,Morning,8,2,Boredom,Smartphone,Android,08:00:00,10,0,At School,Mobile Data,8,17.06,29.524,2.71,0.01,Morning
+751,27,Male,India,97064,1,0,Teacher,Rural,Facebook,96,17,6964,Entertainment,29,4682,6,3,24,6,Evening,6,4,Boredom,Smartphone,Windows,14:00:00,8,2,At Work,Wi-Fi,14,5.65,48.771,1.41,0.031,Afternoon
+752,36,Male,India,41281,0,1,Cashier,Rural,Tiktok,158,2,6685,Entertainment,29,328,9,18,10,14,Afternoon,8,2,Boredom,Computer,Android,17:00:00,10,0,At Work,Mobile Data,17,79.0,2.076,5.0,0.114,Evening
+753,34,Male,United States,74189,1,0,Labor/Worker,Urban,Youtube,258,13,657,Gaming,19,9982,5,25,47,33,Afternoon,8,2,Entertainment,Smartphone,Ios,17:00:00,10,0,At Home,Wi-Fi,17,19.85,38.69,3.62,0.097,Evening
+754,38,Other,United States,68511,1,1,Students,Rural,Instagram,292,14,7744,Trends,12,8968,3,11,39,71,Night,9,1,Boredom,Tablet,Macos,21:00:00,10,0,At School,Mobile Data,21,20.86,30.712,2.79,0.038,Night
+755,31,Male,Japan,28605,0,0,Labor/Worker,Rural,Tiktok,207,11,6840,Vlogs,8,4674,5,20,39,24,Morning,6,4,Entertainment,Smartphone,Macos,08:00:00,8,2,At Work,Wi-Fi,8,18.82,22.58,3.55,0.097,Morning
+756,26,Male,Japan,21381,0,1,Waiting Staff,Rural,Tiktok,53,10,9989,Vlogs,6,4316,5,26,10,73,Morning,6,4,Boredom,Smartphone,Ios,08:00:00,8,2,At Home,Mobile Data,8,5.3,81.434,1.0,0.491,Morning
+757,63,Female,Japan,86634,1,0,Driver,Rural,Facebook,37,3,6313,Vlogs,12,9379,5,29,36,75,Afternoon,3,7,Procrastination,Computer,Android,17:00:00,5,5,At Work,Mobile Data,17,12.33,253.486,12.0,0.784,Evening
+758,18,Female,Pakistan,39810,0,1,Waiting Staff,Urban,Tiktok,26,17,7939,Gaming,7,9695,7,22,25,87,Evening,8,2,Boredom,Smartphone,Android,14:00:00,10,0,At Home,Mobile Data,14,1.53,372.885,1.47,0.846,Afternoon
+759,62,Female,Brazil,44322,0,0,Teacher,Urban,Tiktok,136,15,9955,Vlogs,18,5803,5,18,10,51,Morning,8,2,Entertainment,Smartphone,Android,08:00:00,10,0,Commuting,Mobile Data,8,9.07,42.669,0.67,0.132,Morning
+760,30,Other,India,61869,1,1,Labor/Worker,Urban,Instagram,177,9,6177,Gaming,22,3325,7,25,19,2,Evening,6,4,Boredom,Smartphone,Android,14:00:00,8,2,At School,Mobile Data,14,19.67,18.785,2.11,0.141,Afternoon
+761,21,Female,Pakistan,52955,1,1,Students,Rural,Youtube,253,10,3286,Comedy,14,8379,9,15,46,15,Night,8,2,Habit,Tablet,Ios,21:00:00,10,0,At Home,Wi-Fi,21,25.3,33.119,4.6,0.059,Night
+762,18,Male,United States,81388,1,1,Students,Rural,Youtube,85,8,9778,Entertainment,8,1214,5,7,45,35,Evening,3,7,Procrastination,Computer,Android,14:00:00,5,5,At Home,Wi-Fi,14,10.62,14.282,5.62,0.082,Afternoon
+763,57,Female,United States,30207,0,1,Waiting Staff,Rural,Facebook,240,13,5560,Vlogs,24,7556,2,10,15,36,Evening,8,2,Boredom,Smartphone,Android,14:00:00,10,0,At Home,Mobile Data,14,18.46,31.483,1.15,0.042,Afternoon
+764,49,Male,Vietnam,87628,1,0,Engineer,Rural,Instagram,213,18,3564,Life Hacks,20,9301,5,21,16,92,Night,8,2,Entertainment,Tablet,Android,21:00:00,10,0,At School,Mobile Data,21,11.83,43.667,0.89,0.099,Night
+765,51,Male,Germany,48220,0,1,Teacher,Rural,Youtube,257,5,4585,Jokes/Memes,22,8722,8,23,2,39,Afternoon,9,1,Procrastination,Tablet,Android,17:00:00,10,0,At School,Mobile Data,17,51.4,33.938,0.4,0.089,Evening
+766,45,Male,Mexico,94085,1,0,Waiting Staff,Urban,Instagram,223,6,4818,Life Hacks,14,9262,4,20,29,4,Night,6,4,Habit,Smartphone,Macos,21:00:00,8,2,Commuting,Mobile Data,21,37.17,41.534,4.83,0.09,Night
+767,48,Male,India,42031,0,1,Teacher,Urban,Youtube,224,17,5042,Jokes/Memes,5,3136,2,29,4,64,Night,3,7,Habit,Computer,Ios,21:00:00,5,5,At Home,Mobile Data,21,13.18,14.0,0.24,0.129,Night
+768,25,Male,Indonesia,90721,1,0,Cashier,Rural,Instagram,167,11,6183,Pranks,9,9154,3,10,29,74,Afternoon,8,2,Boredom,Computer,Android,17:00:00,10,0,At Home,Mobile Data,17,15.18,54.814,2.64,0.06,Evening
+769,56,Male,Philippines,91312,1,1,Students,Rural,Facebook,78,16,8027,Asmr,8,6618,9,13,31,6,Afternoon,8,2,Habit,Smartphone,Windows,17:00:00,10,0,At Home,Mobile Data,17,4.88,84.846,1.94,0.167,Evening
+770,43,Male,United States,79766,1,0,Labor/Worker,Rural,Tiktok,94,9,3245,Jokes/Memes,2,5265,9,15,17,57,Night,3,7,Boredom,Smartphone,Android,21:00:00,5,5,Commuting,Mobile Data,21,10.44,56.011,1.89,0.16,Night
+771,51,Female,Vietnam,32449,0,1,Artist,Rural,Facebook,276,2,1041,Trends,28,7089,8,23,10,30,Morning,3,7,Entertainment,Smartphone,Ios,08:00:00,5,5,Commuting,Mobile Data,8,138.0,25.685,5.0,0.083,Morning
+772,20,Female,India,76699,1,0,Students,Urban,Youtube,78,5,2274,Asmr,16,7965,8,18,27,99,Night,6,4,Boredom,Smartphone,Android,21:00:00,8,2,At Home,Mobile Data,21,15.6,102.115,5.4,0.231,Night
+773,29,Other,Germany,66092,1,1,Students,Rural,Facebook,108,1,3630,Vlogs,13,9597,8,23,41,74,Evening,3,7,Habit,Smartphone,Ios,14:00:00,5,5,At Home,Mobile Data,14,108.0,88.861,41.0,0.213,Afternoon
+774,18,Female,Pakistan,83671,1,0,Students,Rural,Tiktok,225,4,2115,Vlogs,7,8708,8,4,15,96,Afternoon,6,4,Habit,Computer,Macos,17:00:00,8,2,At Home,Mobile Data,17,56.25,38.702,3.75,0.018,Evening
+775,61,Other,India,30350,0,1,Students,Rural,Facebook,170,4,7365,Jokes/Memes,16,6569,8,20,44,67,Afternoon,8,2,Entertainment,Smartphone,Android,17:00:00,10,0,At School,Mobile Data,17,42.5,38.641,11.0,0.118,Evening
+776,22,Male,Mexico,88487,1,0,Labor/Worker,Urban,Youtube,103,3,1678,Life Hacks,7,1491,1,17,31,90,Evening,8,2,Entertainment,Smartphone,Macos,14:00:00,10,0,At Work,Mobile Data,14,34.33,14.476,10.33,0.165,Afternoon
+777,47,Male,India,37622,0,1,Students,Urban,Youtube,183,9,3095,Jokes/Memes,27,5213,6,28,21,15,Night,9,1,Habit,Tablet,Android,21:00:00,10,0,At School,Wi-Fi,21,20.33,28.486,2.33,0.153,Night
+778,47,Male,Brazil,90263,1,0,Labor/Worker,Rural,Facebook,174,12,9191,Gaming,14,4228,9,3,41,17,Night,3,7,Procrastination,Smartphone,Android,21:00:00,5,5,At Work,Mobile Data,21,14.5,24.299,3.42,0.017,Night
+779,34,Male,Japan,73117,1,1,Waiting Staff,Rural,Tiktok,124,10,5874,Jokes/Memes,14,7508,8,21,46,91,Night,8,2,Entertainment,Tablet,Android,21:00:00,10,0,At Work,Wi-Fi,21,12.4,60.548,4.6,0.169,Night
+780,64,Other,Japan,78394,1,0,Students,Rural,Facebook,229,2,2285,Pranks,12,4409,3,21,45,18,Evening,8,2,Entertainment,Smartphone,Ios,14:00:00,10,0,At School,Mobile Data,14,114.5,19.253,22.5,0.092,Afternoon
+781,40,Female,Mexico,43782,0,1,Artist,Rural,Tiktok,40,11,5053,Jokes/Memes,1,590,1,2,26,19,Afternoon,6,4,Habit,Smartphone,Android,17:00:00,8,2,At Work,Mobile Data,17,3.64,14.75,2.36,0.05,Evening
+782,32,Female,Germany,48454,0,1,Cashier,Rural,Instagram,20,10,7063,Gaming,1,7379,2,4,38,76,Afternoon,3,7,Entertainment,Smartphone,Macos,17:00:00,5,5,At School,Mobile Data,17,2.0,368.95,3.8,0.2,Evening
+783,54,Male,Vietnam,87904,1,1,Labor/Worker,Rural,Tiktok,139,6,1590,Pranks,12,9735,2,1,36,88,Night,8,2,Habit,Smartphone,Macos,21:00:00,10,0,At Home,Wi-Fi,21,23.17,70.036,6.0,0.007,Night
+784,38,Male,Pakistan,35592,0,1,Labor/Worker,Urban,Instagram,114,18,9354,Life Hacks,20,3056,7,15,17,69,Morning,6,4,Habit,Smartphone,Android,08:00:00,8,2,At School,Mobile Data,8,6.33,26.807,0.94,0.132,Morning
+785,31,Male,Japan,42173,0,0,Students,Urban,Facebook,36,2,2521,Jokes/Memes,21,2206,6,25,3,24,Evening,6,4,Habit,Smartphone,Ios,14:00:00,8,2,At Work,Wi-Fi,14,18.0,61.278,1.5,0.694,Afternoon
+786,19,Male,India,53204,1,1,Driver,Rural,Tiktok,236,2,4649,Pranks,15,2708,2,1,14,91,Evening,8,2,Entertainment,Tablet,Android,14:00:00,10,0,At Home,Wi-Fi,14,118.0,11.475,7.0,0.004,Afternoon
+787,28,Female,Indonesia,55596,1,0,Labor/Worker,Urban,Instagram,11,10,5730,Gaming,4,5981,8,6,49,48,Evening,8,2,Entertainment,Tablet,Ios,14:00:00,10,0,At Work,Wi-Fi,14,1.1,543.727,4.9,0.545,Afternoon
+788,56,Other,United States,54324,1,1,Students,Rural,Instagram,110,16,695,Trends,7,5722,9,7,13,30,Night,6,4,Boredom,Smartphone,Android,21:00:00,8,2,At School,Wi-Fi,21,6.88,52.018,0.81,0.064,Night
+789,55,Male,United States,81202,1,0,Waiting Staff,Rural,Instagram,30,12,7808,Vlogs,16,747,7,19,41,15,Afternoon,8,2,Entertainment,Smartphone,Ios,17:00:00,10,0,At Home,Wi-Fi,17,2.5,24.9,3.42,0.633,Evening
+790,51,Male,United States,50750,1,1,Manager,Urban,Youtube,67,1,3684,Life Hacks,3,8992,4,12,27,47,Evening,3,7,Boredom,Smartphone,Windows,14:00:00,5,5,At Work,Mobile Data,14,67.0,134.209,27.0,0.179,Afternoon
+791,55,Male,Vietnam,96112,1,0,Students,Rural,Facebook,189,8,6705,Jokes/Memes,7,6553,1,1,1,44,Night,6,4,Entertainment,Smartphone,Ios,21:00:00,8,2,At Home,Mobile Data,21,23.62,34.672,0.12,0.005,Night
+792,51,Male,India,36566,0,1,Waiting Staff,Urban,Instagram,29,16,7369,Pranks,29,1497,4,7,17,98,Morning,6,4,Habit,Smartphone,Ios,08:00:00,8,2,At School,Wi-Fi,8,1.81,51.621,1.06,0.241,Morning
+793,35,Male,India,27190,0,0,Students,Urban,Tiktok,264,18,1972,Jokes/Memes,24,1379,4,19,48,27,Evening,3,7,Habit,Smartphone,Android,14:00:00,5,5,At Work,Mobile Data,14,14.67,5.223,2.67,0.072,Afternoon
+794,47,Male,Mexico,58333,1,1,Labor/Worker,Urban,Instagram,47,13,9696,Jokes/Memes,22,8871,8,13,34,84,Night,3,7,Entertainment,Smartphone,Android,21:00:00,5,5,Commuting,Mobile Data,21,3.62,188.745,2.62,0.277,Night
+795,32,Female,United States,21589,0,0,Labor/Worker,Rural,Youtube,157,15,8056,Comedy,6,7360,4,26,14,64,Evening,6,4,Entertainment,Smartphone,Android,14:00:00,8,2,At School,Wi-Fi,14,10.47,46.879,0.93,0.166,Afternoon
+796,44,Female,India,45235,0,1,Students,Rural,Facebook,34,12,4219,Life Hacks,16,3770,4,12,17,41,Afternoon,6,4,Boredom,Smartphone,Ios,17:00:00,8,2,At Home,Mobile Data,17,2.83,110.882,1.42,0.353,Evening
+797,51,Other,Pakistan,20159,0,0,Students,Urban,Youtube,130,8,1869,Jokes/Memes,24,3342,2,12,3,96,Night,8,2,Boredom,Smartphone,Windows,21:00:00,10,0,At Home,Mobile Data,21,16.25,25.708,0.38,0.092,Night
+798,55,Female,Brazil,32145,0,1,Waiting Staff,Rural,Youtube,35,10,1672,Gaming,8,9088,7,22,34,68,Night,8,2,Habit,Smartphone,Ios,21:00:00,10,0,At Work,Mobile Data,21,3.5,259.657,3.4,0.629,Night
+799,50,Male,Brazil,51921,1,0,Students,Rural,Youtube,178,14,9275,Asmr,23,1546,4,13,40,5,Morning,6,4,Procrastination,Smartphone,Android,08:00:00,8,2,At Home,Mobile Data,8,12.71,8.685,2.86,0.073,Morning
+800,41,Male,India,36237,0,1,Driver,Rural,Tiktok,234,5,1729,Life Hacks,22,3126,6,28,25,53,Evening,6,4,Boredom,Smartphone,Android,14:00:00,8,2,At Home,Mobile Data,14,46.8,13.359,5.0,0.12,Afternoon
+801,32,Male,Vietnam,28244,0,0,Manager,Rural,Facebook,10,18,7633,Jokes/Memes,6,5889,3,14,2,8,Afternoon,8,2,Habit,Tablet,Macos,17:00:00,10,0,At Work,Mobile Data,17,0.56,588.9,0.11,1.4,Evening
+802,47,Male,Japan,34743,0,1,Students,Urban,Facebook,270,19,6404,Life Hacks,10,6208,7,22,34,22,Evening,8,2,Boredom,Smartphone,Android,14:00:00,10,0,At Work,Wi-Fi,14,14.21,22.993,1.79,0.081,Afternoon
+803,59,Female,India,66101,1,1,Waiting Staff,Rural,Tiktok,22,15,6093,Entertainment,16,8875,6,12,26,7,Night,3,7,Entertainment,Smartphone,Macos,21:00:00,5,5,At Home,Mobile Data,21,1.47,403.409,1.73,0.545,Night
+804,34,Female,United States,76378,1,1,Labor/Worker,Urban,Facebook,57,6,2143,Entertainment,11,1295,3,20,31,22,Morning,8,2,Entertainment,Smartphone,Windows,08:00:00,10,0,Commuting,Mobile Data,8,9.5,22.719,5.17,0.351,Morning
+805,22,Female,Philippines,91126,1,1,Students,Rural,Youtube,103,11,9341,Life Hacks,13,1385,4,12,9,46,Evening,6,4,Habit,Smartphone,Windows,14:00:00,8,2,At Home,Mobile Data,14,9.36,13.447,0.82,0.117,Afternoon
+806,46,Male,United States,76071,1,0,Students,Rural,Facebook,270,11,6185,Asmr,29,942,5,27,30,30,Evening,3,7,Boredom,Smartphone,Ios,14:00:00,5,5,At Home,Mobile Data,14,24.55,3.489,2.73,0.1,Afternoon
+807,21,Female,Mexico,91121,1,1,Engineer,Rural,Tiktok,287,18,6011,Jokes/Memes,6,3280,9,6,20,16,Afternoon,8,2,Entertainment,Tablet,Android,17:00:00,10,0,Commuting,Mobile Data,17,15.94,11.429,1.11,0.021,Evening
+808,27,Other,Mexico,94763,1,0,Labor/Worker,Rural,Youtube,214,18,254,Pranks,24,1033,6,27,21,79,Evening,3,7,Procrastination,Computer,Android,14:00:00,5,5,At Home,Mobile Data,14,11.89,4.827,1.17,0.126,Afternoon
+809,34,Male,Brazil,32237,0,1,Artist,Rural,Tiktok,194,10,4103,Life Hacks,1,2786,4,10,29,5,Evening,3,7,Procrastination,Computer,Ios,14:00:00,5,5,At Work,Mobile Data,14,19.4,14.361,2.9,0.052,Afternoon
+810,27,Male,Brazil,35649,0,0,Labor/Worker,Urban,Instagram,184,2,3543,Gaming,21,2233,7,20,25,67,Evening,3,7,Boredom,Smartphone,Ios,14:00:00,5,5,At School,Mobile Data,14,92.0,12.136,12.5,0.109,Afternoon
+811,34,Male,Vietnam,57713,1,1,Manager,Rural,Youtube,78,9,2776,Pranks,19,1620,2,29,38,23,Evening,3,7,Entertainment,Tablet,Ios,14:00:00,5,5,At Work,Mobile Data,14,8.67,20.769,4.22,0.372,Afternoon
+812,37,Male,Germany,93463,1,0,Waiting Staff,Rural,Youtube,113,14,7679,Pranks,12,3535,4,24,44,61,Evening,6,4,Boredom,Smartphone,Android,14:00:00,8,2,At Work,Mobile Data,14,8.07,31.283,3.14,0.212,Afternoon
+813,41,Male,Indonesia,65409,1,1,Labor/Worker,Rural,Facebook,255,19,6213,Gaming,24,3205,5,9,25,74,Night,8,2,Entertainment,Smartphone,Android,21:00:00,10,0,At School,Wi-Fi,21,13.42,12.569,1.32,0.035,Night
+814,22,Other,Indonesia,68766,1,0,Driver,Rural,Youtube,170,10,4638,Gaming,27,2882,4,2,9,5,Evening,3,7,Boredom,Computer,Android,14:00:00,5,5,At Work,Wi-Fi,14,17.0,16.953,0.9,0.012,Afternoon
+815,51,Female,Germany,66154,1,1,Waiting Staff,Urban,Tiktok,209,4,6035,Jokes/Memes,6,170,4,7,39,23,Evening,8,2,Habit,Smartphone,Android,14:00:00,10,0,At Home,Mobile Data,14,52.25,0.813,9.75,0.033,Afternoon
+816,23,Female,Japan,27016,0,0,Labor/Worker,Rural,Facebook,225,6,8458,Jokes/Memes,18,8140,9,9,44,79,Evening,6,4,Habit,Smartphone,Ios,14:00:00,8,2,At Work,Mobile Data,14,37.5,36.178,7.33,0.04,Afternoon
+817,19,Male,Indonesia,99563,1,1,Artist,Urban,Instagram,221,14,6477,Vlogs,13,9745,2,25,26,82,Night,8,2,Boredom,Smartphone,Windows,21:00:00,10,0,At School,Mobile Data,21,15.79,44.095,1.86,0.113,Night
+818,30,Male,Vietnam,68688,1,0,Labor/Worker,Urban,Tiktok,25,4,3149,Jokes/Memes,7,3897,6,12,37,25,Afternoon,6,4,Entertainment,Smartphone,Android,17:00:00,8,2,At School,Mobile Data,17,6.25,155.88,9.25,0.48,Evening
+819,60,Female,Philippines,74238,1,1,Labor/Worker,Urban,Instagram,214,15,3360,Life Hacks,23,9787,8,5,16,8,Morning,3,7,Habit,Smartphone,Windows,08:00:00,5,5,At Home,Mobile Data,8,14.27,45.734,1.07,0.023,Morning
+820,60,Male,Philippines,78608,1,0,Waiting Staff,Rural,Instagram,48,16,1005,Jokes/Memes,13,9815,8,1,37,95,Night,3,7,Procrastination,Smartphone,Ios,21:00:00,5,5,At Home,Mobile Data,21,3.0,204.479,2.31,0.021,Night
+821,28,Female,India,51897,1,1,Driver,Rural,Instagram,98,7,4718,Trends,21,4122,7,22,12,21,Afternoon,3,7,Boredom,Tablet,Android,17:00:00,5,5,Commuting,Wi-Fi,17,14.0,42.061,1.71,0.224,Evening
+822,64,Female,India,70961,1,0,Teacher,Rural,Youtube,265,17,3272,Jokes/Memes,8,5109,4,15,24,2,Afternoon,3,7,Boredom,Smartphone,Android,17:00:00,5,5,Commuting,Mobile Data,17,15.59,19.279,1.41,0.057,Evening
+823,40,Male,Philippines,88703,1,1,Labor/Worker,Rural,Tiktok,263,19,210,Gaming,21,9283,7,8,26,22,Night,3,7,Entertainment,Smartphone,Android,21:00:00,5,5,At Work,Mobile Data,21,13.84,35.297,1.37,0.03,Night
+824,33,Female,United States,64757,1,1,Waiting Staff,Urban,Tiktok,225,19,9080,Gaming,17,2837,6,1,20,72,Afternoon,3,7,Habit,Tablet,Android,17:00:00,5,5,At School,Mobile Data,17,11.84,12.609,1.05,0.004,Evening
+825,48,Other,United States,46917,0,1,Students,Urban,Youtube,181,17,5540,Comedy,9,8599,6,18,9,87,Evening,6,4,Habit,Smartphone,Android,14:00:00,8,2,At School,Mobile Data,14,10.65,47.508,0.53,0.099,Afternoon
+826,28,Male,Germany,42736,0,1,Students,Rural,Facebook,146,6,154,Vlogs,20,5228,2,13,23,96,Night,3,7,Boredom,Smartphone,Android,21:00:00,5,5,Commuting,Mobile Data,21,24.33,35.808,3.83,0.089,Night
+827,33,Other,India,47990,0,0,Waiting Staff,Urban,Instagram,187,11,3594,Asmr,13,4169,8,29,39,72,Evening,3,7,Habit,Tablet,Android,14:00:00,5,5,At Home,Mobile Data,14,17.0,22.294,3.55,0.155,Afternoon
+828,25,Other,India,82551,1,1,Engineer,Urban,Tiktok,86,16,8607,Pranks,2,6721,8,1,29,68,Evening,3,7,Boredom,Smartphone,Ios,14:00:00,5,5,At School,Mobile Data,14,5.38,78.151,1.81,0.012,Afternoon
+829,21,Male,Brazil,78161,1,0,Labor/Worker,Rural,Youtube,197,8,1285,Pranks,4,679,7,5,31,64,Night,8,2,Boredom,Smartphone,Android,21:00:00,10,0,At School,Mobile Data,21,24.62,3.447,3.88,0.025,Night
+830,57,Other,Mexico,99623,1,1,Labor/Worker,Urban,Instagram,24,11,3149,Vlogs,29,7429,9,18,19,94,Afternoon,9,1,Habit,Smartphone,Macos,17:00:00,10,0,At School,Mobile Data,17,2.18,309.542,1.73,0.75,Evening
+831,21,Female,Vietnam,42440,0,0,Waiting Staff,Rural,Facebook,223,7,769,Jokes/Memes,25,5487,8,16,20,19,Afternoon,8,2,Procrastination,Smartphone,Android,17:00:00,10,0,At Home,Mobile Data,17,31.86,24.605,2.86,0.072,Evening
+832,42,Female,Philippines,55205,1,1,Students,Urban,Facebook,217,19,9175,Vlogs,2,236,9,26,23,87,Night,6,4,Habit,Smartphone,Android,21:00:00,8,2,Commuting,Mobile Data,21,11.42,1.088,1.21,0.12,Night
+833,20,Female,Indonesia,75103,1,0,Students,Rural,Instagram,178,10,5608,Entertainment,4,6804,9,10,43,82,Night,3,7,Habit,Smartphone,Macos,21:00:00,5,5,At School,Mobile Data,21,17.8,38.225,4.3,0.056,Night
+834,49,Male,Germany,90812,1,1,Driver,Rural,Facebook,289,9,3203,Jokes/Memes,18,2423,6,4,27,53,Evening,8,2,Boredom,Tablet,Android,14:00:00,10,0,At School,Wi-Fi,14,32.11,8.384,3.0,0.014,Afternoon
+835,20,Other,United States,61627,1,0,Labor/Worker,Rural,Tiktok,155,4,2788,Trends,5,1032,2,1,30,93,Evening,6,4,Entertainment,Tablet,Android,14:00:00,8,2,Commuting,Wi-Fi,14,38.75,6.658,7.5,0.006,Afternoon
+836,44,Male,Philippines,39008,0,1,Engineer,Rural,Tiktok,272,15,2211,Entertainment,19,6339,7,23,21,87,Night,3,7,Habit,Smartphone,Android,21:00:00,5,5,At Home,Mobile Data,21,18.13,23.305,1.4,0.085,Night
+837,46,Female,India,91274,1,0,Waiting Staff,Rural,Tiktok,13,13,9231,Gaming,10,2940,3,8,44,97,Morning,3,7,Boredom,Tablet,Android,08:00:00,5,5,At Home,Mobile Data,8,1.0,226.154,3.38,0.615,Morning
+838,49,Other,Mexico,52402,1,1,Students,Rural,Facebook,99,2,7400,Jokes/Memes,18,5409,7,5,35,52,Evening,3,7,Habit,Computer,Ios,14:00:00,5,5,At Work,Mobile Data,14,49.5,54.636,17.5,0.051,Afternoon
+839,36,Other,India,73384,1,0,Students,Rural,Tiktok,69,2,6339,Life Hacks,25,3132,9,2,49,47,Night,3,7,Habit,Tablet,Android,21:00:00,5,5,At School,Mobile Data,21,34.5,45.391,24.5,0.029,Night
+840,38,Male,Indonesia,25793,0,1,Teacher,Rural,Youtube,25,16,8734,Pranks,21,7080,2,24,7,82,Evening,8,2,Habit,Tablet,Ios,14:00:00,10,0,At Home,Mobile Data,14,1.56,283.2,0.44,0.96,Afternoon
+841,22,Male,India,25571,0,0,Manager,Urban,Tiktok,236,9,359,Jokes/Memes,10,4942,6,17,22,54,Evening,3,7,Boredom,Tablet,Ios,14:00:00,5,5,Commuting,Wi-Fi,14,26.22,20.941,2.44,0.072,Afternoon
+842,35,Female,Brazil,36209,0,1,Students,Rural,Tiktok,38,13,850,Jokes/Memes,5,6961,6,7,10,44,Morning,3,7,Entertainment,Smartphone,Windows,08:00:00,5,5,At Home,Mobile Data,8,2.92,183.184,0.77,0.184,Morning
+843,45,Male,Philippines,63148,1,0,Waiting Staff,Rural,Facebook,160,3,7499,Trends,17,7730,9,17,23,97,Afternoon,8,2,Entertainment,Tablet,Windows,17:00:00,10,0,At School,Mobile Data,17,53.33,48.312,7.67,0.106,Evening
+844,59,Male,Brazil,22224,0,1,Students,Rural,Tiktok,254,9,4523,Life Hacks,22,633,9,28,15,7,Evening,3,7,Habit,Tablet,Windows,14:00:00,5,5,At Home,Mobile Data,14,28.22,2.492,1.67,0.11,Afternoon
+845,39,Male,Vietnam,68695,1,1,Engineer,Urban,Instagram,279,13,2545,Pranks,13,6822,5,6,30,92,Night,3,7,Habit,Tablet,Android,21:00:00,5,5,At School,Wi-Fi,21,21.46,24.452,2.31,0.022,Night
+846,38,Male,Japan,52441,1,1,Students,Rural,Youtube,88,2,1832,Jokes/Memes,23,4103,5,29,34,1,Evening,8,2,Entertainment,Smartphone,Macos,14:00:00,10,0,At Work,Wi-Fi,14,44.0,46.625,17.0,0.33,Afternoon
+847,23,Female,United States,59129,1,1,Waiting Staff,Rural,Facebook,298,8,1473,Entertainment,17,9584,9,22,13,63,Evening,8,2,Entertainment,Smartphone,Android,14:00:00,10,0,At Home,Mobile Data,14,37.25,32.161,1.62,0.074,Afternoon
+848,18,Other,Mexico,82368,1,0,Waiting Staff,Urban,Youtube,162,9,9629,Jokes/Memes,9,6487,8,15,4,98,Morning,8,2,Entertainment,Smartphone,Android,08:00:00,10,0,At School,Wi-Fi,8,18.0,40.043,0.44,0.093,Morning
+849,22,Female,Pakistan,64760,1,1,Artist,Rural,Instagram,286,16,330,Trends,24,3446,7,5,18,39,Night,3,7,Entertainment,Computer,Android,21:00:00,5,5,At School,Mobile Data,21,17.88,12.049,1.12,0.017,Night
+850,58,Other,Pakistan,43478,0,0,Labor/Worker,Urban,Facebook,288,2,5852,Pranks,12,5738,8,15,23,19,Evening,3,7,Habit,Computer,Macos,14:00:00,5,5,At Work,Mobile Data,14,144.0,19.924,11.5,0.052,Afternoon
+851,29,Other,Mexico,91854,1,1,Waiting Staff,Urban,Facebook,66,6,7033,Gaming,14,3098,6,18,33,31,Afternoon,8,2,Procrastination,Tablet,Ios,17:00:00,10,0,Commuting,Mobile Data,17,11.0,46.939,5.5,0.273,Evening
+852,43,Male,India,32180,0,0,Labor/Worker,Rural,Tiktok,195,8,5267,Gaming,14,8097,3,18,34,77,Morning,8,2,Boredom,Tablet,Android,08:00:00,10,0,At Home,Mobile Data,8,24.38,41.523,4.25,0.092,Morning
+853,63,Male,Vietnam,35372,0,1,Students,Rural,Youtube,102,5,4355,Life Hacks,8,5476,7,25,34,24,Afternoon,8,2,Habit,Smartphone,Ios,17:00:00,10,0,At Work,Mobile Data,17,20.4,53.686,6.8,0.245,Evening
+854,51,Male,United States,49796,0,0,Labor/Worker,Rural,Instagram,285,9,6436,Gaming,23,8253,8,21,36,69,Afternoon,3,7,Habit,Smartphone,Ios,17:00:00,5,5,At School,Mobile Data,17,31.67,28.958,4.0,0.074,Evening
+855,31,Male,India,78272,1,1,Students,Urban,Instagram,167,1,7979,Entertainment,5,5181,8,21,35,87,Night,3,7,Habit,Smartphone,Windows,21:00:00,5,5,At School,Mobile Data,21,167.0,31.024,35.0,0.126,Night
+856,43,Female,India,74040,1,0,Students,Rural,Facebook,284,9,4239,Trends,19,1817,1,23,17,83,Morning,3,7,Boredom,Smartphone,Android,08:00:00,5,5,At Home,Mobile Data,8,31.56,6.398,1.89,0.081,Morning
+857,62,Other,United States,95357,1,1,Labor/Worker,Rural,Tiktok,190,10,6113,Jokes/Memes,28,8824,7,6,28,65,Night,8,2,Procrastination,Smartphone,Android,21:00:00,10,0,At Home,Mobile Data,21,19.0,46.442,2.8,0.032,Night
+858,44,Male,Mexico,91368,1,0,Students,Rural,Facebook,86,4,4723,Vlogs,14,4887,3,2,14,33,Morning,8,2,Entertainment,Smartphone,Android,08:00:00,10,0,At School,Wi-Fi,8,21.5,56.826,3.5,0.023,Morning
+859,26,Male,India,98356,1,1,Driver,Rural,Facebook,160,3,1389,Gaming,9,2598,2,27,34,59,Evening,3,7,Procrastination,Tablet,Ios,14:00:00,5,5,At School,Mobile Data,14,53.33,16.238,11.33,0.169,Afternoon
+860,43,Other,Pakistan,36211,0,0,Students,Rural,Facebook,247,10,4186,Vlogs,7,9492,2,17,48,33,Evening,8,2,Habit,Smartphone,Windows,14:00:00,10,0,At Home,Wi-Fi,14,24.7,38.429,4.8,0.069,Afternoon
+861,64,Male,India,25842,0,1,Manager,Urban,Facebook,298,15,8912,Life Hacks,27,2653,8,21,11,32,Morning,3,7,Habit,Smartphone,Macos,08:00:00,5,5,At Home,Mobile Data,8,19.87,8.903,0.73,0.07,Morning
+862,39,Male,Germany,83115,1,0,Engineer,Rural,Instagram,240,11,3236,Vlogs,26,1454,9,4,13,59,Night,3,7,Procrastination,Tablet,Android,21:00:00,5,5,At School,Mobile Data,21,21.82,6.058,1.18,0.017,Night
+863,64,Male,Japan,86852,1,1,Labor/Worker,Rural,Instagram,27,14,4577,Gaming,26,1138,3,12,33,92,Night,6,4,Entertainment,Smartphone,Macos,21:00:00,8,2,At School,Mobile Data,21,1.93,42.148,2.36,0.444,Night
+864,47,Female,Pakistan,65968,1,0,Students,Urban,Facebook,82,6,1101,Entertainment,8,5807,3,19,2,41,Afternoon,8,2,Entertainment,Smartphone,Ios,17:00:00,10,0,At School,Mobile Data,17,13.67,70.817,0.33,0.232,Evening
+865,60,Male,United States,37508,0,1,Students,Rural,Facebook,198,12,8865,Vlogs,14,3192,6,2,34,12,Evening,8,2,Procrastination,Computer,Ios,14:00:00,10,0,At School,Mobile Data,14,16.5,16.121,2.83,0.01,Afternoon
+866,34,Other,Brazil,42005,0,1,Students,Rural,Tiktok,26,13,8709,Vlogs,22,6116,1,26,29,73,Evening,3,7,Entertainment,Smartphone,Ios,14:00:00,5,5,At Home,Wi-Fi,14,2.0,235.231,2.23,1.0,Afternoon
+867,43,Other,Germany,74575,1,1,Students,Rural,Facebook,28,17,2533,Trends,28,3759,6,2,37,11,Night,3,7,Boredom,Tablet,Android,21:00:00,5,5,At School,Wi-Fi,21,1.65,134.25,2.18,0.071,Night
+868,53,Other,Germany,38971,0,1,Waiting Staff,Rural,Instagram,228,16,7771,Entertainment,14,3029,3,14,4,97,Evening,6,4,Entertainment,Computer,Android,14:00:00,8,2,At Work,Mobile Data,14,14.25,13.285,0.25,0.061,Afternoon
+869,18,Female,India,45599,0,0,Waiting Staff,Rural,Youtube,129,3,3671,Trends,11,9552,4,15,12,19,Night,6,4,Procrastination,Tablet,Android,21:00:00,8,2,At Home,Wi-Fi,21,43.0,74.047,4.0,0.116,Night
+870,25,Female,Japan,86914,1,1,Waiting Staff,Rural,Instagram,110,2,782,Asmr,14,5095,9,20,26,54,Night,8,2,Habit,Computer,Android,21:00:00,10,0,At Home,Mobile Data,21,55.0,46.318,13.0,0.182,Night
+871,52,Male,Philippines,87055,1,0,Teacher,Rural,Tiktok,43,11,3524,Vlogs,21,63,3,2,28,57,Night,3,7,Entertainment,Smartphone,Ios,21:00:00,5,5,At Home,Mobile Data,21,3.91,1.465,2.55,0.047,Night
+872,32,Female,Japan,25355,0,1,Artist,Rural,Instagram,93,9,6132,Vlogs,8,1345,1,4,3,42,Evening,3,7,Entertainment,Smartphone,Android,14:00:00,5,5,At Home,Mobile Data,14,10.33,14.462,0.33,0.043,Afternoon
+873,64,Female,United States,74120,1,0,Students,Rural,Youtube,205,3,4783,Jokes/Memes,3,974,3,19,20,98,Afternoon,9,1,Habit,Tablet,Macos,17:00:00,10,0,At Home,Wi-Fi,17,68.33,4.751,6.67,0.093,Evening
+874,39,Female,United States,94619,1,1,Manager,Rural,Facebook,211,18,9782,Vlogs,28,4161,7,9,10,71,Afternoon,6,4,Habit,Tablet,Android,17:00:00,8,2,At School,Wi-Fi,17,11.72,19.72,0.56,0.043,Evening
+875,31,Male,Indonesia,58342,1,0,Waiting Staff,Rural,Youtube,20,15,4996,Gaming,29,5962,7,7,18,31,Evening,6,4,Entertainment,Computer,Android,14:00:00,8,2,At Home,Wi-Fi,14,1.33,298.1,1.2,0.35,Afternoon
+876,43,Female,Pakistan,98860,1,1,Waiting Staff,Rural,Facebook,227,14,1502,Pranks,29,9814,5,13,27,52,Night,8,2,Habit,Tablet,Ios,21:00:00,10,0,At Home,Mobile Data,21,16.21,43.233,1.93,0.057,Night
+877,45,Male,Pakistan,22257,0,0,Waiting Staff,Urban,Facebook,262,2,3081,Asmr,23,8649,1,27,31,2,Afternoon,8,2,Boredom,Tablet,Macos,17:00:00,10,0,At School,Mobile Data,17,131.0,33.011,15.5,0.103,Evening
+878,40,Male,Pakistan,47364,0,1,Waiting Staff,Urban,Instagram,231,17,9269,Asmr,18,6596,8,12,27,83,Evening,3,7,Habit,Smartphone,Ios,14:00:00,5,5,At Home,Wi-Fi,14,13.59,28.554,1.59,0.052,Afternoon
+879,31,Male,Indonesia,44972,0,0,Labor/Worker,Rural,Instagram,89,8,9293,Jokes/Memes,3,3330,8,3,42,38,Afternoon,9,1,Boredom,Smartphone,Android,17:00:00,10,0,At Home,Wi-Fi,17,11.12,37.416,5.25,0.034,Evening
+880,41,Male,Vietnam,46654,0,1,Waiting Staff,Rural,Instagram,16,10,503,Jokes/Memes,13,1740,2,13,1,32,Morning,8,2,Boredom,Smartphone,Android,08:00:00,10,0,At Home,Wi-Fi,8,1.6,108.75,0.1,0.812,Morning
+881,19,Other,India,49320,0,0,Waiting Staff,Rural,Tiktok,281,18,9532,Life Hacks,12,6055,3,15,6,10,Night,3,7,Entertainment,Smartphone,Ios,21:00:00,5,5,At Work,Wi-Fi,21,15.61,21.548,0.33,0.053,Night
+882,62,Male,Japan,40808,0,1,Engineer,Urban,Instagram,236,19,3886,Pranks,15,6321,4,14,11,8,Evening,9,1,Procrastination,Smartphone,Windows,14:00:00,10,0,Commuting,Mobile Data,14,12.42,26.784,0.58,0.059,Afternoon
+883,43,Male,India,72389,1,0,Engineer,Urban,Tiktok,25,8,8010,Trends,18,1954,1,24,34,90,Afternoon,8,2,Entertainment,Smartphone,Android,17:00:00,10,0,At School,Mobile Data,17,3.12,78.16,4.25,0.96,Evening
+884,31,Female,United States,54773,1,1,Cashier,Urban,Instagram,21,8,624,Gaming,5,279,4,9,39,94,Night,8,2,Boredom,Computer,Android,21:00:00,10,0,Commuting,Wi-Fi,21,2.62,13.286,4.88,0.429,Night
+885,24,Female,Japan,71168,1,0,Labor/Worker,Rural,Facebook,250,3,1051,Trends,7,2391,5,13,20,75,Evening,6,4,Procrastination,Smartphone,Windows,14:00:00,8,2,At School,Wi-Fi,14,83.33,9.564,6.67,0.052,Afternoon
+886,20,Other,United States,47747,0,1,Waiting Staff,Rural,Tiktok,30,3,7386,Life Hacks,11,9232,3,23,21,20,Afternoon,3,7,Procrastination,Smartphone,Android,17:00:00,5,5,At School,Mobile Data,17,10.0,307.733,7.0,0.767,Evening
+887,64,Female,Germany,96396,1,1,Waiting Staff,Urban,Youtube,187,12,6082,Asmr,26,6439,2,22,21,20,Morning,8,2,Boredom,Smartphone,Android,08:00:00,10,0,At Work,Mobile Data,8,15.58,34.433,1.75,0.118,Morning
+888,40,Other,India,77505,1,1,Teacher,Rural,Tiktok,237,17,5485,Jokes/Memes,27,961,6,4,18,9,Evening,6,4,Entertainment,Smartphone,Android,14:00:00,8,2,At Home,Mobile Data,14,13.94,4.055,1.06,0.017,Afternoon
+889,63,Female,Brazil,38135,0,1,Labor/Worker,Urban,Tiktok,282,4,3773,Trends,11,6827,8,21,21,72,Evening,3,7,Entertainment,Smartphone,Android,14:00:00,5,5,At Work,Mobile Data,14,70.5,24.209,5.25,0.074,Afternoon
+890,60,Other,Indonesia,67377,1,0,Artist,Rural,Youtube,297,17,3917,Comedy,27,1217,7,8,19,15,Afternoon,6,4,Habit,Tablet,Macos,17:00:00,8,2,At Work,Mobile Data,17,17.47,4.098,1.12,0.027,Evening
+891,64,Female,Mexico,43554,0,1,Waiting Staff,Rural,Tiktok,143,14,4019,Jokes/Memes,15,8566,1,3,4,98,Afternoon,3,7,Boredom,Tablet,Android,17:00:00,5,5,At Home,Wi-Fi,17,10.21,59.902,0.29,0.021,Evening
+892,62,Female,India,82491,1,0,Labor/Worker,Rural,Facebook,292,19,1330,Pranks,10,6007,4,2,13,88,Night,3,7,Habit,Smartphone,Android,21:00:00,5,5,At Home,Mobile Data,21,15.37,20.572,0.68,0.007,Night
+893,35,Female,United States,75621,1,1,Labor/Worker,Rural,Instagram,162,9,4115,Life Hacks,15,4130,3,19,18,97,Evening,8,2,Entertainment,Tablet,Ios,14:00:00,10,0,At Work,Mobile Data,14,18.0,25.494,2.0,0.117,Afternoon
+894,55,Female,Pakistan,78283,1,0,Waiting Staff,Rural,Youtube,75,12,3368,Pranks,13,1392,6,28,29,63,Evening,8,2,Boredom,Tablet,Ios,14:00:00,10,0,At Home,Mobile Data,14,6.25,18.56,2.42,0.373,Afternoon
+895,52,Female,United States,36923,0,1,Cashier,Rural,Instagram,146,5,8096,Pranks,14,2076,9,23,25,91,Night,6,4,Boredom,Smartphone,Macos,21:00:00,8,2,At Work,Mobile Data,21,29.2,14.219,5.0,0.158,Night
+896,32,Male,Philippines,67591,1,0,Waiting Staff,Rural,Facebook,101,11,5142,Life Hacks,17,8966,9,8,13,21,Afternoon,6,4,Boredom,Computer,Ios,17:00:00,8,2,At Home,Mobile Data,17,9.18,88.772,1.18,0.079,Evening
+897,42,Male,United States,82261,1,1,Manager,Rural,Youtube,268,3,3952,Trends,13,4316,7,17,27,5,Afternoon,3,7,Habit,Smartphone,Android,17:00:00,5,5,At School,Mobile Data,17,89.33,16.104,9.0,0.063,Evening
+898,54,Male,United States,74336,1,0,Students,Rural,Instagram,112,15,5085,Life Hacks,10,6196,9,13,19,35,Night,8,2,Habit,Smartphone,Android,21:00:00,10,0,At Work,Wi-Fi,21,7.47,55.321,1.27,0.116,Night
+899,45,Male,Pakistan,94083,1,1,Waiting Staff,Rural,Instagram,64,14,1574,Jokes/Memes,25,4589,8,7,49,85,Afternoon,8,2,Habit,Smartphone,Android,17:00:00,10,0,At School,Mobile Data,17,4.57,71.703,3.5,0.109,Evening
+900,27,Male,Mexico,80948,1,0,Manager,Rural,Facebook,266,11,2635,Gaming,1,8142,5,9,1,68,Evening,6,4,Habit,Smartphone,Android,14:00:00,8,2,Commuting,Wi-Fi,14,24.18,30.609,0.09,0.034,Afternoon
+901,56,Other,Indonesia,53002,1,1,Labor/Worker,Rural,Instagram,110,8,2769,Comedy,1,6260,9,12,38,48,Evening,8,2,Boredom,Computer,Android,14:00:00,10,0,At School,Mobile Data,14,13.75,56.909,4.75,0.109,Afternoon
+902,34,Male,India,93016,1,0,Manager,Rural,Facebook,207,4,5303,Jokes/Memes,15,8471,7,29,19,80,Morning,8,2,Habit,Tablet,Ios,08:00:00,7,3,Commuting,Mobile Data,8,51.75,40.923,4.75,0.14,Morning
+903,56,Other,Pakistan,46672,0,1,Driver,Rural,Tiktok,235,12,6251,Asmr,16,7897,5,14,1,95,Morning,6,4,Habit,Smartphone,Ios,08:00:00,8,2,At Home,Wi-Fi,8,19.58,33.604,0.08,0.06,Morning
+904,39,Male,United States,24213,0,0,Cashier,Rural,Facebook,246,8,1212,Jokes/Memes,12,4841,8,14,40,90,Evening,6,4,Entertainment,Smartphone,Ios,14:00:00,8,2,At Home,Mobile Data,14,30.75,19.679,5.0,0.057,Afternoon
+905,43,Male,Indonesia,30293,0,1,Students,Rural,Tiktok,35,6,8968,Life Hacks,26,7161,7,15,17,62,Afternoon,6,4,Entertainment,Computer,Android,17:00:00,8,2,At School,Mobile Data,17,5.83,204.6,2.83,0.429,Evening
+906,61,Female,United States,75860,1,0,Students,Rural,Youtube,130,15,5956,Gaming,24,9666,9,3,21,35,Morning,3,7,Habit,Smartphone,Windows,08:00:00,5,5,At Home,Mobile Data,8,8.67,74.354,1.4,0.023,Morning
+907,42,Female,Indonesia,82507,1,1,Engineer,Rural,Instagram,191,12,1161,Trends,6,1059,1,15,22,70,Night,3,7,Habit,Smartphone,Ios,21:00:00,5,5,At School,Mobile Data,21,15.92,5.545,1.83,0.079,Night
+908,34,Female,Mexico,77134,1,1,Engineer,Rural,Facebook,208,16,5978,Asmr,6,1922,9,19,15,97,Afternoon,8,2,Habit,Smartphone,Android,17:00:00,10,0,At Home,Wi-Fi,17,13.0,9.24,0.94,0.091,Evening
+909,30,Female,Brazil,22100,0,1,Labor/Worker,Rural,Facebook,264,16,7042,Vlogs,12,6101,7,24,39,21,Morning,3,7,Habit,Tablet,Android,08:00:00,5,5,At School,Mobile Data,8,16.5,23.11,2.44,0.091,Morning
+910,37,Other,United States,81997,1,1,Artist,Urban,Instagram,131,4,2384,Jokes/Memes,25,4592,1,20,48,80,Afternoon,8,2,Entertainment,Smartphone,Windows,17:00:00,10,0,At Home,Mobile Data,17,32.75,35.053,12.0,0.153,Evening
+911,42,Female,Pakistan,48172,0,0,Waiting Staff,Rural,Instagram,40,11,5877,Life Hacks,15,6349,1,14,39,39,Evening,9,1,Boredom,Tablet,Android,14:00:00,10,0,At Home,Mobile Data,14,3.64,158.725,3.55,0.35,Afternoon
+912,21,Other,Indonesia,40132,0,1,Artist,Rural,Youtube,294,13,3541,Jokes/Memes,4,2473,5,8,32,34,Night,8,2,Habit,Smartphone,Android,21:00:00,10,0,At Work,Mobile Data,21,22.62,8.412,2.46,0.027,Night
+913,27,Male,United States,38199,0,0,Students,Urban,Youtube,115,9,4636,Life Hacks,24,8108,8,5,49,15,Night,6,4,Entertainment,Smartphone,Android,21:00:00,8,2,At School,Wi-Fi,21,12.78,70.504,5.44,0.043,Night
+914,20,Male,Vietnam,56609,1,1,Waiting Staff,Rural,Facebook,233,4,1096,Vlogs,4,8096,9,19,4,6,Evening,6,4,Entertainment,Computer,Ios,14:00:00,8,2,At Home,Mobile Data,14,58.25,34.747,1.0,0.082,Afternoon
+915,58,Female,Japan,62965,1,0,Manager,Rural,Youtube,282,12,5902,Life Hacks,2,6748,6,4,44,66,Morning,8,2,Boredom,Smartphone,Ios,08:00:00,10,0,At School,Mobile Data,8,23.5,23.929,3.67,0.014,Morning
+916,62,Female,Philippines,28016,0,1,Labor/Worker,Rural,Tiktok,241,9,8216,Trends,27,4549,8,14,45,88,Evening,8,2,Entertainment,Computer,Ios,14:00:00,10,0,At Home,Wi-Fi,14,26.78,18.876,5.0,0.058,Afternoon
+917,35,Other,United States,59779,1,0,Waiting Staff,Urban,Youtube,265,13,1080,Vlogs,24,594,6,16,32,56,Night,8,2,Habit,Smartphone,Android,21:00:00,10,0,At School,Mobile Data,21,20.38,2.242,2.46,0.06,Night
+918,64,Female,India,51881,1,1,Waiting Staff,Urban,Youtube,33,16,8371,Trends,12,5452,6,20,4,49,Evening,8,2,Entertainment,Smartphone,Windows,14:00:00,10,0,Commuting,Mobile Data,14,2.06,165.212,0.25,0.606,Afternoon
+919,53,Other,Brazil,44472,0,0,Students,Rural,Facebook,118,6,2848,Entertainment,7,506,4,24,1,92,Evening,3,7,Boredom,Tablet,Android,14:00:00,5,5,At Work,Mobile Data,14,19.67,4.288,0.17,0.203,Afternoon
+920,64,Female,Brazil,71813,1,1,Labor/Worker,Rural,Tiktok,200,10,1961,Life Hacks,20,4889,5,6,33,1,Evening,8,2,Habit,Tablet,Windows,14:00:00,10,0,At School,Wi-Fi,14,20.0,24.445,3.3,0.03,Afternoon
+921,39,Male,United States,56021,1,0,Labor/Worker,Urban,Youtube,34,13,1474,Life Hacks,9,7637,2,23,7,65,Night,6,4,Habit,Smartphone,Android,22:15:00,8,2,At Home,Wi-Fi,22,2.62,224.618,0.54,0.676,Night
+922,51,Male,Philippines,74131,1,1,Waiting Staff,Rural,Tiktok,196,7,4889,Pranks,9,8212,3,25,9,28,Afternoon,9,1,Boredom,Tablet,Ios,17:45:00,10,0,At Home,Mobile Data,17,28.0,41.898,1.29,0.128,Evening
+923,64,Female,India,44087,0,0,Students,Rural,Tiktok,297,19,4980,Jokes/Memes,8,1399,3,6,1,20,Evening,9,1,Entertainment,Smartphone,Macos,16:25:00,10,0,At Home,Wi-Fi,16,15.63,4.71,0.05,0.02,Afternoon
+924,25,Female,Mexico,32828,0,1,Waiting Staff,Rural,Tiktok,125,19,1213,Jokes/Memes,14,3201,5,3,16,48,Evening,9,1,Habit,Computer,Windows,16:25:00,10,0,At Home,Mobile Data,16,6.58,25.608,0.84,0.024,Afternoon
+925,57,Other,United States,81610,1,0,Driver,Rural,Instagram,46,17,5698,Pranks,1,7854,5,15,18,72,Night,8,2,Entertainment,Smartphone,Android,22:15:00,10,0,At Home,Mobile Data,22,2.71,170.739,1.06,0.326,Night
+926,61,Male,Pakistan,21401,0,1,Artist,Rural,Instagram,291,13,9002,Entertainment,23,6763,6,29,47,65,Evening,8,2,Habit,Smartphone,Android,16:25:00,10,0,At Work,Wi-Fi,16,22.38,23.241,3.62,0.1,Afternoon
+927,36,Female,Brazil,35193,0,0,Labor/Worker,Rural,Instagram,146,13,420,Jokes/Memes,21,7962,5,3,6,90,Afternoon,8,2,Entertainment,Computer,Android,17:45:00,10,0,At Home,Wi-Fi,17,11.23,54.534,0.46,0.021,Evening
+928,59,Other,United States,64864,1,1,Waiting Staff,Rural,Instagram,236,2,3660,Trends,23,5190,6,11,2,51,Evening,6,4,Procrastination,Computer,Ios,16:25:00,8,2,At Home,Mobile Data,16,118.0,21.992,1.0,0.047,Afternoon
+929,58,Female,United States,40307,0,1,Teacher,Rural,Facebook,191,10,5284,Life Hacks,12,5681,8,3,9,43,Evening,8,2,Entertainment,Smartphone,Ios,16:25:00,10,0,At School,Mobile Data,16,19.1,29.743,0.9,0.016,Afternoon
+930,54,Female,Mexico,39611,0,1,Waiting Staff,Rural,Youtube,95,13,9471,Life Hacks,25,3678,2,28,4,49,Night,8,2,Entertainment,Smartphone,Ios,22:15:00,10,0,At Work,Wi-Fi,22,7.31,38.716,0.31,0.295,Night
+931,23,Male,Mexico,63791,1,1,Driver,Rural,Instagram,62,9,9633,Jokes/Memes,2,336,4,10,45,25,Evening,8,2,Procrastination,Tablet,Android,16:25:00,10,0,Commuting,Wi-Fi,16,6.89,5.419,5.0,0.161,Afternoon
+932,43,Male,India,31950,0,0,Waiting Staff,Rural,Facebook,244,1,1341,Gaming,13,1667,6,18,23,74,Afternoon,3,7,Habit,Smartphone,Ios,17:45:00,5,5,At Work,Wi-Fi,17,244.0,6.832,23.0,0.074,Evening
+933,51,Male,India,96240,1,1,Labor/Worker,Rural,Youtube,276,14,5138,Jokes/Memes,27,909,5,1,43,76,Afternoon,9,1,Habit,Tablet,Android,17:45:00,10,0,At Work,Mobile Data,17,19.71,3.293,3.07,0.004,Evening
+934,62,Male,India,97403,1,0,Students,Rural,Instagram,296,16,5190,Jokes/Memes,4,8467,1,16,45,41,Evening,8,2,Habit,Smartphone,Android,16:25:00,10,0,At Home,Wi-Fi,16,18.5,28.605,2.81,0.054,Afternoon
+935,23,Female,Vietnam,22745,0,1,Students,Rural,Youtube,109,15,1362,Life Hacks,20,9083,9,16,43,71,Afternoon,8,2,Habit,Smartphone,Android,17:45:00,10,0,At School,Wi-Fi,17,7.27,83.33,2.87,0.147,Evening
+936,54,Male,Vietnam,75243,1,0,Labor/Worker,Urban,Instagram,96,1,592,Jokes/Memes,18,8204,3,27,8,64,Night,9,1,Boredom,Tablet,Android,22:15:00,10,0,At School,Mobile Data,22,96.0,85.458,8.0,0.281,Night
+937,50,Other,India,23866,0,1,Labor/Worker,Rural,Facebook,24,17,527,Pranks,19,5122,2,10,39,61,Evening,8,2,Procrastination,Smartphone,Macos,16:25:00,10,0,At Work,Mobile Data,16,1.41,213.417,2.29,0.417,Afternoon
+938,39,Female,India,52245,1,0,Students,Urban,Tiktok,110,13,7856,Gaming,16,8153,9,1,25,12,Evening,3,7,Boredom,Smartphone,Android,16:25:00,5,5,Commuting,Mobile Data,16,8.46,74.118,1.92,0.009,Afternoon
+939,38,Male,India,64724,1,1,Driver,Urban,Tiktok,174,15,1293,Jokes/Memes,27,973,7,4,16,81,Afternoon,3,7,Habit,Computer,Android,17:45:00,5,5,At Home,Mobile Data,17,11.6,5.592,1.07,0.023,Evening
+940,23,Male,Indonesia,91354,1,0,Students,Rural,Youtube,38,16,1655,Jokes/Memes,14,4270,5,3,35,69,Afternoon,8,2,Procrastination,Tablet,Macos,17:45:00,10,0,At School,Wi-Fi,17,2.38,112.368,2.19,0.079,Evening
+941,23,Male,Mexico,71374,1,1,Labor/Worker,Rural,Facebook,123,16,188,Trends,29,1408,6,5,17,14,Afternoon,3,7,Habit,Smartphone,Ios,17:45:00,5,5,At Home,Wi-Fi,17,7.69,11.447,1.06,0.041,Evening
+942,21,Male,Philippines,50116,1,0,Labor/Worker,Rural,Tiktok,116,2,2759,Pranks,8,2288,4,12,18,34,Afternoon,8,2,Boredom,Tablet,Windows,17:45:00,10,0,At Work,Mobile Data,17,58.0,19.724,9.0,0.103,Evening
+943,47,Female,Vietnam,40447,0,1,Waiting Staff,Rural,Instagram,139,17,8721,Vlogs,12,8738,1,25,27,48,Evening,3,7,Habit,Smartphone,Android,16:25:00,5,5,At School,Mobile Data,16,8.18,62.863,1.59,0.18,Afternoon
+944,28,Female,Pakistan,50431,1,0,Labor/Worker,Rural,Tiktok,93,11,8626,Asmr,9,1218,4,12,15,61,Night,8,2,Entertainment,Smartphone,Windows,22:15:00,10,0,At School,Mobile Data,22,8.45,13.097,1.36,0.129,Night
+945,47,Other,Indonesia,37908,0,1,Labor/Worker,Rural,Youtube,280,8,6432,Asmr,6,1420,9,13,17,81,Evening,8,2,Habit,Smartphone,Windows,16:25:00,10,0,At Home,Mobile Data,16,35.0,5.071,2.12,0.046,Afternoon
+946,48,Female,United States,49336,0,0,Manager,Rural,Youtube,253,3,6038,Asmr,26,9646,1,24,43,35,Afternoon,6,4,Habit,Tablet,Android,17:45:00,8,2,Commuting,Mobile Data,17,84.33,38.126,14.33,0.095,Evening
+947,41,Male,United States,60992,1,1,Cashier,Urban,Facebook,223,12,9997,Asmr,18,3377,3,12,5,65,Night,8,2,Boredom,Smartphone,Macos,22:15:00,10,0,At Work,Mobile Data,22,18.58,15.143,0.42,0.054,Night
+948,26,Other,India,75350,1,0,Labor/Worker,Rural,Youtube,175,16,8495,Life Hacks,2,7501,5,25,16,59,Afternoon,8,2,Boredom,Smartphone,Android,17:45:00,10,0,At Home,Mobile Data,17,10.94,42.863,1.0,0.143,Evening
+949,20,Male,Philippines,89561,1,1,Manager,Rural,Tiktok,288,14,4183,Gaming,23,4098,7,16,15,36,Evening,8,2,Boredom,Smartphone,Android,16:25:00,10,0,At School,Mobile Data,16,20.57,14.229,1.07,0.056,Afternoon
+950,48,Male,United States,71955,1,1,Cashier,Rural,Tiktok,68,16,6974,Life Hacks,8,2738,9,13,42,79,Evening,3,7,Entertainment,Smartphone,Ios,16:25:00,5,5,At Home,Wi-Fi,16,4.25,40.265,2.62,0.191,Afternoon
+951,57,Male,Brazil,81240,1,1,Artist,Rural,Tiktok,99,17,438,Pranks,24,7619,6,5,46,19,Night,8,2,Boredom,Tablet,Macos,22:15:00,10,0,At Work,Mobile Data,22,5.82,76.96,2.71,0.051,Night
+952,54,Male,India,40093,0,1,Driver,Rural,Tiktok,203,11,833,Pranks,14,1842,3,24,34,42,Night,9,1,Habit,Smartphone,Ios,22:15:00,10,0,At Home,Wi-Fi,22,18.45,9.074,3.09,0.118,Night
+953,53,Female,Brazil,26155,0,0,Driver,Urban,Facebook,132,17,8989,Trends,6,8938,7,4,48,69,Evening,3,7,Boredom,Tablet,Windows,16:25:00,5,5,At School,Mobile Data,16,7.76,67.712,2.82,0.03,Afternoon
+954,41,Female,India,66607,1,1,Driver,Rural,Instagram,145,19,8752,Comedy,10,2816,4,21,19,19,Night,3,7,Boredom,Smartphone,Ios,22:15:00,5,5,At Work,Mobile Data,22,7.63,19.421,1.0,0.145,Night
+955,48,Male,India,53487,1,0,Teacher,Rural,Instagram,148,1,8954,Entertainment,8,9063,3,15,8,39,Evening,3,7,Habit,Smartphone,Ios,16:25:00,5,5,At Work,Wi-Fi,16,148.0,61.236,8.0,0.101,Afternoon
+956,23,Male,United States,75668,1,1,Cashier,Rural,Facebook,238,12,5795,Vlogs,17,494,7,12,47,69,Evening,8,2,Entertainment,Smartphone,Android,16:25:00,10,0,At Home,Mobile Data,16,19.83,2.076,3.92,0.05,Afternoon
+957,19,Male,India,40963,0,0,Cashier,Rural,Youtube,283,15,3575,Pranks,25,6560,7,19,10,52,Evening,6,4,Entertainment,Computer,Android,16:25:00,8,2,Commuting,Mobile Data,16,18.87,23.18,0.67,0.067,Afternoon
+958,37,Male,Germany,70124,1,1,Artist,Urban,Instagram,59,18,3786,Jokes/Memes,29,5510,4,21,5,12,Afternoon,8,2,Habit,Smartphone,Ios,17:45:00,10,0,At School,Mobile Data,17,3.28,93.39,0.28,0.356,Evening
+959,45,Other,Vietnam,72870,1,0,Labor/Worker,Rural,Youtube,127,14,5221,Vlogs,12,3444,7,28,48,83,Morning,8,2,Boredom,Smartphone,Android,09:55:00,10,0,At School,Mobile Data,9,9.07,27.118,3.43,0.22,Morning
+960,28,Male,Germany,76547,1,1,Driver,Urban,Instagram,211,1,7751,Life Hacks,17,9267,2,19,26,47,Evening,8,2,Habit,Smartphone,Android,16:25:00,10,0,At School,Wi-Fi,16,211.0,43.919,26.0,0.09,Afternoon
+961,21,Female,Germany,84110,1,0,Manager,Rural,Youtube,200,13,6819,Life Hacks,13,7543,1,21,22,76,Afternoon,3,7,Boredom,Tablet,Windows,17:45:00,5,5,At Home,Mobile Data,17,15.38,37.715,1.69,0.105,Evening
+962,32,Male,Japan,73554,1,1,Students,Rural,Facebook,190,15,685,Pranks,19,7562,2,11,44,36,Afternoon,3,7,Procrastination,Tablet,Android,17:45:00,5,5,At Work,Mobile Data,17,12.67,39.8,2.93,0.058,Evening
+963,23,Other,Vietnam,40936,0,0,Students,Urban,Tiktok,87,7,4234,Trends,12,3994,4,21,23,63,Afternoon,8,2,Habit,Tablet,Android,17:45:00,10,0,At School,Wi-Fi,17,12.43,45.908,3.29,0.241,Evening
+964,47,Male,Indonesia,24426,0,1,Waiting Staff,Rural,Youtube,84,15,578,Gaming,16,7253,8,6,13,76,Evening,3,7,Boredom,Computer,Ios,16:25:00,5,5,At Home,Mobile Data,16,5.6,86.345,0.87,0.071,Afternoon
+965,55,Female,Philippines,47606,0,0,Students,Rural,Tiktok,290,10,8008,Entertainment,25,45,3,9,9,82,Afternoon,3,7,Boredom,Smartphone,Ios,17:45:00,5,5,At Home,Mobile Data,17,29.0,0.155,0.9,0.031,Evening
+966,19,Male,India,67832,1,1,Students,Rural,Youtube,30,14,228,Gaming,27,2057,6,1,49,51,Night,3,7,Entertainment,Smartphone,Ios,22:15:00,5,5,Commuting,Mobile Data,22,2.14,68.567,3.5,0.033,Night
+967,32,Female,India,48151,0,0,Driver,Rural,Youtube,180,6,2329,Asmr,5,663,6,12,20,43,Night,3,7,Habit,Tablet,Android,22:15:00,5,5,Commuting,Mobile Data,22,30.0,3.683,3.33,0.067,Night
+968,28,Male,Indonesia,99303,1,1,Students,Rural,Youtube,24,14,2732,Life Hacks,25,4668,9,26,28,34,Evening,6,4,Habit,Smartphone,Android,16:25:00,8,2,At School,Mobile Data,16,1.71,194.5,2.0,1.083,Afternoon
+969,25,Female,United States,31308,0,0,Waiting Staff,Rural,Youtube,220,12,9020,Gaming,16,2029,9,14,44,97,Morning,8,2,Boredom,Smartphone,Macos,09:55:00,8,2,At School,Mobile Data,9,18.33,9.223,3.67,0.064,Morning
+970,43,Female,United States,82522,1,1,Students,Urban,Youtube,57,11,431,Entertainment,25,5717,4,6,37,49,Night,8,2,Habit,Computer,Android,22:15:00,10,0,At Home,Mobile Data,22,5.18,100.298,3.36,0.105,Night
+971,62,Female,Germany,65671,1,1,Students,Rural,Tiktok,95,19,9256,Gaming,6,2696,9,1,24,18,Night,9,1,Entertainment,Smartphone,Macos,22:15:00,10,0,At Home,Wi-Fi,22,5.0,28.379,1.26,0.011,Night
+972,61,Other,Indonesia,22204,0,1,Artist,Rural,Youtube,158,2,1710,Entertainment,11,8831,6,22,44,61,Evening,3,7,Boredom,Computer,Macos,16:25:00,5,5,At Work,Mobile Data,16,79.0,55.892,22.0,0.139,Afternoon
+973,22,Female,Vietnam,51131,1,1,Driver,Rural,Tiktok,197,1,5783,Jokes/Memes,17,2663,2,2,33,57,Night,8,2,Entertainment,Smartphone,Ios,22:15:00,10,0,At Home,Mobile Data,22,197.0,13.518,33.0,0.01,Night
+974,23,Female,Germany,72428,1,0,Teacher,Urban,Facebook,160,8,1235,Jokes/Memes,26,2745,6,24,20,93,Night,6,4,Habit,Smartphone,Android,22:15:00,8,2,At School,Mobile Data,22,20.0,17.156,2.5,0.15,Night
+975,43,Female,Brazil,53870,1,1,Students,Rural,Instagram,150,14,8494,Vlogs,23,5004,2,11,48,5,Night,6,4,Boredom,Smartphone,Ios,22:15:00,8,2,At School,Wi-Fi,22,10.71,33.36,3.43,0.073,Night
+976,21,Male,Japan,69067,1,0,Engineer,Rural,Youtube,78,9,5206,Asmr,14,6321,8,3,30,89,Evening,8,2,Boredom,Smartphone,Ios,16:25:00,10,0,At School,Mobile Data,16,8.67,81.038,3.33,0.038,Afternoon
+977,36,Male,Pakistan,78585,1,1,Students,Rural,Instagram,269,2,1421,Entertainment,6,5125,4,10,44,24,Evening,3,7,Habit,Smartphone,Ios,16:25:00,5,5,At Home,Mobile Data,16,134.5,19.052,22.0,0.037,Afternoon
+978,37,Male,United States,41607,0,0,Driver,Rural,Tiktok,18,5,769,Pranks,25,4948,5,6,9,93,Evening,3,7,Procrastination,Smartphone,Windows,16:25:00,5,5,At Home,Mobile Data,16,3.6,274.889,1.8,0.333,Afternoon
+979,50,Female,Japan,44968,0,1,Waiting Staff,Rural,Facebook,130,8,6035,Jokes/Memes,23,4402,8,6,45,64,Morning,8,2,Habit,Tablet,Windows,09:55:00,10,0,Commuting,Wi-Fi,9,16.25,33.862,5.62,0.046,Morning
+980,37,Female,United States,31908,0,0,Labor/Worker,Rural,Facebook,110,16,9597,Gaming,28,3427,8,20,49,59,Evening,3,7,Habit,Smartphone,Android,16:25:00,5,5,At Home,Mobile Data,16,6.88,31.155,3.06,0.182,Afternoon
+981,29,Male,Philippines,46423,0,1,Driver,Rural,Facebook,158,16,8636,Gaming,11,5912,6,21,17,38,Evening,9,1,Boredom,Tablet,Android,16:25:00,10,0,At School,Mobile Data,16,9.88,37.418,1.06,0.133,Afternoon
+982,64,Female,Pakistan,94707,1,0,Labor/Worker,Rural,Instagram,155,13,3105,Life Hacks,12,394,4,2,36,33,Evening,8,2,Boredom,Smartphone,Macos,16:25:00,10,0,At Work,Mobile Data,16,11.92,2.542,2.77,0.013,Afternoon
+983,18,Female,India,98257,1,1,Students,Urban,Tiktok,252,15,4356,Life Hacks,13,3597,1,26,14,10,Afternoon,6,4,Boredom,Smartphone,Android,17:45:00,8,2,At Home,Mobile Data,17,16.8,14.274,0.93,0.103,Evening
+984,43,Female,India,81215,1,0,Labor/Worker,Rural,Youtube,250,1,3306,Asmr,4,329,7,26,19,37,Evening,6,4,Procrastination,Tablet,Ios,16:25:00,8,2,At School,Wi-Fi,16,250.0,1.316,19.0,0.104,Afternoon
+985,31,Female,Philippines,75835,1,1,Students,Rural,Youtube,52,3,1539,Gaming,7,772,8,24,7,97,Night,6,4,Habit,Tablet,Ios,22:15:00,8,2,At Home,Wi-Fi,22,17.33,14.846,2.33,0.462,Night
+986,55,Female,Germany,69429,1,0,Students,Rural,Tiktok,104,6,1332,Trends,2,8135,9,10,3,87,Night,3,7,Boredom,Tablet,Android,22:15:00,5,5,Commuting,Mobile Data,22,17.33,78.221,0.5,0.096,Night
+987,54,Other,India,58458,1,1,Driver,Rural,Instagram,235,14,8169,Jokes/Memes,6,1645,2,23,33,11,Night,8,2,Boredom,Smartphone,Ios,22:15:00,10,0,At Work,Wi-Fi,22,16.79,7.0,2.36,0.098,Night
+988,28,Female,Indonesia,66169,1,0,Artist,Urban,Youtube,15,4,6940,Life Hacks,6,9924,1,26,44,24,Evening,6,4,Entertainment,Tablet,Windows,16:25:00,8,2,Commuting,Mobile Data,16,3.75,661.6,11.0,1.733,Afternoon
+989,53,Male,Philippines,27659,0,1,Labor/Worker,Urban,Tiktok,223,18,8262,Vlogs,18,1787,4,6,32,88,Morning,6,4,Habit,Smartphone,Android,09:55:00,8,2,At School,Mobile Data,9,12.39,8.013,1.78,0.027,Morning
+990,30,Male,Indonesia,80614,1,0,Labor/Worker,Rural,Youtube,215,15,5559,Trends,20,9815,5,23,47,71,Evening,6,4,Boredom,Tablet,Android,16:25:00,8,2,At Work,Wi-Fi,16,14.33,45.651,3.13,0.107,Afternoon
+991,60,Female,India,97240,1,1,Labor/Worker,Urban,Facebook,76,9,5945,Jokes/Memes,8,999,1,28,11,21,Afternoon,3,7,Habit,Smartphone,Macos,17:45:00,5,5,At Home,Wi-Fi,17,8.44,13.145,1.22,0.368,Evening
+992,20,Other,Germany,52793,1,1,Artist,Urban,Youtube,109,18,7127,Vlogs,8,1848,5,17,42,20,Afternoon,8,2,Boredom,Smartphone,Macos,17:45:00,10,0,Commuting,Mobile Data,17,6.06,16.954,2.33,0.156,Evening
+993,50,Male,Philippines,66473,1,1,Teacher,Rural,Instagram,21,3,481,Life Hacks,29,1561,6,14,2,10,Night,8,2,Procrastination,Tablet,Windows,22:15:00,10,0,Commuting,Mobile Data,22,7.0,74.333,0.67,0.667,Night
+994,23,Female,India,75751,1,1,Students,Urban,Tiktok,246,10,5264,Asmr,8,773,3,5,26,89,Night,8,2,Habit,Computer,Android,22:15:00,10,0,Commuting,Mobile Data,22,24.6,3.142,2.6,0.02,Night
+995,27,Male,United States,98915,1,0,Waiting Staff,Urban,Instagram,267,17,4095,Jokes/Memes,8,7311,7,23,4,47,Night,8,2,Procrastination,Computer,Ios,22:15:00,10,0,Commuting,Mobile Data,22,15.71,27.382,0.24,0.086,Night
+996,22,Male,India,74254,1,1,Students,Rural,Tiktok,144,7,6168,Gaming,1,5179,6,17,17,47,Afternoon,9,1,Procrastination,Smartphone,Ios,17:45:00,10,0,At Work,Mobile Data,17,20.57,35.965,2.43,0.118,Evening
+997,40,Female,Pakistan,27006,0,0,Waiting Staff,Urban,Facebook,231,15,2794,Life Hacks,2,1803,4,2,17,15,Night,8,2,Boredom,Smartphone,Macos,22:15:00,10,0,At Home,Mobile Data,22,15.4,7.805,1.13,0.009,Night
+998,27,Male,India,94218,1,1,Waiting Staff,Rural,Tiktok,165,1,2893,Pranks,12,9290,3,9,28,44,Night,9,1,Procrastination,Smartphone,Ios,22:15:00,10,0,Commuting,Mobile Data,22,165.0,56.303,28.0,0.055,Night
+999,61,Male,Pakistan,85344,1,0,Students,Urban,Youtube,151,11,1199,Life Hacks,15,2050,5,12,30,62,Night,3,7,Procrastination,Smartphone,Macos,22:15:00,5,5,At Work,Wi-Fi,22,13.73,13.576,2.73,0.079,Night
+1000,19,Male,India,53840,1,1,Driver,Urban,Youtube,167,17,8012,Pranks,4,9790,3,19,40,6,Evening,6,4,Procrastination,Smartphone,Android,16:25:00,8,2,At Home,Mobile Data,16,9.82,58.623,2.35,0.114,Afternoon
