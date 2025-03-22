@@ -5,16 +5,17 @@ Welcome to our project! This guide will help you install the necessary tools, cl
 ---
 
 ## Table of Contents
-1. [Install VSCode](#install-vscode)
-2. [Install Git](#install-git)
-3. [Set Up GitHub & VSCode Integration](#set-up-github--vscode-integration)
-4. [Clone the Repository](#clone-the-repository)
-5. [Create & Activate a Virtual Environment](#create--activate-a-virtual-environment)
-6. [Run `startup.py`](#run-startuppy)
-7. [Basic GitHub Workflow (Branching, Pull Requests, Syncing)](#basic-github-workflow-branching-pull-requests-syncing)
-8. [Additional Resources](#additional-resources)
+1. [Install VSCode](#VSCode)
+2. [Install Git](#Git)
+3. [Set Up GitHub & VSCode Integration](#SetUp)
+4. [Clone the Repository](#Clone)
+5. [Create & Activate a Virtual Environment](#Create)
+6. [Run `startup.py`](#StartUp)
+7. [Basic GitHub Workflow (Branching, Pull Requests, Syncing)](#Basic)
+8. [Additional Resources](#Add)
 
 ---
+<div id='VSCode'/>
 
 ## 1. Install VSCode
 
@@ -24,6 +25,7 @@ Welcome to our project! This guide will help you install the necessary tools, cl
 > **Tip:** VSCode has an integrated terminal. You can open it via **View > Terminal** or using **Ctrl+Shift+~** (Windows) or **Cmd+Shift+~** (macOS).
 
 ---
+<div id='Git'/>
 
 ## 2. Install Git
 
@@ -39,6 +41,8 @@ Welcome to our project! This guide will help you install the necessary tools, cl
     * **Windows:** [Download Git for Windows](https://git-scm.com/downloads/win) and follow the installer prompts.
     * **macOS:** [Download Git for Mac](https://git-scm.com/download/mac) or install via Homebrew (`brew install git`)
 
+<div id='SetUp'/>
+
 ## 3. Set Up GitHub & VSCode Integration
 
 VSCode comes with built-in Git integration. To enhance GitHub support (like Pull Requests, Issues, etc.):
@@ -52,6 +56,8 @@ VSCode comes with built-in Git integration. To enhance GitHub support (like Pull
 If you want a quick tutorial on using Git in VSCode, check out:
 * [Using Git & GitHub in VSCode (Intro)](https://youtu.be/z5jZ9lrSpqk?si=BeTU7jLE9cCjh0YQ)
 * [Using Git & GitHub in VSCode (Branches, PRs & Merges)](https://youtu.be/Dedz4gRHezg?si=hj96eMzawNB-e4BO)
+
+<div id='Clone'/>
 
 ## 4. Clone the Repository
 Instead of manually typing commands, you can use VSCode's **Command Palette:**
@@ -71,6 +77,8 @@ git clone https://github.com/YourUsername/RepoName.git
 cd RepoName
 code .
 ```
+<div id='Create'/>
+
 ## 5. Create & Activate a Virtual Environment
 A virtual environment ensures everyone uses the **same Python packages:**
 
@@ -93,6 +101,8 @@ A virtual environment ensures everyone uses the **same Python packages:**
     ```
 You should see `(venv)` in your terminal prompt, indicating the environment is active.
 
+<div id='StartUp'/>
+
 ## 6. Run `startup.py`
 We have a **startup script** to install required libraries:
 
@@ -104,6 +114,8 @@ python startup.py
     * Install all packages listed in `requirements.txt`
     * Print any helpful messages if somethng goes wrong.
 > **Pro Tip:** If you see a warning that you are not in a virtual environment, simply activate the environment (see step 5) and re-run `startup.py`.
+
+<div id='Basic'/>
 
 ## 7. Basic GitHub Workflow (Branching, Pull Requests, Synching)
 ### 7.1 Creating a Branch
@@ -147,6 +159,8 @@ To sync your local code with the main repository:
     git pull origin main
 If your local code conflicts with changes on GitHub, Git will guide you through resolving merge conflicts.
 > **Video:** For more on branches, PRs, merges, see [Using Git & GitHub in VSCode (Branches, PRs, & Merges)](https://youtu.be/Dedz4gRHezg?si=hj96eMzawNB-e4BO).
+
+<div id='Add'/>
 
 ## 8. Additional Resources
 * **Git**
