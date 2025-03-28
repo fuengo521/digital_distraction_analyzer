@@ -10,6 +10,7 @@ def load_and_clean_data(filepath):
     
     df = pd.read_csv(filepath)
     df = df.drop_duplicates()
+    df = df.drop(['Frequency', 'Video ID'], axis = 1)
     
     # Standardize
     df['Gender'] = df['Gender'].str.strip().str.title()
@@ -18,7 +19,6 @@ def load_and_clean_data(filepath):
     df['Demographics'] = df['Demographics'].str.strip().str.title()
     df['Platform'] = df['Platform'].str.strip().str.title()
     df['Video Category'] = df['Video Category'].str.strip().str.title()
-    df['Frequency'] = df['Frequency'].str.strip().str.title()
     df['Watch Reason'] = df['Watch Reason'].str.strip().str.title()
     df['DeviceType'] = df['DeviceType'].str.strip().str.title()
     df['OS'] = df['OS'].str.strip().str.title()
